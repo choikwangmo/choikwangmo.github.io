@@ -113,7 +113,7 @@ Republic of Korea Fire Service Personnel Metadata Extractor — kimseungryong(�
 |-------------------------------------|-----------:|--------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------|-----------------------------|
 | Lee Young-pal (이영팔)               | 0.78       | incident_command; interagency_op; policy_reform        | Incident massing focus vs. Kim’s equipment–training–data–climate ribbing | Session synthesis; corpus media references          | National field leadership   |
 | Heo Seok-gon (허석곤)                 | 0.66       | promotion_event; policy_reform; interagency_op         | Commissioner-level governance vs. Kim’s acting tenure        | Session synthesis                                    | Leadership transition       |
-| Choi Kwang-mo (최광모)               | 0.42       | training_exercise; public_safety_education; interagency_op | Education/exhibit leadership vs. national command            | Session synthesis                                    | Public safety education     |
+| [Joo Young-guk (주영국)](./jooyoungkuk.md)               | 0.42       | training_exercise; public_safety_education; interagency_op | Education/exhibit leadership vs. national command            | Session synthesis                                    | Public safety education     |
 
 ### B9) Incident table
 | incident_name            | date_range                      | type | ICS_role                          | command_level | location                  | actions                                                     | outcome                                           | source                           | confidence |
