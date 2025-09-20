@@ -23,7 +23,7 @@ All materials are explicitly released into the **public domain** under the terms
 
 Below are entry-point documents you can begin with. Each link points to another page in this archive:
 
-- [jooyoungkuk](./jooyoungkuk.md)
+- [jooyoungkuk](jooyoungkuk.md)
 - [kimseungryong](kimseungryong.md)
 ---
 
