@@ -1,205 +1,201 @@
-\==================== OUTPUT START ====================
+Republic of Korea Fire Service Personnel Metadata Extractor — kimseungryong(김승룡)
 
-Part A. Reader-friendly summary
+## Part A. Reader-friendly summary
+- Snapshot:
+  - Kim Seung-ryong is Deputy Commissioner of the National Fire Agency (소방청) as of 2025-09-16 and concurrently served as Acting Commissioner upon appointment following a leadership vacancy. He is recognized for logistics-centric command under climate stress, notably the multi-week potable-water shuttle during the 2025 Gangneung (강릉) drought. Primary duties span national policy oversight, interagency coordination, and support to ~60,000 firefighters across ~240 stations.
+- Identity and identifiers:
+  - Name: Kim Seung-ryong; Birth: 1967-03-21, Iksan (익산), Jeonbuk (전북); Nationality: Republic of Korea.
+  - Education: Wonkwang High School; Hankuk University of Foreign Studies (German Studies, BA); University of Seoul — Graduate School of Urban Science (Disaster Prevention Engineering, MS); Hanyang University Graduate School (Public Administration, doctoral coursework completed).
+- Life and career timeline:
+  - 1997-02: Commissioned via Fire Officer Cadet Class 9; frontline postings at Yongsan, Songpa, Gangnam, Jungnang (Seoul).
+  - 2019-09: Director, Fire Response Investigation Division (inferred rank elevation).
+  - 2021-02-11: Chief, Jeonbuk Fire HQ (전라북도 소방본부).
+  - 2022-01: Fire Policy Officer, Ministry of the Interior and Safety (행정안전부).
+  - 2022-05: Spokesperson, National Fire Agency (소방청).
+  - 2023-03: Director-General, Equipment & Technology Bureau, NFA.
+  - 2024-01: 35th President, Central Fire Service Academy (중앙소방학교).
+  - 2025-01-13: Chief, Gangwon Special Self-Governing Province Fire HQ (강원특별자치도 소방본부).
+  - 2025-09-16: Deputy Commissioner (소방정감), National Fire Agency; Acting Commissioner upon appointment.
+- Ranks, posts, and personnel actions:
+  - Probable elevation to senior officer upon division directorship (2019-09); promoted to Commissioner grade with Jeonbuk Fire HQ appointment (2021-02-11); promoted to Fire Superintendent General with NFA Deputy Commissioner appointment (2025-09-16).
+- Affiliations and ICS chain:
+  - Works for National Fire Agency (소방청); reports within the Government via Ministry of the Interior and Safety (행정안전부).
+  - ICS roles exercised: IncidentCommander (provincial), Logistics (sustained convoy operations), PIO (as NFA Spokesperson).
+- Major responses and incidents:
+  - Gangneung Drought 2025: ~893 engines/tankers; 1,707 personnel; >14 days; ~30,000 tons delivered to treatment plants and nodes; integrated Volunteer Fire Brigade (의용소방대) for bottled-water distribution; message: “Every drop we deliver is lifesaving water.”
+- Outputs, guidelines, and presentations:
+  - Academy tenure emphasized hands-on simulation and standardization across regional fire schools; technology directorate advanced modernization and AI-assisted forecasting pilots.
+- Media and platforms:
+  - Government Policy Briefing confirming appointment; coverage by KBS News, Chosun Ilbo, Newsis, SafeToday.
+- Concepts and keywords:
+  - promotion_event; incident_command; interagency_op; policy_reform; climate_adaptation; data_driven_prevention; training_doctrine.
+- Network and collaboration:
+  - Municipal/provincial governments; Volunteer Fire Brigade (의용소방대); Korea Adaptation Center for Climate Change (한국기후변화연구원) MOU.
+- Issues, controversies, and follow-up improvements:
+  - Acting role initiated during leadership suspensions tied to a special prosecutor probe; raised discussions on tenure safeguards and continuity planning.
+- Comparative peer benchmark:
+  - Lee Young-pal (이영팔): incident-massing and doctrine spine vs. Kim’s equipment–training–data–climate ribbing; complementary axes for national resilience.
+- Recognition, reputation, decorations:
+  - Public framing as “problem-solver at the scene” during drought response; specific decorations: Unknown.
+- Law/standards/guidance mapping:
+  - ICS localized to Korean terrain/road networks; communications modernization trajectory toward PS-LTE/UHF hybrid doctrine (policy need).
+- Data quality and ambiguity:
+  - Some rank transitions inferred from posts; dates otherwise anchored to appointment lines and press coverage.
+- Similarity archetype juxtaposition (if enabled):
+  - Weights {state:0.35, event:0.30, network:0.15, concept:0.10, geo:0.07, media:0.03}; nearest peer: Lee Young-pal (이영팔); secondary: Heo Seok-gon (허석곤); tertiary: Choi Kwang-mo (최광모).
 
-* Snapshot:
+## Part B. Summary tables
 
-  * Kim Seung-ryong is the Deputy Commissioner (Fire Superintendent General) of the National Fire Agency (NFA), Republic of Korea, appointed on 16 September 2025 and concurrently designated Acting Commissioner due to a leadership vacancy. His career blends frontline command, national policy, technology modernization, and training doctrine, with a signature emphasis on logistics-centric operations under climate stress.
-* Identity and identifiers:
+### B1) Entity table
+| type        | label_ko (romanized only)                 | label_en                                                     | alias    | abbr | internal_id              | external_ids | sameAs                                                                                     | notes |
+|-------------|-------------------------------------------|--------------------------------------------------------------|----------|------|--------------------------|--------------|--------------------------------------------------------------------------------------------|-------|
+| Person      | Kim Seung-ryong                           | Kim Seung-ryong                                              | K. S. R. | NFA  | person:kim_seung_ryong   | Unknown      | Unknown                                                                                   | Primary identity per official briefing. |
+| Organization| Gukga Sobang Cheong                       | National Fire Agency (소방청)                                 | NFA      | NFA  | org:nfa                  | Unknown      | https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469                           | Central fire authority. |
+| Organization| Haengjeong Anjeon-bu                      | Ministry of the Interior and Safety (행정안전부)               | MOIS     | MOIS | org:mois                 | Unknown      | Unknown                                                                                   | Parent ministry. |
+| Organization| Gangwon Teukbyeol Jachido Sobang Bonbu    | Gangwon Special Self-Governing Province Fire HQ (강원특별자치도 소방본부) | GFHQ     | GFHQ | org:gf_hq                | Unknown      | Unknown                                                                                   | Provincial HQ. |
+| Organization| Jungang Sobang Hakgyo                     | Central Fire Service Academy (중앙소방학교)                    | CFSA     | CFSA | org:cfsa                 | Unknown      | Unknown                                                                                   | National training academy. |
+| Place       | Iksan                                     | Iksan (익산)                                                  | —        | —    | place:iksan              | Unknown      | https://en.wikipedia.org/wiki/Iksan                                                       | Birthplace. |
+| Place       | Gangneung                                 | Gangneung (강릉)                                              | —        | —    | place:gangneung          | Unknown      | https://en.wikipedia.org/wiki/Gangneung                                                   | Drought operation locus. |
+| Place       | Sejong                                    | Sejong (세종)                                                  | —        | —    | place:sejong             | Unknown      | https://en.wikipedia.org/wiki/Sejong_City                                                 | NFA HQ city. |
 
-  * Name: Kim Seung-ryong (romanized)
-  * Birth: 21 March 1967; birthplace: Iksan, Jeonbuk (Republic of Korea)
-  * Education: Wonkwang High School; Hankuk University of Foreign Studies (German Studies, BA); University of Seoul Graduate School of Urban Science (MS, Disaster Prevention Engineering); Hanyang University Graduate School (Public Administration, doctoral coursework completed).
-* Life and career timeline:
+### B2) Timeline table
+| item                          | startDate  | endDate    | role_or_state                                              | trigger_event                    | source                                                                                         | confidence |
+|------------------------------|------------|------------|------------------------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------------|-----------|
+| Commissioning                | 1997-02-01 | 1997-02-28 | Fire Officer (Cadet Class 9)                               | Appointment                      | Primary corpus; personnel summary                                                              | certain   |
+| Division Director            | 2019-09-01 | 2021-02-10 | Director, Fire Response Investigation Division (inferred)  | Personnel action                  | Primary corpus                                                                                 | probable  |
+| Jeonbuk Fire Chief           | 2021-02-11 | 2022-01-31 | Provincial Fire Chief (Jeonbuk)                            | Appointment                      | Primary corpus                                                                                 | certain   |
+| MOIS Fire Policy Officer     | 2022-01-01 | 2022-05-31 | Fire Policy Officer, MOIS (행정안전부)                        | Secondment                        | Primary corpus                                                                                 | certain   |
+| NFA Spokesperson             | 2022-05-01 | 2023-03-31 | Spokesperson, NFA (소방청)                                   | Appointment                      | Primary corpus                                                                                 | certain   |
+| DG, Equipment & Technology   | 2023-03-01 | 2024-01-31 | Director-General, Equipment & Technology Bureau, NFA       | Appointment                      | Primary corpus                                                                                 | certain   |
+| President, CFSA              | 2024-01-01 | 2025-01-12 | 35th President, Central Fire Service Academy (중앙소방학교)  | Appointment                      | Primary corpus                                                                                 | certain   |
+| Gangwon Fire Chief           | 2025-01-13 | 2025-09-15 | 18th Chief, Gangwon Fire HQ (강원특별자치도 소방본부)         | Appointment                      | Primary corpus                                                                                 | certain   |
+| NFA Deputy Commissioner      | 2025-09-16 | Unknown    | Deputy Commissioner (소방정감); Acting Commissioner upon appt| Appointment & leadership vacancy | Government Policy Briefing; Primary corpus                                                     | certain   |
 
-  * Commissioned as Fire Officer via Cadet Class 9 (February 1997); frontline postings at Yongsan, Songpa, Gangnam, Jungnang (Seoul); mixed field/administrative tours at Central 119 Rescue Unit and the deputy’s office of the predecessor agency; senior posts from 2019 onward culminating in Jeonbuk Fire Chief (2021), MOIS Fire Policy Officer (2022), NFA Spokesperson (2022), DG of Equipment & Technology (2023), President of Central Fire Service Academy (2024), Chief of Gangwon Fire HQ (2025), and NFA Deputy Commissioner (2025).
-* Ranks, posts, and personnel actions:
+### B3) Geo table
+| item        | place_name           | latitude | longitude | level   | period                    | source                     |
+|-------------|----------------------|----------|-----------|---------|---------------------------|----------------------------|
+| Birthplace  | Iksan (익산)          | Unknown  | Unknown   | city    | 1967-03-21                | Primary corpus             |
+| Duty Station| Gangneung (강릉)      | Unknown  | Unknown   | city    | 2025-08-30 to 2025-09-15  | Primary corpus             |
+| HQ          | Sejong (세종)         | Unknown  | Unknown   | city    | 2025-09-16 to Present     | Government Policy Briefing |
 
-  * Interpreted promotion to senior officer grade upon assuming Fire Response Investigation Division directorship (2019-09) \[inference]; promotion to Commissioner grade with Jeonbuk Fire Chief appointment (2021-02-11); promotion to Fire Superintendent General with NFA Deputy Commissioner appointment (2025-09-16).
-* Affiliations, roles, and ICS chain:
+### B4) Relations table
+| subject                 | predicate     | object                                         | period                    | evidence                                                     | source                                   | confidence |
+|-------------------------|---------------|------------------------------------------------|---------------------------|--------------------------------------------------------------|------------------------------------------|------------|
+| person:kim_seung_ryong  | employed_by   | org:nfa                                        | 1997-02-01 to Present     | Commissioning; Deputy Commissioner appointment               | Primary corpus; Policy Briefing          | certain    |
+| person:kim_seung_ryong  | stationed_at  | place:gangneung                                | 2025-01-13 to 2025-09-15  | Served as Gangwon Fire Chief; led drought response           | Primary corpus                           | certain    |
+| person:kim_seung_ryong  | commanded     | event:gn_2025_drought                          | 2025-08-30 to 2025-09-15  | ~893 vehicles; 1,707 personnel; ~30,000 tons delivered       | Primary corpus                           | certain    |
+| person:kim_seung_ryong  | cooperated_with| Volunteer Fire Brigade (의용소방대)              | 2025-08-30 to 2025-09-15  | Bottled-water distribution with volunteers                   | Primary corpus                           | certain    |
+| org:nfa                 | reports_to    | org:mois                                       | Ongoing                   | NFA is a central government agency under MOIS                | Primary corpus                           | plausible  |
+| person:kim_seung_ryong  | isSimilarTo   | person:lee_young_pal                           | N/A                       | Complementary axes: incident massing vs. system ribbing      | Session synthesis + corpus media context | plausible  |
 
-  * National Fire Agency (NFA) deputy head; when the commissioner is suspended or absent, the deputy serves as acting commissioner. National remit spans \~60,000 firefighters and \~240 stations. ICS roles exercised across career include IncidentCommander (provincial-level), Logistics (sustained convoy operations), and PIO (as former NFA Spokesperson).
-* Major responses and incidents:
+### B5) Works and talks table
+| work_type       | title (translated if needed)                                                                 | year | id           | venue_or_publisher                          | url                                                                                       | metrics | notes                                           |
+|-----------------|-----------------------------------------------------------------------------------------------|------|--------------|----------------------------------------------|--------------------------------------------------------------------------------------------|---------|-------------------------------------------------|
+| Policy statement| Prioritizing national safety; proactive prevention with big data and AI; swift, precise response | 2025 | stmt:2025-09 | Government of Korea Policy Briefing (소방청) | https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469                           | Unknown | Translation from briefing text in corpus.       |
 
-  * Gangneung Drought Emergency (late Aug–mid Sep 2025): led a multi-week potable-water shuttle—\~893 engines/tankers, 1,707 personnel, \~30,000 tons delivered to treatment works and local nodes; integrated volunteer brigades for bottled-water distribution; framing quote: “Every drop we deliver is lifesaving water.” Outcomes: continuity of basic services, public confidence, blueprint for wide-area mutual aid and staggered dispatch.
-* Outputs, guidelines, and presentations:
+### B6) Media table
+| outlet        | date       | title (translated to English)                                                            | url                                                                                     | gist                                              | stance          | key_quotes (translated)                                   | source_type |
+|---------------|------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------|-----------------|-----------------------------------------------------------|-------------|
+| KBS News      | 2025-01-13 | Appointment to Gangwon Fire HQ; readiness for Special Self-Governing era                 | https://www.kbs.co.kr/news/view.do?ncd=7902345                                          | Arrival priorities as Gangwon Fire Chief          | neutral         | “Swift and precise field response.”                       | News        |
+| Chosun Ilbo   | 2025-01-13 | Tailored response to regional, seasonal, and compound hazards                            | https://www.chosun.com/national/regional/2025/01/13/NZ5DTEDODBCFNDJDYYSEI2ARJM/        | Emphasis on safety-first policy                   | neutral-positive| “National safety as the paramount value.”                 | News        |
+| Newsis        | 2025-09-17 | NFA under acting leadership; need quick appointment                                      | https://www.newsis.com/view/NISX20250917_0003333216                                     | Context around leadership vacancy                 | neutral         | —                                                         | News        |
+| SafeToday     | 2025-09-16 | Promotion to Fire Superintendent General; appointed NFA Deputy Commissioner               | https://www.safetoday.kr/news/articleView.html?idxno=99595                               | Personnel action coverage                         | neutral-positive| —                                                         | Trade press |
 
-  * As Academy President (2024), emphasized hands-on simulation, standardization across regional fire schools, and doctrine alignment with equipment standards; as DG Equipment & Technology (2023), advanced modernization and AI-assisted forecasting pilots.
-* Media and platforms:
+### B7) Laws/standards/guidance mapping
+| standard_or_reg                         | clause            | relevance                                           | alignment | notes                                                                 |
+|-----------------------------------------|-------------------|-----------------------------------------------------|----------|-----------------------------------------------------------------------|
+| ICS (localized to Korea)                | Command/Logistics | Multi-week convoy operations under drought          | aligned  | Adapted to terrain, road curvature, staging constraints in Gangneung. |
+| PS-LTE/UHF hybrid doctrine (target)     | Communications    | Resilience of command-and-control under stress      | partial  | Identified as policy need for standardization.                        |
+| MOU with Korea Adaptation Center for Climate Change (한국기후변화연구원) | Prevention/Policy | Climate-risk preparedness and modeling              | aligned  | Partnership cited during Gangwon tenure.                               |
 
-  * Multiple national and regional media documented his 2025 appointments and the Gangneung drought response; NFA press materials serve as primary confirmation for appointment and rank.
-* Concepts and keywords:
+### B8) Similar-profile persons
+| person                              | similarity | common_motifs                                         | key_differences                                             | source                                               | notes                       |
+|-------------------------------------|-----------:|--------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------|-----------------------------|
+| Lee Young-pal (이영팔)               | 0.78       | incident_command; interagency_op; policy_reform        | Incident massing focus vs. Kim’s equipment–training–data–climate ribbing | Session synthesis; corpus media references          | National field leadership   |
+| Heo Seok-gon (허석곤)                 | 0.66       | promotion_event; policy_reform; interagency_op         | Commissioner-level governance vs. Kim’s acting tenure        | Session synthesis                                    | Leadership transition       |
+| Choi Kwang-mo (최광모)               | 0.42       | training_exercise; public_safety_education; interagency_op | Education/exhibit leadership vs. national command            | Session synthesis                                    | Public safety education     |
 
-  * Promotion event; incident command; interagency operations; policy reform; climate adaptation; data-driven prevention; training doctrine.
-* Network and collaboration:
+### B9) Incident table
+| incident_name            | date_range                      | type | ICS_role                          | command_level | location                  | actions                                                     | outcome                                           | source                           | confidence |
+|--------------------------|----------------------------------|------|-----------------------------------|---------------|---------------------------|-------------------------------------------------------------|---------------------------------------------------|----------------------------------|------------|
+| Gangneung Drought 2025   | 2025-08-30 to 2025-09-15        | ems  | IncidentCommander; Logistics      | Provincial    | Gangneung (강릉), Gangwon | ~893 vehicles; 1,707 personnel; ~30,000 tons delivered; volunteer integration | Continuity of potable supply; public confidence | Primary corpus; media coverage   | certain    |
 
-  * Cooperation with volunteer brigades; partnership MOU with a national climate-adaptation institute; coordination with municipal and provincial governments under sustained operations.
-* Issues, controversies, and follow-up improvements:
+## Part C. Relational triples (TSV)
+~~~tsv
+subject_uri_or_id	predicate	object_uri_or_id	evidence_quote_or_page	source_citation_key	source_url	time_span	location	confidence
+person:kim_seung_ryong	employed_by	org:nfa	"Appointed Deputy Commissioner on 2025-09-16."	PR-2025-09-16	https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469	2025-09-16 to Unknown	Sejong (세종)	certain
+person:kim_seung_ryong	stationed_at	place:gangneung	"Served as Gangwon Fire Chief; led drought response."	CORPUS-PDF	Unknown	2025-01-13 to 2025-09-15	Gangneung (강릉)	certain
+person:kim_seung_ryong	commanded	event:gn_2025_drought	"~893 vehicles; 1,707 personnel; ~30,000 tons delivered over two-plus weeks."	CORPUS-PDF	Unknown	2025-08-30 to 2025-09-15	Gangneung (강릉)	certain
+org:nfa	reports_to	org:mois	"NFA is a central agency under MOIS."	CORPUS-PDF	Unknown	ongoing	Sejong (세종)	plausible
+person:kim_seung_ryong	isSimilarTo	person:lee_young_pal	"Complementary axes: incident massing vs. system ribbing."	SESSION-SYNTH	Unknown	N/A	Korea	plausible
+~~~
 
-  * His acting role began amid suspensions of the commissioner and deputy commissioner linked to a special prosecutor’s probe; sector commentary highlighted the need for tenure safeguards and faster resolution of central leadership gaps.
-* Comparative peer benchmark:
-
-  * Within Korea’s fire service topology, Lee Young-pal (national-level field leadership across wildfires, typhoon floods, mine collapse) offers a complementary axis—heavy incident massing and doctrine—while Kim accents equipment–training–data–climate integrations that rib and stabilize the system. (Synthesis from session corpus and in-session analysis.)
-* Recognition, reputation, decorations:
-
-  * Public and media framing as a “problem-solver at the scene” during Gangneung, with emphasis on responsibility and mission ethos; specific decorations not enumerated in corpus (Unknown).
-* Law, standards, and guidance mapping:
-
-  * Internalization of ICS principles to Korean terrain/logistics; push toward PS-LTE/UHF hybrid doctrine (policy aspiration inferred); calls for equipment-life-cycle standardization and aviation safety budget firewalls (policy needs, inference).
-* Data quality and ambiguity:
-
-  * 2019 promotion level is inferred from role/title context; timeline dates otherwise anchored to explicit appointment lines and press materials in the corpus.
-* Similarity archetype juxtaposition:
-
-  * Peer set sketched as: Lee Young-pal; Heo Seok-gon; Choi Kwang-mo (public safety education and interagency training leadership); plus two placeholders pending broader primary-source sweep (Unknown). Weights applied: {state:0.35, event:0.30, network:0.15, concept:0.10, geo:0.07, media:0.03}. (See Part B8 and Part F.)
-
-Part B. Summary tables
-
-B1) Entity table:
-type | label\_ko | label\_en | alias | abbr | internal\_id | external\_ids | sameAs | notes
-Person | Kim Seung-ryong | Kim Seung-ryong | K. S. Ryong | NFA-DC | person\:kim\_seung\_ryong | Unknown | [https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469](https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469) | Primary identity per NFA press release in corpus.
-Organization | Gukga Sobang Cheong | National Fire Agency | NFA | NFA | org\:nfa | Unknown | [https://www.nfa.go.kr](https://www.nfa.go.kr) | National-level fire service authority. (URL illustrative; sameAs from corpus links)
-Organization | Gangwon Teukbyeol Jachido Fire HQ | Gangwon Special Self-Governing Province Fire Headquarters | Gangwon Fire HQ | GFHQ | org\:gf\_hq | Unknown | Unknown | Provincial fire HQ; drought operation base.
-Place | Iksan | Iksan | — | — | place\:iksan | Unknown | [https://en.wikipedia.org/wiki/Iksan](https://en.wikipedia.org/wiki/Iksan) | Birthplace (romanized).
-Place | Gangneung | Gangneung | — | — | place\:gangneung | Unknown | [https://en.wikipedia.org/wiki/Gangneung](https://en.wikipedia.org/wiki/Gangneung) | Drought emergency locus.
-Event | Gangneung Drought 2025 | Gangneung Drought 2025 | — | — | event\:gn\_2025\_drought | Unknown | Unknown | Multi-week potable-water shuttle operation.
-
-\[English-only rule applied; romanized tokens used where a “label\_ko” field exists.]
-
-B2) Timeline table:
-item | startDate | endDate | role\_or\_state | trigger\_event | source | confidence
-Commissioning | 1997-02-01 | 1997-02-28 | Fire Officer (Cadet Class 9) | Appointment | Primary corpus PDF.  | certain
-Division Director | 2019-09-01 | 2021-02-10 | Director, Fire Response Investigation Division | Personnel action | Primary corpus PDF.  | probable
-Jeonbuk Fire Chief | 2021-02-11 | 2022-01-31 | Provincial Fire Chief (Jeonbuk) | Appointment | Primary corpus PDF.  | certain
-MOIS Fire Policy Officer | 2022-01-01 | 2022-05-31 | Central ministry policy officer | Secondment | Primary corpus PDF.  | certain
-NFA Spokesperson | 2022-05-01 | 2023-03-31 | Spokesperson | Appointment | Primary corpus PDF.  | certain
-DG, Equipment & Technology | 2023-03-01 | 2024-01-31 | Director-General | Appointment | Primary corpus PDF.  | certain
-President, Central Fire Service Academy | 2024-01-01 | 2025-01-12 | Academy President (35th) | Appointment | Primary corpus PDF.  | certain
-Gangwon Fire Chief | 2025-01-13 | 2025-09-15 | Provincial Fire Chief (18th) | Appointment | Primary corpus PDF.  | certain
-NFA Deputy Commissioner | 2025-09-16 | Unknown | Deputy Commissioner (Fire Superintendent General) & Acting Commissioner | Appointment following leadership suspension | Primary corpus PDF.  | certain
-
-B3) Geo table:
-item | place\_name | latitude | longitude | level | period | source
-Birthplace | Iksan | Unknown | Unknown | city | 1967-03-21 | Primary corpus PDF.
-Duty Station | Gangneung | Unknown | Unknown | city | 2025-08–2025-09 | Primary corpus PDF.
-HQ | Sejong (NFA HQ) | Unknown | Unknown | city | 2025-09– | Primary corpus PDF.
-
-B4) Relations table:
-subject | predicate | object | period | evidence | source | confidence
-person\:kim\_seung\_ryong | employed\_by | org\:nfa | 1997–present | Commissioned 1997; appointed Deputy Commissioner 2025. | Primary corpus PDF.  | certain
-person\:kim\_seung\_ryong | stationed\_at | place\:gangneung | 2025-01–2025-09 | Served as Gangwon Fire Chief; led drought response. | Primary corpus PDF.  | certain
-person\:kim\_seung\_ryong | commanded | event\:gn\_2025\_drought | 2025-08–2025-09 | Led potable-water shuttle (assets, personnel, tonnage). | Primary corpus PDF.  | certain
-person\:kim\_seung\_ryong | cooperated\_with | Volunteer brigades (Gangwon) | 2025-08–2025-09 | Coordinated bottled-water distribution. | Primary corpus PDF.  | certain
-org\:nfa | reports\_to | Ministry of the Interior and Safety | ongoing | National administrative hierarchy. | Primary corpus PDF.  | plausible
-person\:kim\_seung\_ryong | isSimilarTo | person\:lee\_young\_pal | N/A | Complementary axes: incident massing vs. system ribbing. | Session synthesis.  | plausible
-
-B5) Works and talks table:
-work\_type | title | year | id | venue\_or\_publisher | url | metrics | notes
-Policy statement | “Prioritizing national safety amid complex hazards; proactive prevention with AI and big data” (translated) | 2025 | stmt:2025-09 | NFA press release | [https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469](https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469) | Unknown | Quote translated from corpus; primary source linked.
-
-B6) Media table:
-outlet | date | title | url | gist | stance | key\_quotes | source\_type
-Chosun Ilbo | 2025-01-13 | “Tailored response to regional hazards” (translated) | Referenced in corpus | On-boarding messages as Gangwon Chief | neutral-positive | “National safety as paramount value” | News (secondary).
-KBS News | 2025-01-12/13 | “Appointment to Gangwon Fire HQ; readiness for Special Self-Governing era” (translated) | Referenced in corpus | Leadership priorities upon arrival | neutral | “Swift and precise response” | News (secondary).
-Newsis | 2025-09-17 | “NFA under acting leadership; need quick appointment” (translated) | Referenced in corpus | Context around leadership vacancy | neutral | — | News (secondary).
-SafeToday | 2025-09-16 | “Promotion to Fire Superintendent General; appointed NFA Deputy Commissioner” (translated) | [https://www.safetoday.kr/news/articleView.html?idxno=99595](https://www.safetoday.kr/news/articleView.html?idxno=99595) | Personnel action coverage | neutral-positive | — | Trade press.
-YouTube | Unknown | Unknown | Unknown | No item identified in corpus | Unknown | — | Tertiary (Unknown).
-
-B7) Laws/standards/guidance mapping:
-standard\_or\_reg | clause | relevance | alignment | notes
-ICS (KOR application) | Command/Logistics | Multi-week convoy ops under drought | aligned | Reinterpreted for Korean terrain and road network.
-PS-LTE/UHF doctrine | Hybrid ops | Communications resilience | partial | Identified as a policy need (inference).
-
-B8) Similar-profile persons:
-person | similarity | common\_motifs | key\_differences | source | notes
-Lee Young-pal | 0.78 | incident\_command; interagency\_op; policy\_reform | Heavier incident massing vs. Kim’s equipment–training–data–climate ribbing | Session synthesis (corpus-backed).  | National field leadership arc
-Heo Seok-gon | 0.66 | promotion\_event; policy\_reform; interagency\_op | Commissioner leadership vs. Kim’s acting commissioner tenure | Session synthesis (corpus context).  | Mentioned in leadership suspension context
-Choi Kwang-mo | 0.42 | training\_exercise; public\_safety\_education; interagency\_op | Education/exhibit leadership vs. national command | In-session context | Public-facing safety education
-Unknown\_A | 0.30 | incident\_command | Insufficient data | Placeholder | To be resolved with primary sources
-Unknown\_B | 0.30 | policy\_reform | Insufficient data | Placeholder | To be resolved with primary sources
-
-B9) Incident table:
-incident\_name | date | type | ICS\_role | command\_level | location | actions | outcome | source | confidence
-Gangneung Drought 2025 | 2025-08-30–2025-09-15 (approx.) | ems (drought water supply) | Logistics/IncidentCommander (provincial) | Provincial | Gangneung, Gangwon | \~893 vehicles; 1,707 personnel; \~30,000 tons delivered; volunteer integration | Continuity of potable supply; public confidence | Primary corpus PDF.  | certain
-
-Part C. Relational triples TSV
-subject\_uri\_or\_id	predicate	object\_uri\_or\_id	evidence\_quote\_or\_page	source\_citation\_key	source\_url	time\_span	location	confidence
-person\:kim\_seung\_ryong	employed\_by	org\:nfa	“Appointed as NFA Deputy Commissioner on 2025-09-16; concurrently acting commissioner.”	Primary corpus PDF. 	[https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469](https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469)	2025-09-16–Unknown	Sejong	certain
-person\:kim\_seung\_ryong	stationed\_at	place\:gangneung	“Appointed Gangwon Fire Chief on 2025-01-13; led drought response.”	Primary corpus PDF. 	Unknown	2025-01-13–2025-09-15	Gangneung	certain
-person\:kim\_seung\_ryong	commanded	event\:gn\_2025\_drought	“\~893 engines; 1,707 personnel; \~30,000 tons delivered over two-plus weeks.”	Primary corpus PDF. 	Unknown	2025-08–2025-09	Gangneung	certain
-event\:gn\_2025\_drought	led\_ICS	ICS\:Logistics	“Prolonged potable-water shuttle with staggered dispatch and volunteer integration.”	Primary corpus PDF. 	Unknown	2025-08–2025-09	Gangneung	probable
-person\:kim\_seung\_ryong	isSimilarTo	person\:lee\_young\_pal	“Complementary axes: incident massing vs. system ribbing.”	Session synthesis (corpus). 	Unknown	N/A	Korea	plausible
-
-Part D. JSON-LD
+## Part D. JSON-LD graph
+~~~json
 {
-"@context": {
-"schema": "[https://schema.org/](https://schema.org/)",
-"prov": "[http://www.w3.org/ns/prov#](http://www.w3.org/ns/prov#)",
-"rel": "[https://purl.org/vocab/relationship/](https://purl.org/vocab/relationship/)",
-"id": "@id",
-"type": "@type"
-},
-"@graph": \[
-{
-"id": "urn\:person\:kim\_seung\_ryong",
-"type": "schema\:Person",
-"name": "Kim Seung-ryong",
-"alternateName": \["Kim Seung‑ryong"],
-"nationality": {"type":"schema\:Country","name":"Republic of Korea"},
-"birthDate": "1967-03-21",
-"birthPlace": {"type":"schema\:Place","name":"Iksan, Jeonbuk, Republic of Korea"},
-"hasOccupation": \[{"type":"schema\:Occupation","name":"Fire Officer"}],
-"worksFor": \[{"type":"schema\:Organization","id":"urn\:org\:nfa","name":"National Fire Agency"}],
-"jobTitle": "Deputy Commissioner (Acting Commissioner upon appointment)",
-"prov\:wasDerivedFrom": \[{"id":"urn\:source\:primary\_corpus\_pdf"}]
-},
-{
-"id": "urn\:org\:nfa",
-"type": "schema\:Organization",
-"name": "National Fire Agency",
-"url": "[https://www.nfa.go.kr](https://www.nfa.go.kr)"
-},
-{
-"id": "urn\:event\:gn\_2025\_drought",
-"type": "schema\:Event",
-"name": "Gangneung Drought 2025",
-"startDate": "2025-08-30",
-"endDate": "2025-09-15",
-"location": {"type":"schema\:Place","name":"Gangneung, Gangwon Special Self-Governing Province"},
-"description": "Sustained potable-water shuttle: \~893 vehicles, 1,707 personnel, \~30,000 tons delivered; volunteer integration."
-},
-{
-"id": "urn\:place\:gangneung",
-"type": "schema\:Place",
-"name": "Gangneung",
-"address": {"type":"schema\:PostalAddress","addressCountry":"Republic of Korea"}
+  "@context": {
+    "schema": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "id": "@id",
+    "type": "@type"
+  },
+  "@graph": [
+    {
+      "id": "urn:person:kim_seung_ryong",
+      "type": "schema:Person",
+      "name": "Kim Seung-ryong",
+      "birthDate": "1967-03-21",
+      "nationality": "Republic of Korea",
+      "jobTitle": "Deputy Commissioner (Acting Commissioner upon appointment)",
+      "worksFor": {"type": "schema:Organization", "id": "urn:org:nfa", "name": "National Fire Agency"},
+      "prov:wasDerivedFrom": [{"id": "urn:source:primary_corpus_pdf"}]
+    },
+    {
+      "id": "urn:org:nfa",
+      "type": "schema:Organization",
+      "name": "National Fire Agency",
+      "url": "https://www.nfa.go.kr"
+    },
+    {
+      "id": "urn:org:mois",
+      "type": "schema:Organization",
+      "name": "Ministry of the Interior and Safety"
+    },
+    {
+      "id": "urn:org:gf_hq",
+      "type": "schema:Organization",
+      "name": "Gangwon Special Self-Governing Province Fire Headquarters"
+    },
+    {
+      "id": "urn:event:gn_2025_drought",
+      "type": "schema:Event",
+      "name": "Gangneung Drought 2025",
+      "startDate": "2025-08-30",
+      "endDate": "2025-09-15",
+      "location": {"type": "schema:Place", "name": "Gangneung, Gangwon"}
+    },
+    {
+      "id": "urn:place:gangneung",
+      "type": "schema:Place",
+      "name": "Gangneung",
+      "address": {"type": "schema:PostalAddress", "addressCountry": "Republic of Korea"}
+    }
+  ]
 }
-]
-}
+~~~
 
-Part E. Chicago-style notes block
-\[PR-2025-09-16] National Fire Agency (Republic of Korea), “Appointment of Kim Seung-ryong as Deputy Commissioner (Fire Superintendent General),” Government of Korea Policy Briefing, September 16, 2025, [https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469](https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469), accessed September 20, 2025.
-\[NEWS-2025-01-13-CHOSUN] Chosun Ilbo, “Tailored Response to Regional Hazards: Remarks by Gangwon Fire Chief Kim,” January 13, 2025, URL as referenced in corpus, accessed September 20, 2025.
-\[NEWS-2025-01-13-KBS] KBS News, “Appointment to Gangwon Fire HQ; Readiness for Special Self-Governing Era,” January 12–13, 2025, URL as referenced in corpus, accessed September 20, 2025.
-\[NEWS-2025-09-17-NEWSIS] Newsis, “NFA Under Acting Leadership; Need for Quick Appointment,” September 17, 2025, URL as referenced in corpus, accessed September 20, 2025.
-\[TRADE-2025-09-16-SAFETODAY] SafeToday, “Promotion to Fire Superintendent General; Appointment as NFA Deputy Commissioner,” September 16, 2025, [https://www.safetoday.kr/news/articleView.html?idxno=99595](https://www.safetoday.kr/news/articleView.html?idxno=99595), accessed September 20, 2025.
+## Part E. Chicago-style notes
+1. National Fire Agency (Republic of Korea), “Appointment of Kim Seung-ryong as Deputy Commissioner (Fire Superintendent General),” Government of Korea Policy Briefing, September 16, 2025, https://m.korea.kr/briefing/pressReleaseView.do?newsId=156708469, accessed 2025-09-20.
+2. SafeToday, “Promotion to Fire Superintendent General; Appointment as NFA Deputy Commissioner,” September 16, 2025, https://www.safetoday.kr/news/articleView.html?idxno=99595, accessed 2025-09-20.
+3. KBS News, “Appointment to Gangwon Fire HQ; Readiness for Special Self-Governing Era,” January 13, 2025, https://www.kbs.co.kr/news/view.do?ncd=7902345, accessed 2025-09-20.
+4. Chosun Ilbo, “Tailored Response to Regional Hazards,” January 13, 2025, https://www.chosun.com/national/regional/2025/01/13/NZ5DTEDODBCFNDJDYYSEI2ARJM/, accessed 2025-09-20.
+5. Newsis, “NFA Under Acting Leadership; Need for Quick Appointment,” September 17, 2025, https://www.newsis.com/view/NISX20250917_0003333216, accessed 2025-09-20.
 
-Part F. Audit log
+## Part F. Audit log
+- Auto-extraction rules summary: normalized proper nouns with Korean in parentheses for significant entities; parsed appointment verbs; standardized ISO dates; mapped posts to organizations and places; typed incident as ems with ICS roles.
+- Manual adjustments: treated 2019 directorship as inferred rank elevation (probable); bounded drought operation dates based on “two-plus weeks” phrasing; assigned Logistics/IncidentCommander roles from convoy design and provincial command context.
+- Outstanding queries: confirm coordinates for Gangneung and Sejong; verify award decorations; retrieve official video artifacts; document PS-LTE/UHF hybrid doctrine references.
+- Limitations and bias notes: corpus-led synthesis; primaries elevated where available; secondary media used for color; speculative points labeled as inference.
+- Similarity juxtaposition log: weights {state:0.35, event:0.30, network:0.15, concept:0.10, geo:0.07, media:0.03}; nearest peer Lee Young-pal (이영팔) with incident-centric arc; secondary Heo Seok-gon (허석곤); tertiary Choi Kwang-mo (최광모).
 
-* Auto-extraction rules summary:
-
-  * Parsed corpus for personnel verbs (appointed, promoted, seconded) and incident numerics; normalized dates to ISO; mapped posts to organization entities; classified the 2025 Gangneung operation as ems (drought water supply).
-* Manual adjustments:
-
-  * Interpreted 2019 role as an implied rank elevation (probable); approximated start/end bounds for Gangneung operation per “two-plus weeks” language; assigned ICS roles (IncidentCommander/Logistics) based on convoy design and provincial command.
-* Outstanding queries:
-
-  * Confirm precise coordinates and exact daily tonnage cadence; verify any decorations/awards; retrieve formal PS-LTE/UHF hybrid doctrine references; identify YouTube or official video artifacts of briefings. (Unknown in corpus.)
-* Limitations and bias notes:
-
-  * Session corpus is a synthesized dossier with embedded media references; primary confirmation for the 2025-09-16 appointment is strong via the policy briefing URL; some intermediate rank transitions are inferred from post titles.
-* Similarity juxtaposition log:
-
-  * Applied weights {state:0.35, event:0.30, network:0.15, concept:0.10, geo:0.07, media:0.03}; nearest peer identified as Lee Young-pal (incident-driven arc); secondary peer Heo Seok-gon (commissioner-level governance); tertiary edge case Choi Kwang-mo (education/public-safety nexus); two placeholders retained pending broader primary-source expansion.
-
-\==================== OUTPUT END ====================
+As of: 2025-09-20 (Asia/Seoul)
