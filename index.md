@@ -23,7 +23,7 @@ All materials are explicitly released into the **public domain** under the terms
 
 Below are entry-point documents you can begin with. Each link points to another page in this archive:
 
-- [jooyoungkuk_fireofficer_republicofkorea](./jooyoungkuk_fireofficer_republicofkorea.md)
+- [jooyoungkuk](./jooyoungkuk.md)
 
 ---
 
