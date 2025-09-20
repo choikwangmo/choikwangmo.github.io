@@ -123,15 +123,16 @@
 | National Fire Museum program     | Program brief (2021–2026)                         | Safety culture & heritage             | Medium    | Institutional memory; complements responder morale and public education. ([소방청][11]) |
 | Emergency readiness (provincial) | Heavy rain & wind advisories (KMA/NFA‑provincial) | Trigger for ICS activation            | High      | Fed into Jeju HQ readiness actions 2025‑06‑13. ([헤드라인제주][5])                         |
 
-**B8) Similar‑profile persons**
+**B8) Similar-profile persons**
 
-| person                                | similarity | common\_motifs                                          | key\_differences                                             | source                         | notes                          |
-| ------------------------------------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------ | ------------------------------ |
-| Lee Jin‑ho (NFA Planning Coordinator) | 0.79       | promotion\_event; policy\_reform; interagency\_op       | HQ strategic planning vs Ju’s aviation‑safety emphasis       | ([First-Class 경제신문 파이낸셜뉴스][1]) | Same 2025 cohort (sobang‑gam). |
-| Hong Jang‑pyo (Ulsan HQ)              | 0.76       | promotion\_event; incident\_command; interagency\_op    | Different province risk profile (industrial/hazardous ports) | ([First-Class 경제신문 파이낸셜뉴스][1]) | Appointed 2025‑09‑19.          |
-| Oh Seung‑hoon (Gangwon HQ)            | 0.74       | promotion\_event; training\_exercise; incident\_command | Wildfire‑prone mountains vs Ju’s island/aviation             | ([소방청][19])                    | 2024–2025 reshuffle context.   |
-| Choi Yong‑cheol (Gyeonggi HQ acting)  | 0.72       | interagency\_op; policy\_reform; promotion\_event       | Mega‑metro urban focus vs island tourism/aviation            | ([First-Class 경제신문 파이낸셜뉴스][1]) | Personnel bulletin.            |
-| Go Min‑ja (former Jeju HQ)            | 0.72       | incident\_command; interagency\_op; training\_exercise  | Predecessor at Jeju HQ; different tenure window              | ([소방청][4])                     | 2024‑02 move.                  |
+| person                                                | similarity | common_motifs                                          | key_differences                                             | source                         | notes                          |
+| ----------------------------------------------------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------ | ------------------------------ |
+| Lee Jin-ho (NFA Planning Coordinator)                 | 0.79       | promotion_event; policy_reform; interagency_op          | HQ strategic planning vs Ju’s aviation-safety emphasis       | ([First-Class 경제신문 파이낸셜뉴스][1]) | Same 2025 cohort (sobang-gam). |
+| Hong Jang-pyo (Ulsan HQ)                              | 0.76       | promotion_event; incident_command; interagency_op       | Different province risk profile (industrial/hazardous ports) | ([First-Class 경제신문 파이낸셜뉴스][1]) | Appointed 2025-09-19.          |
+| Oh Seung-hoon (Gangwon HQ)                            | 0.74       | promotion_event; training_exercise; incident_command    | Wildfire-prone mountains vs Ju’s island/aviation             | ([소방청][19])                    | 2024–2025 reshuffle context.   |
+| Choi Yong-cheol (Gyeonggi HQ acting)                  | 0.72       | interagency_op; policy_reform; promotion_event          | Mega-metro urban focus vs island tourism/aviation            | ([First-Class 경제신문 파이낸셜뉴스][1]) | Personnel bulletin.            |
+| Go Min-ja (former Jeju HQ)                            | 0.72       | incident_command; interagency_op; training_exercise     | Predecessor at Jeju HQ; different tenure window              | ([소방청][4])                     | 2024-02 move.                  |
+| [Kim Seung-ryong (소방청 차장)](kimseungryong.md)       | 0.78       | promotion_event; incident_command; policy_reform        | National-level logistics/AI/climate focus vs Ju’s aviation   | Government Policy Briefing; corpus synthesis | Acting Commissioner role during 2025 leadership gap. |
 
 **B9) Incident table**
 
