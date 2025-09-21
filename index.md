@@ -11,9 +11,9 @@ This repository is a global open collection of documents and records focused on 
 
 - **Corporate leaders and senior executives** from diverse industries worldwide  
 - **Diplomats and foreign service officers** engaged in international relations  
-- **Fire service officers and firefighters**, especially those in senior or command positions  
-- **Police officers and law enforcement officials**, particularly in supervisory or leadership roles  
-- **Other categories of public officials and civil servants** in significant positions of responsibility  
+- **Fire service, police, and other public officials**, especially those in senior, supervisory, or command positions  
+- **Children’s robotics education initiatives and programs**, covering curriculum design, hands-on training kits, and STEM outreach projects  
+- **AI-era English education**, focusing on using ChatGPT for English writing practice, structured thinking in English, and innovative language-learning methodologies  
 
 All materials are explicitly released into the **public domain** under the terms of **CC0 1.0 Universal**.
 
@@ -24,6 +24,7 @@ All materials are explicitly released into the **public domain** under the terms
 Below are entry-point documents you can begin with. Each link points to another page in this archive:
 
 - [2025](2025.md)
+
 ---
 
 ## Public Domain Dedication (CC0 1.0 Universal)
@@ -38,7 +39,16 @@ This means:
 - **No attribution is legally required**, though attribution is appreciated in professional or scholarly contexts.  
 
 For details, see:  
-[Creative Commons CC0 1.0 Universal (Public Domain Dedication)](http://creativecommons.org/publicdomain/zero/1.0/)
+[Creative Commons CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+## Homepages
+
+- Personal site (Imweb): https://choikwangmo.imweb.me/  
+- Naver Blog: https://blog.naver.com/choikwangmo9  
+- Firefighter Photo (Imweb): https://firefighterphoto.imweb.me/  
+- Resume (Obsidian Publish): https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume  
 
 ---
 
