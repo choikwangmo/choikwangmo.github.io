@@ -7,7 +7,7 @@ robots: index, follow
 
 # Cho Kwang-mo — Global Open Archive
 
-This repository is a global open collection of documents and records focused on **public officials and high-level professionals** across different countries. It includes, but is not limited to:
+This repository is a global open collection of documents and records focused on **all information and data** across different countries. It includes, but is not limited to:
 
 - **Corporate leaders and senior executives** from diverse industries worldwide  
 - **Diplomats and foreign service officers** engaged in international relations  
