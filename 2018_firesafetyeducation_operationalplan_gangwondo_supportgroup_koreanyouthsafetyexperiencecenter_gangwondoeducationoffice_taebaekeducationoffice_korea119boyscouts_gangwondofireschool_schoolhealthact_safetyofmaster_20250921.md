@@ -344,3 +344,6 @@ Task Checklist
 [^8]: ☞ By adding a newly established program (water safety education), diverse experiential opportunities were provided and participant satisfaction improved.  
 [^law-1]: `School Health Act (학교보건법) Article 9-2 (Health Education, etc.)`: ① The Minister of Education shall ensure that schools under Article 2 of the `Elementary and Secondary Education Act (초·중등교육법)` systematically conduct health education for all students, including education on first aid such as cardiopulmonary resuscitation (CPR).
 
+## Related
+
+* [2018_365safetown_operationalplan_gangwondo_taebaek_fireexperiencecenter_safetyeducation_kidsland_challenge_land_insectmuseum_mou_20250922.md](2018_365safetown_operationalplan_gangwondo_taebaek_fireexperiencecenter_safetyeducation_kidsland_challenge_land_insectmuseum_mou_20250922.md)
