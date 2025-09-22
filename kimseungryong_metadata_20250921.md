@@ -60,17 +60,18 @@ Republic of Korea Fire Service Personnel Metadata Extractor — kimseungryong(�
 
 
 ### B2) Timeline table
-| item                          | startDate  | endDate    | role_or_state                                              | trigger_event                    | source                                                                                         | confidence |
-|------------------------------|------------|------------|------------------------------------------------------------|----------------------------------|------------------------------------------------------------------------------------------------|-----------|
-| Commissioning                | 1997-02-01 | 1997-02-28 | Fire Officer (Cadet Class 9)                               | Appointment                      | Primary corpus; personnel summary                                                              | certain   |
-| Division Director            | 2019-09-01 | 2021-02-10 | Director, Fire Response Investigation Division (inferred)  | Personnel action                  | Primary corpus                                                                                 | probable  |
-| Jeonbuk Fire Chief           | 2021-02-11 | 2022-01-31 | Provincial Fire Chief (Jeonbuk)                            | Appointment                      | Primary corpus                                                                                 | certain   |
-| MOIS Fire Policy Officer     | 2022-01-01 | 2022-05-31 | Fire Policy Officer, MOIS (행정안전부)                        | Secondment                        | Primary corpus                                                                                 | certain   |
-| NFA Spokesperson             | 2022-05-01 | 2023-03-31 | Spokesperson, NFA (소방청)                                   | Appointment                      | Primary corpus                                                                                 | certain   |
-| DG, Equipment & Technology   | 2023-03-01 | 2024-01-31 | Director-General, Equipment & Technology Bureau, NFA       | Appointment                      | Primary corpus                                                                                 | certain   |
-| President, CFSA              | 2024-01-01 | 2025-01-12 | 35th President, Central Fire Service Academy (중앙소방학교)  | Appointment                      | Primary corpus                                                                                 | certain   |
-| Gangwon Fire Chief           | 2025-01-13 | 2025-09-15 | 18th Chief, Gangwon Fire HQ (강원특별자치도 소방본부)         | Appointment                      | Primary corpus                                                                                 | certain   |
-| NFA Deputy Commissioner      | 2025-09-16 | Unknown    | Deputy Commissioner (소방정감); Acting Commissioner upon appt| Appointment & leadership vacancy | Government Policy Briefing; Primary corpus                                                     | certain   |
+| item                        | startDate  | endDate    | role_or_state                                             | trigger_event                    | source                                           | confidence |
+|-----------------------------|------------|------------|-----------------------------------------------------------|----------------------------------|--------------------------------------------------|------------|
+| Commissioning               | 1997-02-01 | 1997-02-28 | Fire Officer (Cadet Class 9)                              | Appointment                      | Primary corpus; personnel summary                | certain    |
+| Division Director           | 2019-09-01 | 2021-02-10 | Director, Fire Response Investigation Division (inferred) | Personnel action                 | Primary corpus                                   | probable   |
+| Jeonbuk Fire Chief          | 2021-02-11 | 2022-01-31 | Provincial Fire Chief (Jeonbuk)                           | Appointment                      | Primary corpus                                   | certain    |
+| MOIS Fire Policy Officer    | 2022-01-01 | 2022-05-31 | Fire Policy Officer, MOIS (행정안전부)                       | Secondment                        | Primary corpus                                   | certain    |
+| NFA Spokesperson            | 2022-05-01 | 2023-03-31 | Spokesperson, NFA (소방청)                                  | Appointment                      | Primary corpus                                   | certain    |
+| DG, Equipment & Technology  | 2023-03-01 | 2024-01-31 | Director-General, Equipment & Technology Bureau, NFA      | Appointment                      | Primary corpus                                   | certain    |
+| President, CFSA             | 2024-01-01 | 2025-01-12 | 35th President, Central Fire Service Academy (중앙소방학교) | Appointment                      | Primary corpus                                   | certain    |
+| Gangwon Fire Chief          | 2025-01-13 | 2025-09-15 | 18th Chief, Gangwon Fire HQ (강원특별자치도 소방본부)        | Appointment                      | Primary corpus                                   | certain    |
+| NFA Deputy Commissioner     | 2025-09-16 | Unknown    | Deputy Commissioner (소방정감); Acting Commissioner upon appt | Appointment & leadership vacancy | Government Policy Briefing; Primary corpus       | certain    |
+
 
 ### B3) Geo table
 | item        | place_name           | latitude | longitude | level   | period                    | source                     |
