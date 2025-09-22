@@ -207,4 +207,7 @@ person:kim_seung_ryong	isSimilarTo	person:lee_young_pal	"Complementary axes: inc
 - Limitations and bias notes: corpus-led synthesis; primaries elevated where available; secondary media used for color; speculative points labeled as inference.
 - Similarity juxtaposition log: weights {state:0.35, event:0.30, network:0.15, concept:0.10, geo:0.07, media:0.03}; nearest peer Lee Young-pal (이영팔) with incident-centric arc; secondary Heo Seok-gon (허석곤); tertiary Choi Kwang-mo (최광모).
 
+## Related
+
+* [2018_firesafetyeducation_operationalplan_gangwondo_supportgroup_koreanyouthsafetyexperiencecenter_gangwondoeducationoffice_taebaekeducationoffice_korea119boyscouts_gangwondofireschool_schoolhealthact_safetyofmaster_20250921.md](2018_firesafetyeducation_operationalplan_gangwondo_supportgroup_koreanyouthsafetyexperiencecenter_gangwondoeducationoffice_taebaekeducationoffice_korea119boyscouts_gangwondofireschool_schoolhealthact_safetyofmaster_20250921.md)
 As of: 2025-09-20 (Asia/Seoul)
