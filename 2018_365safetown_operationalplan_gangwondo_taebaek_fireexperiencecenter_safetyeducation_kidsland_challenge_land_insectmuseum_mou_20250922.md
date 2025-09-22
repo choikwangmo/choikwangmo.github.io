@@ -124,6 +124,7 @@
 
 ## Related
 * [kimseungryong](kimseungryong_metadata_20250921.md)
+* [2013_365safetown_policy_nema_ministryofeducation_ministryofgenderfamily_gangwondo_taebaek_korea119youth_youthbasicact_frameworkactdisaster_20250922.md](2013_365safetown_policy_nema_ministryofeducation_ministryofgenderfamily_gangwondo_taebaek_korea119youth_youthbasicact_frameworkactdisaster_20250922.md)
 
 ---
 
