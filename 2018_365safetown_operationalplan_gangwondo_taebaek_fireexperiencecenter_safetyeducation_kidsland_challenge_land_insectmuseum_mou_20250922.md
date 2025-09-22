@@ -122,6 +122,11 @@
 
 ---
 
+## Related
+* [kimseungryong](kimseungryong_metadata_20250921.md)
+
+---
+
 ## Notes
 
 [^oper]: Source note: “Operating/Guidance personnel: 54 persons (38 indefinite-term, 16 fixed-term).”
