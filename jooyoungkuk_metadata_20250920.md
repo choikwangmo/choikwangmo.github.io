@@ -251,6 +251,14 @@ urn\:person\:ju‑young‑kuk	commanded	urn\:event\:wfg‑2018	“led organizing
 * **Limitations and bias notes:** Regional news portals can mirror identical agency text; cross‑checked with at least one primary NFA source. Some sites blocked rich‑open due to CORS; citations preserved to source domains.
 * **Similarity juxtaposition log:** Peer set drawn from the 2025‑09‑19 NFA personnel cohort; vectorized on *state, event, network, concept, geo, media* attributes (weights: 0.35/0.30/0.15/0.10/0.07/0.03). Differences centered on aviation‑safety emphasis and large‑event organizing pedigree.
 
+---
+
+related
+
+* [ohseunghoon_fireofficer_republicofkorea_metadata_20250922.md](ohseunghoon_fireofficer_republicofkorea_metadata_20250922.md)
+
+---
+
 \==================== OUTPUT END ====================
 
 [1]: https://www.fnnews.com/news/202509192041055713?utm_source=chatgpt.com "[인사] 소방청"
