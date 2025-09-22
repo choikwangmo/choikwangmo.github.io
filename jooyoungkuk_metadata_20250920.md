@@ -132,7 +132,7 @@
 | Oh Seung-hoon (Gangwon HQ)                            | 0.74       | promotion_event; training_exercise; incident_command    | Wildfire-prone mountains vs Ju’s island/aviation             | ([소방청][19])                    | 2024–2025 reshuffle context.   |
 | Choi Yong-cheol (Gyeonggi HQ acting)                  | 0.72       | interagency_op; policy_reform; promotion_event          | Mega-metro urban focus vs island tourism/aviation            | ([First-Class 경제신문 파이낸셜뉴스][1]) | Personnel bulletin.            |
 | Go Min-ja (former Jeju HQ)                            | 0.72       | incident_command; interagency_op; training_exercise     | Predecessor at Jeju HQ; different tenure window              | ([소방청][4])                     | 2024-02 move.                  |
-| [Kim Seung-ryong (소방청 차장)](kimseungryong.md)       | 0.78       | promotion_event; incident_command; policy_reform        | National-level logistics/AI/climate focus vs Ju’s aviation   | Government Policy Briefing; corpus synthesis | Acting Commissioner role during 2025 leadership gap. |
+| [Kim Seung-ryong (소방청 차장)](kimseungryong_metadata_20250921.md)       | 0.78       | promotion_event; incident_command; policy_reform        | National-level logistics/AI/climate focus vs Ju’s aviation   | Government Policy Briefing; corpus synthesis | Acting Commissioner role during 2025 leadership gap. |
 
 **B9) Incident table**
 
