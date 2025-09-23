@@ -95,3 +95,22 @@ Actionable resolution (minimal to unblock)
 * Google (via reseller escalation): confirm receipt of the success signal and **unlock** the tenant; if callback is missing/delayed, reconcile the activation manually.
 
 In short, saying “contact Squarespace because they are a reseller” is only half of the operational truth. The defect sits at a **cross-system seam**: reseller PSP decline prevents Google’s activation gate from ever opening, which also prevents the user from contacting Google through supported channels. The correct fix is **coordinated**: Squarespace remedies the first-charge failure and triggers the callback; Google acknowledges it (or intervenes via the reseller channel) so the tenant is unlocked.
+
+---
+
+Monism(일원론, 一元論)은 철학적 입장 가운데 하나로, **세계와 존재를 궁극적으로 단일한 원리나 실재로 설명하려는 사상**을 말합니다.
+
+주요 의미를 나누면 다음과 같습니다:
+
+* **형이상학적 의미**: 모든 것이 하나의 근본적인 실재(예: 물질, 정신, 신, 에너지 등)로 환원될 수 있다고 보는 입장.
+* **대립 개념**: 이원론(dualism, 물질과 정신처럼 둘 이상의 근본 원리가 존재한다고 보는 입장), 다원론(pluralism, 여러 근본 원리가 있다고 보는 입장)과 대비됩니다.
+* **종류**:
+
+  * **유물론적 일원론**: 모든 존재를 물질적 실체로 설명.
+  * **관념론적 일원론**: 모든 존재를 정신적 실체로 설명.
+  * **중립적 일원론**: 물질과 정신 모두로 환원되지 않는 제3의 실재가 있다고 보는 관점.
+
+예시로, 스피노자의 철학은 신(Deus sive Natura, 신=자연)을 하나의 실체로 본 일원론적 체계이며, 불교의 공(空) 사상도 서구 학자들에 의해 일종의 일원론적 관점으로 해석되기도 합니다.
+
+원하시면 제가 **monism의 어원**과 **서양 철학·동양 철학에서의 다른 맥락**까지 확장해서 설명해드릴까요?
+
