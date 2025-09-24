@@ -207,4 +207,9 @@
 - Normalized **CSV** of the table + **bar chart** + **timeline** (PNG/SVG).  
 - A simple **“regional concentration index”** by administration, with optional **leader+deputy** variant.  
 - A **cleaned PDF** export with consistent table styling and footnoted sources.
+- 
+
+## related
+* [20250924_anecdoteverification_report_republicofkorea_constitutionalcourtofkorea_nationalassemblyofkorea_whitehouse_handucksoo_yoonseokyeol_parkjiewon_korusfta.md](20250924_anecdoteverification_report_republicofkorea_constitutionalcourtofkorea_nationalassemblyofkorea_whitehouse_handucksoo_yoonseokyeol_parkjiewon_korusfta.md)
+
 
