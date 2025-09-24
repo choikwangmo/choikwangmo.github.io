@@ -1,19 +1,5 @@
 # The JoongAng Plus (더중앙플러스)
 
-## Page UI / Navigation
-- My Page
-- Bookmark
-- Share
-- Comments: 10
-- Print
-- Font Size: 1
-- Reading…
-
-:gift: **Gift Box – New Feature**  
-**Gifting**: Send as a gift.
-
----
-
 # Three Swords, 150 Days of Special Counsel
 ## From “Kind Deoksu” → “Bad Han Duck-soo”… the decisive defection that ruined “50 years of officialdom”[^arrow]
 - **Card publication time**: 2025-08-24
