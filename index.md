@@ -50,6 +50,8 @@ For details, see:
 - Firefighter Photo (Imweb): [https://firefighterphoto.imweb.me/](https://firefighterphoto.imweb.me/)
 - Resume (Obsidian Publish): [https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume](https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume)
 - goedelescherbachandriemann: [https://goedelescherbachandriemann.com](https://goedelescherbachandriemann.com/)
+- ko.wikipedia.org: [https://ko.wikipedia.org/wiki/Special:Contributions/Choikwangmo25](https://ko.wikipedia.org/wiki/Special:Contributions/Choikwangmo25)
+
 ---
 
 ## Notes
