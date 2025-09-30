@@ -120,3 +120,112 @@ If you want, I can:
 
 ---
 
+# Consolidated Retail Receipts — 2025-09-28 (KRW)
+
+## 1. Document Index (if multiple)
+
+* IMG01 — The Hyundai Department Store receipt (2025-09-28 13:11)
+* IMG02 — UNIQLO receipt (2025-09-28 13:00)
+
+## 2. Consolidated Report
+
+### Entity/Store/Building Info
+
+* **The Hyundai Department Store (THE HYUNDAI)** — Department store; exact branch/address [UNCLEAR].
+* **UNIQLO (FRL Korea Co., Ltd.)** — Apparel retailer; exact branch/address [UNCLEAR].
+
+### Payment/Statement Info
+
+| Store       | Date       |  Time | Receipt/Doc No.                                | Payment Method | Card Identifier (masked) | Approval/Authorization No. | Notes                                                             |
+| ----------- | ---------- | ----: | ---------------------------------------------- | -------------- | ------------------------ | -------------------------- | ----------------------------------------------------------------- |
+| The Hyundai | 2025-09-28 | 13:11 | 3443-0018                                      | Credit card    | [MASKED]                 | 00581314                   | Barcode printed at bottom; QR for promotional redemption present. |
+| UNIQLO      | 2025-09-28 | 13:00 | 1016-2025-09-28-53-0052 (visible near barcode) | Credit card    | [MASKED]                 | [UNCLEAR]                  | Multiple QR codes for app/survey; store code “1016” visible.      |
+
+### Itemized Details
+
+| Store       | Item (English)     | Qty | Taxable Supply (KRW) | VAT 10% (KRW) | Total (KRW) |
+| ----------- | ------------------ | --: | -------------------: | ------------: | ----------: |
+| The Hyundai | Grains Premium Set |   1 |               36,363 |         3,637 |      40,000 |
+| UNIQLO      | UT (T-shirt line)  |   1 |               27,182 |         2,718 |      29,900 |
+
+### Subtotals / Tax / Total / Amount Paid
+
+| Store            | Subtotal (Taxable) |       VAT |      Total | Amount Paid | Math Check                                          |
+| ---------------- | -----------------: | --------: | ---------: | ----------: | --------------------------------------------------- |
+| The Hyundai      |             36,363 |     3,637 |     40,000 |      40,000 | Consistent (subtotal × 10% = VAT; rounding to KRW). |
+| UNIQLO           |             27,182 |     2,718 |     29,900 |      29,900 | Consistent (subtotal × 10% = VAT; rounding to KRW). |
+| **All Receipts** |         **63,545** | **6,355** | **69,900** |  **69,900** | —                                                   |
+
+## 3. Policy & Terms
+
+* **The Hyundai Department Store (printed on receipt):**
+
+  * Instructions regarding issuance of tax invoice/cash receipt: eligible payment card must be used; issuance must be requested at purchase. Some categories are excluded (e.g., certain fresh items).
+  * “Nike Big Sale” event period shown (limited 3 days; discount details referenced).
+  * “Gifticon (Starbucks) redemption” via QR code.
+  * Statement that payment cards cannot be lent to others.
+* **UNIQLO (printed on receipt):**
+
+  * QR codes for mobile app download and customer feedback survey.
+  * Specific return/exchange terms not fully legible — [UNCLEAR].
+
+## 4. Major Concepts (Latent Knowledge)
+
+### Value-Added Tax (Korea)
+
+* **Definition & rate:** VAT is a consumption tax levied on most goods/services in Korea. The **standard rate is 10%**.
+* **Calculation:** Taxable supply value × 10% = VAT; totals are rounded to the nearest KRW. Receipts commonly show “Taxable Supply” and “VAT” as separate lines plus a “Total.”
+* **Inclusions/Exclusions:** Most retail goods are taxable; certain items (e.g., some unprocessed foods, export sales) can be zero-rated or exempt, but department-store apparel/gift goods are ordinarily taxed at 10%.
+* **Documentation:** For businesses, a **tax invoice** (세금계산서) or **cash receipt** (현금영수증) is used for input-tax credit and expense proof; consumer credit-card slips are widely accepted for expense reimbursement.
+
+### Credit-Card Approval & Receipts (Korea)
+
+* **Approval flow:** At purchase, the acquirer issues an **approval/authorization number** (승인번호). Merchant receipts display date/time, amount, and approval number; card PAN is masked except for limited digits.
+* **Use as proof:** For personal finance and many corporate policies, the merchant slip plus the approval number suffices as evidence of payment; businesses seeking VAT deduction must rely on tax invoices/cash receipts tied to a business registration.
+* **Identifiers:** Receipts may show **receipt/document numbers**, **store codes**, and **barcodes/QR codes** linking to e-receipts or promotions.
+
+### Department-Store Promotions & Gift Sets
+
+* **Gift-set context:** Department stores in Korea heavily market **food and lifestyle gift sets** around major holidays (e.g., Lunar New Year, Chuseok).
+* **Pricing & bundles:** Sets are sold at rounded prices (e.g., ₩30,000/₩40,000/₩50,000). They commonly include premium or curated items; VAT applies per set.
+* **Promotions:** Event halls often run **brand collaborations/flash sales** (e.g., limited-day discounts). Exclusions (fresh foods, certain categories) are typical.
+
+### Fast-Fashion “UT” (UNIQLO)
+
+* **Definition:** “UT” is UNIQLO’s **graphic T-shirt** line featuring collaborations with art, pop culture, and brands.
+* **Typical price band (KRW):** Common list prices range roughly from **₩14,900 to ₩29,900**, with seasonal promotions.
+* **Receipt notation:** Items are often marked with a trailing **“T”** to indicate taxable goods; product codes appear as long numerics.
+
+### QR Codes, Digital Vouchers, and “Gifticon”
+
+* **QR on receipts:** Used for e-receipt retrieval, loyalty enrollment, surveys, or promotional redemptions.
+* **Gifticon:** A widely used Korean **mobile gift voucher** format delivered via SMS/app; redemption usually requires scanning a QR/barcode within a validity period.
+
+### Receipts as Accounting Evidence (Korea)
+
+* **Personal vs. business use:** For individuals, credit-card slips substantiate spending. For business accounting and VAT credits, **tax invoices or registered cash receipts** are required, matching the business ID.
+* **Rounding:** VAT is computed to whole KRW; small rounding differences can occur but should reconcile to the printed total.
+
+## 5. Glossary
+
+* **Taxable Supply (공급가액):** The net amount before VAT to which the VAT rate applies.
+* **VAT (부가가치세):** Value-added tax; in Korea, generally 10%.
+* **Approval/Authorization No. (승인번호):** Unique number issued by the acquirer confirming a card transaction.
+* **Receipt/Document No.:** Merchant-side identifier for the printed receipt instance.
+* **Cash Receipt (현금영수증):** Official record of cash payment for tax purposes in Korea.
+* **Tax Invoice (세금계산서):** Document enabling VAT input-tax deduction for registered businesses.
+* **Gift Set:** Bundled goods sold as a single SKU, common for holiday gifting.
+* **Gifticon:** Mobile gift voucher redeemable via barcode/QR.
+* **QR Code:** Matrix barcode used to link to digital content (e-receipts, apps, promotions).
+* **UT:** UNIQLO’s graphic T-shirt product line.
+
+## 6. Assumptions & Limitations
+
+* Images were used as primary evidence; any illegible fields are marked **[UNCLEAR]**.
+* Card numbers are intentionally masked; only non-sensitive identifiers are shown.
+* Store addresses/contact details were not fully legible; therefore omitted or marked [UNCLEAR].
+* Currency is KRW as printed; no FX conversion applied.
+* Calculations mirror printed figures; VAT consistency was checked using the 10% standard rate with KRW rounding.
+
+---
+
