@@ -229,3 +229,120 @@ If you want, I can:
 
 ---
 
+# Retail Purchase Receipt — Euro Jonghapmulryu (Seokgong Mart), Taebaek — 2025-09-19
+
+## 1. Document Index (if multiple)
+
+* Image 1: Seokgong Mart retail receipt dated 2025-09-19 18:54 (POS 01, BILL 000083)
+
+## 2. Consolidated Report
+
+### Entity/Store/Building Info
+
+* Legal entity: Euro Jonghapmulryu (trading as “Seokgong Mart”)
+* Business registration no.: 222-06-48741
+* Representative: Kwon Byung-su
+* Address: 147-1, Jangseong-dong, Taebaek-si, Gangwon-do, Korea
+* Telephone: 033-581-5565
+
+### Payment/Statement Info (dates, method, identifiers)
+
+* Transaction date & time: 2025-09-19 18:54 (local)
+* POS: 01
+* Bill/receipt no.: 000083
+* Payment method: Credit card (Visa, Hyundai Card), lump-sum (one-time)
+* Card PAN (masked): ****-****-****-[UNCLEAR]
+* Electronic approval/receipt identifier shown: 00095904
+* Currency: KRW
+
+### Itemized Details
+
+| Item (as printed)         | Unit Price (KRW) | Qty | Line Total (KRW) |
+| ------------------------- | ---------------: | --: | ---------------: |
+| Coca-Cola 250-ml can      |            1,200 |  30 |           36,000 |
+| Crown “Chamssal Seon-gwa” |            5,600 |   1 |            5,600 |
+| Haitai “Oh Yes Original”  |            6,800 |   1 |            6,800 |
+| Lotte “Custard”           |           12,000 |   1 |           12,000 |
+| **Total of items**        |                  |     |       **60,400** |
+
+### Subtotals / Tax / Total / Amount Paid
+
+| Description          |        KRW |
+| -------------------- | ---------: |
+| Taxable supply value |     54,909 |
+| VAT (10%)            |      5,491 |
+| **Grand total**      | **60,400** |
+| Amount paid (card)   |     60,400 |
+
+**Notes:** The taxable supply value equals the VAT-inclusive total divided by 1.1 and rounded to the nearest won (60,400 ÷ 1.1 ≈ 54,909.09 → 54,909; VAT 5,491).
+
+## 3. Policy & Terms
+
+* Statement on bag fee: a shopping-bag charge of KRW 30 is included in the purchased goods amount.
+* Courtesy message: general “thank you” note shown.
+* No explicit return/exchange policy text was visible on the receipt image.
+
+## 4. Major Concepts (Latent Knowledge)
+
+### Value-Added Tax (Korea)
+
+* **Definition & rate:** Korea applies a standard VAT rate of 10% on most goods and services. Some categories are zero-rated (e.g., exports) or exempt (e.g., certain unprocessed foods, medical/educational services).
+* **Calculation:** Retail receipts often display (i) taxable supply value and (ii) VAT, where **Total = Supply Value + VAT**. For VAT-inclusive pricing, the supply value is **Total ÷ 1.1**, with VAT as the difference. Rounding is typically to the nearest won.
+* **Typical composition:** Most processed foods and beverages are taxable; many unprocessed staple foods can be exempt.
+
+### Credit-Card Sales Slip (Approval Receipt)
+
+* **Purpose:** Serves as proof of payment capturing merchant name, BRN, date/time, amount, approval/authorization number, and masked card details.
+* **Expense recognition vs. VAT deduction (KR practice):** For corporate/income tax, a card sales slip issued to a business card generally qualifies as recognized evidence of expense. For **VAT input tax deduction**, a **tax invoice** is ordinarily required; a card slip alone does not usually substitute for a tax invoice except in limited cases defined by law.
+* **Cancellation/refund norm:** Card refunds are processed as a **card cancellation** (reversal) to the same card, rather than cash.
+
+### Business Registration Number (BRN) in Korea
+
+* **Format:** 10 digits (XXX-XX-XXXXX). Used to identify the merchant for taxation and verification.
+* **Usage:** Appears on receipts/invoices and is used in e-filing, withholding, and cross-checking merchant legitimacy.
+
+### POS/BILL/Approval Identifiers
+
+* **POS no.:** Identifies the specific point-of-sale terminal.
+* **Bill/receipt no.:** Merchant’s internal receipt sequence for audit trail.
+* **Approval/authorization no.:** Card-network/processor reference confirming transaction authorization; used to trace reversals and disputes.
+
+### Bag/Packaging Fee (Korea)
+
+* **Background:** Under resource-recycling and waste-reduction rules, many retailers charge for disposable shopping bags.
+* **Amounts & presentation:** Commonly KRW 50–300 per bag depending on size and local policy. Some merchants itemize it; others include it in the total with a note, as in this receipt.
+
+### Grocery/Retail Item Taxability
+
+* **Processed snacks & beverages:** Generally taxable at 10% (e.g., soft drinks, packaged confectionery).
+* **Exempt items:** Certain unprocessed foods (e.g., raw rice, some fresh produce) may be VAT-exempt; when sold together with taxable items, receipts often split taxable vs. exempt subtotals.
+
+### Rounding & Display Practices
+
+* **Rounding:** VAT computations are typically rounded to the nearest won. Small differences can occur due to item-level vs. receipt-level rounding.
+* **Display:** Korean receipts commonly show “taxable supply value” and “VAT” rather than “subtotal before tax.”
+
+### Brands/Products (contextual)
+
+* **Coca-Cola:** Global soft-drink brand; small cans often retail around KRW ~1,000–1,500 per can in Korean supermarkets.
+* **Crown / Haitai / Lotte (confectionery):** Major Korean snack manufacturers; multi-pack products frequently price in the KRW ~5,000–12,000 range depending on size and promotions.
+
+## 5. Glossary
+
+* **VAT (Value-Added Tax):** A consumption tax levied on the value added at each stage of supply; standard rate in Korea is 10%.
+* **Taxable supply value:** The net amount before VAT; for VAT-inclusive totals, calculated as total ÷ 1.1.
+* **Approval/authorization number:** Reference issued by the card network/processor to confirm transaction authorization.
+* **POS (Point of Sale):** The terminal/system where the transaction is recorded and processed.
+* **BRN (Business Registration Number):** Government-issued identifier for businesses in Korea.
+* **Lump-sum (one-time) payment:** Full payment at purchase time, not in installments.
+* **Electronic approval slip (e-receipt):** Digital/card-network verified sales slip, often labeled “electronic slip.”
+
+## 6. Assumptions & Limitations
+
+* Item names were normalized to English romanization from the printed Korean; exact product variants beyond what is visible were not inferred.
+* Card last four digits were not fully legible on the image and are shown as “[UNCLEAR]”.
+* All figures, identifiers, and dates reflect what is legible on the provided image; no external data sources were used.
+* Currency kept as KRW; no conversions performed.
+
+---
+
