@@ -231,8 +231,3 @@ law:pde	applies_to	org:knpa	"Use-of-force and on-scene measures govern public-or
 - **Metrics gaps (to fill):** Cost‑performance curves for equipment programs; before/after metrics on reporting‑chain simplification; formal AAR excerpts mapping command → transmission → action to training updates.  
 - **Similarity archetype method:** Weights {state:0.30, event:0.30, network:0.15, concept:0.10, geo:0.10, media:0.05}; peer selected (Lee Young‑pal) due to scale of safety leadership and interagency motifs.  
 - **Compliance checks:** One code fence; English‑only with permitted parentheticals; valid GFM tables; TSV and JSON‑LD wrapped in tildes; ≥5 credible sources; at least one primary source included; no personal sensitive data.
-
----
-
-## related
-* [jooyoungkuk_metadata_20250920.md](jooyoungkuk_metadata_20250920.md)
