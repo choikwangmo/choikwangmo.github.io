@@ -183,8 +183,4 @@ person:oh_seung_hun	trained_at	org:daejeon_univ	"Completed MS in Social Welfare.
 - [S5] FPN personnel list (effective 2025-09-22).
 - [S6] SafeToday background on promotions/transfers.
 
-## related
-
-* [kimseungryong_metadata_20250921.md](kimseungryong_metadata_20250921.md)
-
 As of: 2025-09-22 (Asia/Seoul)
