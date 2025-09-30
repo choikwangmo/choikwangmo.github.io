@@ -122,12 +122,6 @@
 
 ---
 
-## Related
-* [kimseungryong](kimseungryong_metadata_20250921.md)
-* [2013_365safetown_policy_nema_ministryofeducation_ministryofgenderfamily_gangwondo_taebaek_korea119youth_youthbasicact_frameworkactdisaster_20250922.md](2013_365safetown_policy_nema_ministryofeducation_ministryofgenderfamily_gangwondo_taebaek_korea119youth_youthbasicact_frameworkactdisaster_20250922.md)
-
----
-
 ## Notes
 
 [^oper]: Source note: “Operating/Guidance personnel: 54 persons (38 indefinite-term, 16 fixed-term).”
