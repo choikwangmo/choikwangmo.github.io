@@ -332,12 +332,6 @@ Task Checklist
 
 ---
 
-## Related
-
-* [2018_365safetown_operationalplan_gangwondo_taebaek_fireexperiencecenter_safetyeducation_kidsland_challenge_land_insectmuseum_mou_20250922.md](2018_365safetown_operationalplan_gangwondo_taebaek_fireexperiencecenter_safetyeducation_kidsland_challenge_land_insectmuseum_mou_20250922.md)
-
----
-
 ## Footnotes
 
 [^1]: ☞ Compared to 2016 fire education participants (11,503 people), there was an increase of 1,492 people (11.5%).  
