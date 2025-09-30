@@ -243,9 +243,3 @@
 - Page 1 — approvals/signature table and “public” disclosure mark on the registration box.
 - Pages 2–3 — title layout and highlighted slogan; SWOT matrix presented in boxed layout with blue headers.
 - Page 6 — two stacked tables: “Major related laws” (upper) and “Domestic experience center cases” (lower).
-
----
-
-## related
-
-* [2018_365safetown_operationalplan_gangwondo_taebaek_fireexperiencecenter_safetyeducation_kidsland_challenge_land_insectmuseum_mou_20250922.md](2018_365safetown_operationalplan_gangwondo_taebaek_fireexperiencecenter_safetyeducation_kidsland_challenge_land_insectmuseum_mou_20250922.md)
