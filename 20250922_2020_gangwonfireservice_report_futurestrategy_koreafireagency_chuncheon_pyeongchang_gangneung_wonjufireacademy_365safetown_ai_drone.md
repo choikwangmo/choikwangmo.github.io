@@ -235,8 +235,3 @@
 ## Annex: Front Matter & Message from the Chief
 - Foreword emphasizes rapid societal/technological change (Fourth Industrial Revolution), duty to prepare systematically for mid‑to‑long‑term disasters, and lessons from **COVID‑19** emphasizing “preparedness.”  
 - Notes nationalization of the fire service in **April 2020** and outlines **4 strategic goals** and **10 strategies** to lead safety culture and protect residents’ daily lives.
-
----
-
-## related
-* [2013_365safetown_policy_nema_ministryofeducation_ministryofgenderfamily_gangwondo_taebaek_korea119youth_youthbasicact_frameworkactdisaster_20250922.md](2013_365safetown_policy_nema_ministryofeducation_ministryofgenderfamily_gangwondo_taebaek_korea119youth_youthbasicact_frameworkactdisaster_20250922.md)
