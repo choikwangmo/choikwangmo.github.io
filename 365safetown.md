@@ -3,6 +3,11 @@
 
 ---
 
+「산업전환형 지역경제에서의 순환소비 메커니즘 연구: 태백시 365세이프타운 태백사랑상품권 환급정책의 지역경제 파급효과 분석」
+A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Economies: An Economic Impact Analysis of the Taebaek 365 SafeTown Local Currency Rebate Policy
+
+---
+
 ## 📘 프로젝트 개요
 
 이 리포지터리는 탄광도시 태백의 산업전환 과정 속에서 탄생한  
