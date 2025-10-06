@@ -55,11 +55,5 @@ The repository may contain:
 
 ---
 
-## License Summary
-
-- **Ignore any MIT LICENSE file that may appear in this repository.**  
-- For all documents, data, and materials, the effective license is:  
-  **CC0 1.0 Universal — Public Domain Dedication.**
-
 > Everything in this repository is free to use, without conditions.  
 > Treat it as part of the **public domain**.
