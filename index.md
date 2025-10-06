@@ -23,8 +23,10 @@ All materials are explicitly released into the **public domain** under the terms
 
 Below are entry-point documents you can begin with. Each link points to another page in this archive:
 
-- [2025](2025.md)
-
+* Chronological
+  - [2025](2025.md)
+* Project
+  - [365safetown](365safetown.md)
 ---
 
 ## Public Domain Dedication (CC0 1.0 Universal)
