@@ -97,7 +97,7 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 ## 📎 관련 페이지 (추후 연결 예정)
 
 - [인덱스 페이지](index.md)
-- [라이센스](LICENSE.md)
+- [라이센스](LICENSE)
 - [읽어주세요](README.md)
 
 ---
