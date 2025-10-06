@@ -56,7 +56,7 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 
 ---
 
-## 🔍 연구 방법론 (요약)
+## 🔍 연구 방법론
 
 - 차분의 차분(DID) 및 이벤트스터디(Event Study)로 정책 효과 식별  
 - 산업연관분석(IO Table)을 통한 부가가치·고용유발 효과 추정  
