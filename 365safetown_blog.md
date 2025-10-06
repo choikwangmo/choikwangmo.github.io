@@ -8,3 +8,7 @@
   - 라오스인민공화국 사이솜분주에 거주하는 한 어린 소녀는 버스정류장에서 기다리다 '365세이프타운 산불마그넷'이라는 마법 같은 자석을 쥐게 되고, 이로 인해 한국의 태백 '365세이프타운'으로 순간이동하게 돼요. 그곳에서 새로 생긴 '키즈랜드'에서 아이들의 웃음소리를 듣고, 안전한 놀이 환경을 경험하며, 김범진 팀장의 '태백사랑상품권 환급 제도'를 통해 체험비 일부가 상품권으로 돌아오는 순환 시스템을 배워요. 산불마그넷은 주인공에게 산불 대처법(예: 불 발견 시 119 신고, 작은 불은 외투로 덮기, 큰 불은 피해서 논밭으로 이동 등)을 속삭이며, 이는 단순한 지침이 아니라 안전을 상징하는 주문으로 묘사돼요. 전체적으로 이 동화는 한국의 안전 교육과 경제·문화적 영향력이 국경을 넘어 라오스 같은 나라의 아이들에게까지 미친다는 주제를 담고 있으며, '사랑으로부영' 로고처럼 한국의 '힘'이 일상 속에 스며든다는 메시지를 통해 연결과 보호의 다리를 강조해요.
 * [태뱅여행의 출발지 365세이프타운 뱃지 관련(2025)](https://blog.naver.com/choikwangmo9/224014946192)
   - 뱃지를 착용하고 소방지원단 식구들은 사진을 찍는다. 강주무관님이 제작한 동일한 뱃지를 2025년 10월 4일 [365세이프타운을 방문한 외국인 손님](https://blog.naver.com/choikwangmo9/224033158927)들이 착용한 것도 관찰된다.
+
+---
+
+[![365safetown illustrations](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg/512px-365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg?20250930233259)](https://commons.wikimedia.org/wiki/File:365safetown_illustration_daytime_%EB%82%AE(%EC%88%98%EC%A0%95).jpg "Choikwangmo25, CC0, via Wikimedia Commons")
