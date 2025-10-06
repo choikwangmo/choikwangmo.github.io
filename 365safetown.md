@@ -81,9 +81,20 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 
 ---
 
+## 🧩 리포지터리 구성
+
+| 폴더 | 설명 |
+|------|------|
+| `/blog/` | [연구 관련 블로그 글 모음](365safetown_blog.md) |
+| `/receipt/` | 태백사랑상품권 결제 현금영수증 모음 |
+| `/visuals/` | 파급효과 시각화(Flowchart, Sankey, Map 등) |
+| `/related/` | 관련 문헌 자료 |
+
+---
+
 ## 📎 관련 페이지 (추후 연결 예정)
 
-- [도시 전환사: 탄광에서 안전으로](#)
+- [인덱스 페이지](index.md)
 - [정책 설계 및 환급 구조 상세](#)
 - [경제효과 분석 모형 및 코드](#)
 - [결과 시각화 및 보고서](#)
