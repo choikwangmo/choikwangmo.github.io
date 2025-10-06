@@ -1,1 +1,1 @@
-* [The Decline of a Mining Town and the Future of a Closed Mining Village — A Case Study of Cheoram (鐵岩), Taebaek City](20251006_The Decline of a Mining Town and the Future of a Closed Mining Village — A Case Study of Cheoram (鐵岩), Taebaek City.md)
+* [The Decline of a Mining Town and the Future of a Closed Mining Village](20251006_The Decline of a Mining Town and the Future of a Closed Mining Villag, A Case Study of Cheoram.md)
