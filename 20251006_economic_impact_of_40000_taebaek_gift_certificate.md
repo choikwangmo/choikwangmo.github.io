@@ -111,3 +111,7 @@ _365세이프타운 × 태백사랑상품권 사례연구_
 
 ## 10. 결론
 단일 4만원 지역화폐 거래는 **가맹점주의 재지출**을 통해 라운드형 연쇄를 만들고, 보수적 조정 후에도 **누적 지역 거래 약 8.8만 원**, **지역 부가가치 약 4.8만 원**, **임금 약 2.9만 원**, **지방세·세외수입 약 1.7천 원**으로 확장될 수 있다. 정책의 초점은 방문객의 지출 자체보다 **가맹점이 그 수입을 다시 지역에서 쓰도록 설계·유도하는 것**에 있다. **재지출률과 부가가치율을 체계적으로 높이는 설계**가 곧 지역화폐의 진정한 승수다.
+
+---
+
+[![365safetown illustrations](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg/512px-365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg?20250930233259)](https://commons.wikimedia.org/wiki/File:365safetown_illustration_daytime_%EB%82%AE(%EC%88%98%EC%A0%95).jpg "Choikwangmo25, CC0, via Wikimedia Commons")
