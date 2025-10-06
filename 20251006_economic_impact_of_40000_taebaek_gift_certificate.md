@@ -4,7 +4,7 @@ _365세이프타운 × 태백사랑상품권 사례연구_
 ## 초록
 [![Receipt taebaek restaurant IMG 2614 modified](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Receipt_taebaek_restaurant_IMG_2614_modified.jpg/256px-Receipt_taebaek_restaurant_IMG_2614_modified.jpg?20251006021724 "이태리집(태백시 소재), Public domain, via Wikimedia Commons")](https://commons.wikimedia.org/wiki/File:Receipt_taebaek_restaurant_IMG_2614_modified.jpg)
 
-방문객이 365세이프타운에서 체험 후 지역화폐(태백사랑상품권)를 사용하면, 가맹점(예: 식당)이 이를 수취한다. 핵심은 **가맹점주가 받은 지역화폐를 다시 지역 내에서 임금, 식자재, 지역 서비스로 재지출**한다는 점이다. 본 논문은 **가맹점 재지출**을 파급의 출발점으로 삼아, **가계소득 → 재지출 → 공급망 재주문 → 지방세 환류**로 이어지는 연쇄효과를 정량·정성 통합 관점에서 추적한다. 수식은 최소화하고, **라운드별 재지출 흐름·분해표·정책 레버**를 통해 현장 적용성을 높인다.
+본 분석은 한 방문객이 365세이프타운에서 매표 후 환급받은 4만원의 지역화폐(태백사랑상품권)의 실제 사용 사례를 기반으로한다. 핵심은 **가맹점주가 받은 지역화폐를 다시 지역 내에서 임금, 식자재, 지역 서비스로 재지출**한다는 점이다. 본 논문은 **가맹점 재지출**을 파급의 출발점으로 삼아, **가계소득 → 재지출 → 공급망 재주문 → 지방세 환류**로 이어지는 연쇄효과를 정량·정성 통합 관점에서 추적한다. 수식은 최소화하고, **라운드별 재지출 흐름·분해표·정책 레버**를 통해 현장 적용성을 높인다.
 
 ---
 
