@@ -98,8 +98,7 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 
 - [인덱스 페이지](index.md)
 - [라이센스](LICENSE)
-- [읽어주세요](README.md)
-- [위키백과](https://ko.wikipedia.org/wiki/365%EC%84%B8%EC%9D%B4%ED%94%84%ED%83%80%EC%9A%B4)
+- [365세이프타운 위키백과 항목](https://ko.wikipedia.org/wiki/365%EC%84%B8%EC%9D%B4%ED%94%84%ED%83%80%EC%9A%B4)
 ---
 
 > _“막장의 끝에서, 365세이프타운과 태백사랑상품권을 통해 안전의 시작으로.”_  
