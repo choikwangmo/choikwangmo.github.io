@@ -69,4 +69,8 @@ For details, see:
 
 - This repository does not include private or sensitive personal data protected under privacy laws.  
 - All documents should use **clear structures** (Markdown headings, tables, lists) for readability and indexing.  
-- Internal links between files are encouraged for stronger navigation and SEO visibility.  
+- Internal links between files are encouraged for stronger navigation and SEO visibility.
+
+---
+
+[![365safetown illustrations](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg/512px-365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg?20250930233259)](https://commons.wikimedia.org/wiki/File:365safetown_illustration_daytime_%EB%82%AE(%EC%88%98%EC%A0%95).jpg "Choikwangmo25, CC0, via Wikimedia Commons")
