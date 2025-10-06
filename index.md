@@ -27,6 +27,7 @@ Below are entry-point documents you can begin with. Each link points to another 
   - [2025](2025.md)
 * Project
   - [365safetown](365safetown.md)
+
 ---
 
 ## Public Domain Dedication (CC0 1.0 Universal)
