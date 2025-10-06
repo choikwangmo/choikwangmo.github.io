@@ -14,6 +14,8 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 
 본 연구는 단순한 지역화폐 사용 통계 분석을 넘어, 산업 쇠퇴 이후 도시재생의 경제적·사회적 전환 메커니즘을 계량적으로 검증하고, ‘안전산업 중심의 순환경제 도시’ 모델을 제시하는 것을 목표로 합니다.
 
+프로젝트 연구원: 기획마케팅팀장 김범진, 소방지원단장 최광모
+
 ---
 
 ## 🧭 연구 배경
