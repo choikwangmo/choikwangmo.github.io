@@ -1,7 +1,3 @@
-[![365safetown illustrations](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg/512px-365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg?20250930233259)](https://commons.wikimedia.org/wiki/File:365safetown_illustration_daytime_%EB%82%AE(%EC%88%98%EC%A0%95).jpg "Choikwangmo25, CC0, via Wikimedia Commons")
-
----
-
 # 🏔️ 365세이프타운의 지역경제 파급효과 연구 개요  
 ### _산업전환형 지역경제에서의 순환소비 메커니즘 분석 프로젝트_
 
@@ -112,3 +108,7 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 >  
 > 365세이프타운 × 태백사랑상품권 연구 프로젝트  
 > _A case study of local economic regeneration through circulative consumption._
+
+---
+
+[![365safetown illustrations](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg/512px-365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg?20250930233259)](https://commons.wikimedia.org/wiki/File:365safetown_illustration_daytime_%EB%82%AE(%EC%88%98%EC%A0%95).jpg "Choikwangmo25, CC0, via Wikimedia Commons")
