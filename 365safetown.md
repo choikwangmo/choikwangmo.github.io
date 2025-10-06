@@ -97,10 +97,8 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 ## 📎 관련 페이지 (추후 연결 예정)
 
 - [인덱스 페이지](index.md)
-- [정책 설계 및 환급 구조 상세](#)
-- [경제효과 분석 모형 및 코드](#)
-- [결과 시각화 및 보고서](#)
-- [참고문헌 및 연구진 소개](#)
+- [라이센스](LICENSE.md)
+- [README](README.md)
 
 ---
 
