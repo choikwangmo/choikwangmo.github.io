@@ -1,5 +1,3 @@
-[![365safetown illustrations](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg/512px-365safetown_illustration_daytime_%EB%82%AE%28%EC%88%98%EC%A0%95%29.jpg?20250930233259)](https://commons.wikimedia.org/wiki/File:365safetown_illustration_daytime_%EB%82%AE(%EC%88%98%EC%A0%95).jpg "Choikwangmo25, CC0, via Wikimedia Commons")
-
 # 4만원 지역화폐의 **재지출(merchant re-spending)** 중심 지역경제 파급효과  
 _365세이프타운 × 태백사랑상품권 사례연구_
 
