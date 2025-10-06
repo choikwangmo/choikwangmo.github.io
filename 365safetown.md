@@ -88,9 +88,9 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 | 폴더 | 설명 |
 |------|------|
 | `/blog/` | [연구 관련 블로그 글 모음](365safetown_blog.md) |
-| `/receipt/` | [태백사랑상품권 결제 현금영수증 모음](365safetown_receipt.md) |
 | `/analysis/` | [상품권 환급 정책의 지역경제 파급효과 분석](365safetown_analysis.md) |
 | `/reference/` | [관련 문헌 자료(논문 등)](365safetown_reference.md) |
+| `/receipt/` | [태백사랑상품권 결제 현금영수증 모음](365safetown_receipt.md) |
 
 ---
 
