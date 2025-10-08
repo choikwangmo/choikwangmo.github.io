@@ -149,3 +149,48 @@
 98. 결제·브리지: 규제 준수(AML/KYC)·환리스크·취약점(브리지 해킹) 관리 역량이 중요하다.
 99. 커스터디·지갑: 보안·보험 커버리지·기관 고객 온보딩 능력이 수익의 핵심이다.
 100. 유통: 고객 수·거래대금·스프레드·상장 정책·리베이트 구조가 실적을 좌우한다.
+
+---
+
+좋아요. 공개 디렉터리(코참/코트라 등)에서 확인되는 “베트남에 진출·활동 중인 한국(계) 중소기업” 예시를 25개 정도로 추려 표로 정리했어요. (회원사/디렉터리 기반이므로 법적 본사국적·기업 규모는 각사에 재확인 권장)
+
+| 기업명                      | 업종/키워드        | 지역(디렉터리 표기)    | 근거                           |
+| ------------------------ | ------------- | -------------- | ---------------------------- |
+| DOOIL VINA               | 소방기구·기자재      | 바리아붕따우         | ([베트남 KORCHAM][1])           |
+| ACE Vina Holdings        | 공장건설·냉동설비     | 하노이            | ([베트남 KORCHAM][1])           |
+| ACE System Vina          | 산업기계·설비 설치    | 하노이            | ([베트남 KORCHAM][1])           |
+| ACE Golf                 | 스포츠           | 하노이            | ([베트남 KORCHAM][1])           |
+| Academy K                | 교육·매체·광고      | 하노이            | ([베트남 KORCHAM][1])           |
+| ABE 투자컨설팅                | 경영컨설팅         | 하노이            | ([베트남 KORCHAM][1])           |
+| ABC International JV     | 물류·운수·여행      | 하노이            | ([베트남 KORCHAM][1])           |
+| 에이비에이(ABA)               | 투자자문·건자재 무역   | 하노이            | ([베트남 KORCHAM][1])           |
+| AAA 베트남 투자컨설팅            | 투자·인허가 컨설팅    | 하노이            | ([베트남 KORCHAM][1])           |
+| EMW VIETNAM              | 전자·전기 제조      | 박장(Bac Giang)  | ([www.kochamvietnam.com][2]) |
+| MK METAL VINA            | 금속 제조         | 박장             | ([www.kochamvietnam.com][2]) |
+| PROMADE VINA             | 제조            | 박장             | ([www.kochamvietnam.com][2]) |
+| ACE GARMENT VINA         | 섬유·의류         | 박장             | ([www.kochamvietnam.com][2]) |
+| Alpha Green Tech Vina    | 제조/그린테크       | 박장             | ([www.kochamvietnam.com][2]) |
+| AM TELECOM               | 통신·IT         | 박장             | ([www.kochamvietnam.com][2]) |
+| ASIA BOLT VINA           | 볼트·패스너 제조     | 박장             | ([www.kochamvietnam.com][2]) |
+| DEER’S INNOVATION VINA   | 제조            | 박장             | ([www.kochamvietnam.com][2]) |
+| Sunjin Logistics         | 물류            | (미정/게시물)       | ([www.kochamvietnam.com][3]) |
+| SUNGARD INSULATION FILMS | 필름·소재         | (미정/게시물)       | ([www.kochamvietnam.com][3]) |
+| DK KOREA & PARTNERS (VN) | 법무법인          | (미정/게시물)       | ([www.kochamvietnam.com][3]) |
+| KGS VINA                 | 제조/서비스(회원 소개) | (미정/게시물)       | ([www.kochamvietnam.com][3]) |
+| HK DR. FLOOR VIETNAM     | 친환경 바닥마감      | (미정/게시물)       | ([www.kochamvietnam.com][3]) |
+| Space 21 FONEXIM         | 유통/무역(회원 소개)  | (미정/게시물)       | ([www.kochamvietnam.com][3]) |
+| ARIRANG VINA             | 유통·도소매·무역     | 꽝닌(Quang Ninh) | ([www.kochamvietnam.com][4]) |
+
+### 참고
+
+* 위 표는 **코참(KOCHAM) 디렉터리/베트남사무소 ‘진출기업’ 리스트**에 등재된 회사명과 **신규회원사 소개 게시판**에 공개된 이름을 바탕으로 추렸습니다. 항목에 따라 한국계 파트너사·서비스사도 포함될 수 있으므로, **법인 국적·규모(중소기업 여부)** 는 개별 확인을 권장합니다. ([베트남 KORCHAM][1])
+* 배경 수치(한국 기업의 베트남 진출 규모 등)는 KOTRA·민간 리서치에서도 확인됩니다(예: 2023년 기준 한국계 기업 5,400여 개). ([KOTRA Dream][5])
+
+원하시면 이 명단을 **업종(제조/IT/물류/법무 등)** 이나 **지역(북부·중부·남부/성시별)** 으로 더 넓혀 50개 이상으로 확장하고, 각사 **웹사이트·연락처·품목**까지 붙여 드릴게요.
+
+[1]: https://vietnam.korcham.net/Service/bizinfo/appl/BizCompList.asp "베트남사무소"
+[2]: https://m.kochamvietnam.com/service/directory/company/list "코참베트남 > 제공서비스 > 코참 디렉토리"
+[3]: https://m.kochamvietnam.com/board/event/membership/list?utm_source=chatgpt.com "코참베트남 > 제공 서비스 > 신규회원사 소개"
+[4]: https://kochamvietnam.com/service/directory/company/list.php?businesstype_main_code=&csrchtext=quang+ninh&csrchtype=&utm_source=chatgpt.com "코참베트남 > 제공서비스 > 코참 디렉토리"
+[5]: https://dream.kotra.or.kr/user/extra/kotranews/bbs/linkView/jsp/Page.do?dataIdx=217805&utm_source=chatgpt.com "2024년 상반기 對베트남 외국인직접투자 동향 - 해외경제정보드림"
+
