@@ -1401,3 +1401,100 @@ meta:
 
 ---
 
+# Framework 3 — CPO Chain (Case/Policy → Process → Outcomes) 증거사슬
+entity: Person
+subject: "박억수"
+anchor_date: "2025-10-08T00:00:00+09:00"
+chains:
+  - issue_cluster: "내란·외환 사건 특검 공판 초기 국면"
+    role_context:
+      time_period: "2025-06-20 ~ 2025-07-31"
+      role_title: "특별검사보"
+      institution: "특별검사팀(내란 특검)"
+    environment:
+      political_admin: "이재명 정부"
+      external_pressure: ["대형 사건의 초기 송치·구속적부심", "법리·절차 공방"]
+    decision_points:
+      - "특검보 라인업 확정(6인)"
+      - "첫 공판·구속적부심 일정 대응 전략"
+    actions_taken:
+      - "특검보 법정 출석 예고 및 공소유지 준비"
+      - "피의자 신병 처리·이송 등 절차 대응"
+    outputs:
+      - "특검팀 공식 공지"
+      - "법원 심리·기일 보도"
+    outcomes_short:
+      - "공판 프로토콜 확립"
+      - "대응 라인 명확화"
+    outcomes_mid:
+      - "핵심 법리·사실관계 쟁점 정렬"
+    outcomes_long:
+      - "대형 특검의 공판 운영 표준 축적"
+    verification_signals:
+      - {signal: "특검보 6인 임명", source: "https://www.hani.co.kr/arti/society/society_general/1203831.html"}
+      - {signal: "첫 출석 공지", source: "https://www.munhwa.com/article/11513712"}
+      - {signal: "적법성 심리 대응", source: "https://koreajoongangdaily.joins.com/news/2025-07-18/national/socialAffairs/Hearing-on-legality-of-Yoons-arrest-wraps-up-after-5-hours/2356289"}
+  - issue_cluster: "대검 인권정책 거버넌스·이행"
+    role_context:
+      time_period: "2022-07 ~ 2023-09"
+      role_title: "대검 인권정책관"
+      institution: "대검찰청"
+    environment:
+      political_admin: "윤석열 정부"
+      external_pressure: ["주요 형사사건의 인권 이슈", "조직 재편"]
+    decision_points:
+      - "현안 점검 체계 정비"
+      - "사직(사의) 여부 판단"
+    actions_taken:
+      - "정책·가이드 정비, 각 부서 협의"
+      - "2023-09 사의 표명"
+    outputs:
+      - "인사·조직 관련 기사"
+    outcomes_short:
+      - "인권정책관실 기능 가동"
+    outcomes_mid:
+      - "후임 전환·인수인계"
+    outcomes_long:
+      - "검찰 인권정책 선례 축적"
+    verification_signals:
+      - {signal: "보직 이력", source: "https://p.peoplepower21.org/WatchPro/person_detail.php?id=433"}
+      - {signal: "사의 표명", source: "https://www.lawtimes.co.kr/news/191015"}
+  - issue_cluster: "민간 로펌 전환·조직 구축"
+    role_context:
+      time_period: "2023-11 ~ 현재"
+      role_title: "대표변호사/변호사"
+      institution: "법무법인 B&H → 법무법인 이공"
+    environment:
+      political_admin: "비행정부(민간)"
+      external_pressure: ["기업·공공 형사리스크 대응 수요"]
+    decision_points:
+      - "개업(2023-11) 및 로펌 이동(2025)"
+    actions_taken:
+      - "형사·공판·기업자문 수임"
+    outputs:
+      - "개업 보도·웹사이트 변호사 등재"
+    outcomes_short:
+      - "민관 경력 연결"
+    outcomes_mid:
+      - "특검·민간 병행 역량 형성"
+    outcomes_long:
+      - "형사소송 역량의 제도적 학습 확산"
+    verification_signals:
+      - {signal: "B&H 개업", source: "https://www.newsis.com/view/NISX20231110_0002517409"}
+      - {signal: "이공 소속 확인", source: "https://www.20lawyers.co.kr/"}
+
+
+---
+
+| 이름      | 직함·세부분야                            | 소속/기관          | 국가   | 주요 활동 시기  | 동급 판정 근거                                             | 근거 URL                                                                                                                                                                                                 |
+| ------- | ---------------------------------- | -------------- | ---- | --------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **조병준** | 응급구조학과 교수·전국응급구조(학)과 교수협의회 회장      | 강원대학교 응급구조학과   | 대한민국 | 2021–2025 | ① 대표 보직(교수협의회 회장)<br>② 공적DB 등재(ISNI)<br>③ 표준교재 사업 주도 | [국가전거](https://www.nl.go.kr/isni/resource/KAC201220440), [Safeday News](https://www.safedaynews.or.kr/news/articleView.html?idxno=363896)                                                              |
+| **정한호** | 응급구조과 교수·응급구조사 국가시험위원회 위원장         | 마산대학교 응급구조과    | 대한민국 | 2024–2025 | ① 대표 보직(국시위원장)<br>② 권위 매체 보도                         | [뉴시스](https://www.newsis.com/view/NISX20250819_0003295475), [Straight News](https://www.straightnews.co.kr/news/articleView.html?idxno=278844)                                                         |
+| **박영석** | 응급구조학과 교수·대한응급구조사협회 부회장(교육위원장)     | 선문대학교 응급구조학과   | 대한민국 | 2021–2025 | ① 부회장·교육위원장 보직<br>② 대학 공식 교수 페이지                     | [협회조직도](https://www.emt.or.kr/asoc/asoc_base/asoc_main/organ_chart2_03_00.php), [선문대 교수소개](https://emt.sunmoon.ac.kr/emt/ad/pp/profsrintrcnPage.do?mi=40992)                                           |
+| **최성수** | 응급구조학과 학과장·대한응급구조사협회 부회장           | 광주대학교 응급구조학과   | 대한민국 | 2023–2025 | ① 부회장 및 학과장 보직<br>② 대학 공식 보도                         | [협회조직도](https://www.emt.or.kr/asoc/asoc_base/asoc_main/organ_chart_01_01.php), [광주대 보도](https://www.gwangju.ac.kr/bbs/?b_id=gwangju_promotion_news&mn=376&offset=1184&page=75&site=gwangju&type=lists) |
+| **김용석** | 응급구조학과 교수·기획·운영위원장(협회)·보건복지부 장관 표창 | 건양대학교 응급구조학과   | 대한민국 | 2022–2025 | ① 협회 운영위원장<br>② 복지부 장관 표창 수상                         | [협회조직도](https://www.emt.or.kr/asoc/asoc_base/asoc_main/organ_chart2_03_00.php), [시사소리 보도](https://www.sjsori.com/news/articleView.html?idxno=66822)                                                    |
+| **조병준** | 응급구조학과 교수·재난 표준교재 공저 추진 책임         | 강원대학교 응급구조학과   | 대한민국 | 2022–2024 | ① 표준교재 공저<br>② 전문지 보도                                | [뉴스N제주](https://www.newsnjeju.com/news/articleView.html?idxno=149852), [아산투데이](https://www.asantoday.com/118076)                                                                                       |
+| **김준호** | 응급구조학과 교수·응급구조사 업무범위·법제 연구자        | 대전대학교 응급구조학과   | 대한민국 | 2019–2025 | ① 응급구조사 업무범위 법제 연구<br>② 복지부 자료 등재                    | [보건복지부 자료](https://www.mohw.go.kr/boardDownload.es?bid=0027&list_no=1483877&seq=2), [FPN119](https://www.fpn119.co.kr/198554)                                                                          |
+| **정준호** | 응급구조학과 교수·대한응급구조사협회 감사             | 남서울대학교 응급구조학과  | 대한민국 | 2018–2025 | ① 협회 감사 보직<br>② ISNI·대학 DB 등재                        | [협회조직도](https://www.emt.or.kr/asoc/asoc_base/asoc_main/organ_chart_01_01.php), [남서울대 교수정보](https://gr.nsu.ac.kr/kor/85/dept/0139)                                                                      |
+| **김경용** | 응급구조학과 부교수·대한응급구조사협회 재무위원장         | 한국교통대학교 응급구조학과 | 대한민국 | 2021–2025 | ① 협회 재무위원장 보직<br>② 대학 공식 페이지 및 ISNI 등재               | [협회조직도](https://www.emt.or.kr/asoc/asoc_base/asoc_main/organ_chart_01_01.php), [교통대 교수정보](https://www.ut.ac.kr/prog/professorInfo/91114016/paramedicine/sub02_01/view.do?cntno=462)                    |
+| **윤형완** | 응급구조학과 교수·대한응급구조사협회 이사·행안부 장관상 수상  | 전주비전대학교 응급구조학과 | 대한민국 | 2021–2025 | ① 행안부 장관 표창 수상<br>② 협회 이사 보직<br>③ DBpia 등재           | [전북일보](https://www.jjan.kr/article/20230203580076), [DBpia 저자페이지](https://www.dbpia.co.kr/author/authorDetail?ancId=710074893)                                                                         |
