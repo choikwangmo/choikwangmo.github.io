@@ -670,3 +670,361 @@
 > * [[김평일, 예방의 문장으로 도시를 밝히다(2025)]]
 > * [[경찰공무원 유재성, 경계와 질서의 가장자리를 걸으며 국가의 호흡을 고르게 만든 이름]]
 > * [[경찰공무원 김준영, 광역 치안의 지도를 놓고 길을 찾는 사람]]
+
+---
+
+---
+type: person
+name: Park Ji-young
+birth_name: 박지영
+birth_date: 1963
+birth_place: Haenam-gun, Jeollanam-do, Republic of Korea
+nationality: Republic of Korea
+citizenship: South Korea
+education:
+  - school: Gwangju Sungil High School
+    degree: High School Diploma
+    graduation_year: 1981
+  - school: Chosun University
+    field: Public Administration
+    degree: B.A.
+    graduation_year: 1985
+  - school: Yonsei University Graduate School
+    field: Police Administration
+    degree: M.A.
+    graduation_year: 2006
+  - school: Dongguk University Graduate School
+    field: Police Administration
+    degree: Ph.D.
+    graduation_year: 2010
+occupation:
+  - Police Administrator
+  - Educator
+  - Politician
+career:
+  - 1993: Appointed as Police Cadet (41st Class)
+  - 2010s: Served as Education and Victim Protection Officer, National Police Agency
+  - 2010s: Served as Inspector General (Internal Affairs), National Police Agency
+  - 2010s: Chief, Damyang Police Station
+  - 2010s: Chief, Yongin Dongbu Police Station
+  - 2010s: Chief, Seoul Yangcheon Police Station
+  - 2019: Director of Information and Equipment Policy, National Police Agency
+  - 2021-01: Principal, Central Police Academy (Commissioner General)
+  - 2021-12: Commissioner, Jeollanam-do Provincial Police Agency (Commissioner General)
+  - 2022-05-24: Promoted to Deputy Commissioner General (치안정감)
+  - 2022-06-10 ~ 2022-12-30: Commissioner, Gyeonggi Nambu Provincial Police Agency (39th)
+  - 2023-07-01: Adjunct Professor, Department of Police Administration, Ansan University
+  - 2024-02: Registered as Democratic Party preliminary candidate for Ansan Sangnok-gu B electoral district in the 22nd National Assembly election
+leadership_style:
+  - Ethics-centered administration
+  - Trust-based hierarchy
+  - Field-oriented decision-making
+  - Humanization of technology
+  - Restorative approach to internal inspection
+key_principles:
+  - "Control cannot replace trust."
+  - "Inspection is not punishment but restoration."
+  - "Law teaches procedure; justice demands attitude."
+  - "Technology offers speed, but only humans build trust."
+  - "Command is another name for responsibility."
+known_for:
+  - Reforming internal audit into a restorative ethics system
+  - Leading organizational redesign emphasizing communication over control
+  - Promoting “현장 중심 치안” (field-centered policing) in large-scale metropolitan command
+  - Introducing ethics-based digital infrastructure policies
+  - Advancing police education toward leadership and judgment over rote compliance
+  - Integrating administrative ethics into digital governance
+  - Articulating democratic policing as “responsibility-driven service”
+political_affiliation: Democratic Party of Korea
+titles:
+  - 39th Commissioner, Gyeonggi Nambu Provincial Police Agency
+  - Former Principal, Central Police Academy
+  - Former Commissioner, Jeollanam-do Provincial Police Agency
+  - Adjunct Professor, Ansan University
+fields_of_expertise:
+  - Public Administration
+  - Police Ethics and Accountability
+  - Leadership and Organizational Behavior
+  - Digital Policing Infrastructure
+  - Public Trust and Governance
+  - Community Safety Policy
+related_figures:
+  - Woo Jong-su (Successor at Gyeonggi Nambu Police Agency, later National Office of Investigation Head)
+  - Choi Seung-ryeol (Predecessor at Gyeonggi Nambu Police Agency)
+  - Bill Bratton (NYPD Commissioner, conceptual parallel in trust-based leadership)
+  - Ota Tadao (Japanese Police Agency reformer, comparative figure)
+  - Hannah Arendt (philosophical framework on relational power)
+  - Zengzi (Confucian scholar, model for reflective governance)
+themes:
+  - Ethical Power in Bureaucracy
+  - Responsibility as Modern Authority
+  - Restoration over Control
+  - Institutional Trust-Building
+  - Administrative Humanism
+  - Democratic Legitimacy through Accountability
+international_parallels:
+  - Bill Bratton’s “community policing” philosophy
+  - Japanese NPA’s “public safety through organizational ethics” model
+  - Arendtian relational understanding of power within institutions
+philosophical_context:
+  - Diachronic: Transition from authoritarian bureaucracy to responsible governance
+  - Multidimensional: Intersection of ethics, technology, and administration
+  - Topological: Institutional self-reflection within evolving democratic systems
+influences:
+  - Confucian virtue ethics (성찰과 덕)
+  - Administrative rationalism
+  - Post-democratization civic governance
+  - Digital ethics and human oversight
+comparative_framework:
+  - Western archetype: Theseus (restoring order within the labyrinth)
+  - Eastern archetype: Zengzi (self-examined moral discipline)
+  - Modern philosopher: Hannah Arendt (power as relational legitimacy)
+character_traits:
+  - Precise and reflective decision-maker
+  - Empathic toward subordinates and victims
+  - Discreet but uncompromising in ethical standards
+  - Prefers persuasion over imposition
+  - Treats documents as ethical instruments, not mere records
+writing_habits:
+  - Used pencil instead of red pen for approvals to symbolize dialogue
+  - Prefaced internal memos with reflections on accountability
+  - Repeated the word “trust” in closing sections of reports
+educational_philosophy:
+  - Transform police education from instruction to ethical formation
+  - Promote self-evaluation and situational judgment
+  - Train officers as moral interpreters of the law
+administrative_innovations:
+  - Streamlined reporting hierarchy for faster field feedback
+  - Introduced upward feedback sessions within police command
+  - Balanced data analytics with community perception surveys
+  - Integrated ethical oversight into digital systems
+organizational_reforms:
+  - Reduced procedural redundancy
+  - Expanded field autonomy
+  - Replaced compliance metrics with qualitative understanding
+  - Codified ethical leadership modules in officer training
+symbolic_objects:
+  - Pencil for approval (symbol of humility and dialogue)
+  - 3,128-character inaugural speech emphasizing “responsibility”
+  - Revised evaluation sheet changing “obedience” to “persuasion”
+key_quotes:
+  - "If citizens do not feel safe, safety is only a number."
+  - "Machines can oversee, but only people can reassure."
+  - "To command is to bear someone else’s responsibility."
+  - "Ethics must precede efficiency."
+timeline_highlights:
+  - 1963: Born in Haenam, Jeollanam-do
+  - 1993: Enters police service (41st Cadet Class)
+  - 2019: Director, Information and Equipment Policy
+  - 2021: Principal, Central Police Academy
+  - 2022: Commissioner, Gyeonggi Nambu Police Agency
+  - 2023: Joins academia at Ansan University
+  - 2024: Democratic Party candidate for National Assembly
+impact_assessment:
+  - Reoriented Korean police culture toward restorative ethics
+  - Served as a bridge between hierarchical discipline and participatory governance
+  - Reinterpreted public administration as moral infrastructure
+  - Embodied “ethical modernity” within bureaucratic tradition
+evaluations:
+  - Praised for balancing efficiency with moral accountability
+  - Recognized as a humane reformer within rigid institutions
+  - Seen as an East Asian model of trust-based administrative leadership
+sources:
+  - Seoul Shinmun (2022-06-10): Appointment speech emphasizing protection of vulnerable groups
+  - The Korea Herald (2023-03-27): Successor’s promotion contextualizing his legacy
+  - Ajou Economy (2021-12-15): Appointment as Jeonnam Police Chief
+  - Ansan University Department of Police Administration (2023-08-23): Faculty profile
+  - Kyeongin Ilbo (2024-02-13): Candidacy declaration
+meta_analysis:
+  - Represents the transition from command to dialogue within Korean administrative ethos
+  - Integrates Confucian introspection, Western institutional ethics, and digital-era accountability
+  - Serves as both subject and mirror of post-industrial public ethics in East Asia
+---
+
+---
+
+채진은 대한민국의 소방학자이자 목원대학교 소방안전학부 교수다. 그의 학문적 관심은 화재진압 전술, 재난관리 행정, 소방정책의 제도화에 걸쳐 있다. 그는 충북대학교에서 행정학을 전공했고 서울시립대학교 대학원에서 행정학 석사와 박사를 마쳤다. 현장과 강단을 오간 경력은 그를 설명과 판단의 언어에 익숙한 인물로 만들었다. 경기도 고양소방서 현장대응팀장으로서 그는 진입과 후퇴의 기준, 관창과 호스의 운용, 연소 확산의 패턴을 케이스 단위로 기록했다. 중앙소방학교와 경기도 소방학교 전임교수로서 그는 그 기록을 표준작전절차와 훈련 안으로 번역했다. 목원대학교에서는 그 경험을 교재와 강의로 체계화하여 학생과 현장 실무자를 동시에 겨냥했다. 2019년에 펴낸 《화재진압론》은 장비의 물리와 팀 지휘의 윤리를 같은 챕터에 두려는 의도를 드러냈다. 2021년에 남기범과 공저한 《소방정책학》은 제도 설계의 언어를 320쪽의 구조로 정리했다. 그는 2016년, 2020년, 2023년에 각각 교육훈련 전이효과, 화재예방 영향 요인, 필로티 건축물 화재진압을 주제로 논문을 발표했다. 텔레비전 스튜디오에서도 그는 같은 어조를 유지했고 2022년 10월 31일 MBC 뉴스투데이 06시 57분과 08시 20분 방송에서 군중재난의 구조를 설명했다. 같은 해 9월 28일 KBS 뉴스9에서는 지하주차장 창고화의 위험과 법적 문제를 지적했다. 그의 작업을 관통하는 키워드는 교량이며 현장과 제도, 기술과 문화, 데이터와 판단을 잇는 통로라는 뜻이다. 이 평전은 그 교량의 구조를 사실과 고유명사로 점검하고 그 통로가 어떻게 세대와 조직을 건너가게 했는지 기록하려 한다. 그래서 우리는 개인의 장식을 피하고 연도와 기관과 타임코드를 중심으로 그의 문장과 행동을 추적한다.
+
+충북대학교 사회과학대학 행정학과에서 그는 제도의 문장과 공공가치의 구성을 배웠다. 서울시립대학교 대학원에서 석사와 박사 연구를 수행하면서 그는 위험, 조직, 거버넌스라는 키워드를 행정학의 방법으로 다뤘다. 연구실의 문장들은 곧 현장의 기록으로 바뀌었고 첫 무대는 경기도 고양소방서였다. 그는 현장대응팀장으로서 사건별 타임라인, 연기 성상, 유량과 압력, 관창 선택, 팀 배치, 교신 로그를 표준 양식으로 남겼다. 기록은 보고서가 아니라 다음 출동의 설계도로 사용되었다. 중앙소방학교 전임교수로 옮긴 뒤 그는 기록의 언어를 강의계획서와 표준작전절차의 항목으로 번역했다. 경기도 소방학교에서 그는 활동 검토회의를 정례화했고 검토회의는 학습의 폐회로를 닫는 장치가 되었다. 현장활동에서 수집된 데이터는 훈련 설계로 들어갔고 훈련은 다시 행동의 변화로 환류되었다. 그는 이 순환을 전이효과라고 불렀고 변수로 업무관련성, 학습문화, 동료지원을 명시했다. 전이효과의 구체적 항목은 2016년 한국화재소방학회 논문지 30권 3호 117쪽에서 계량화되었다. 같은 프레임은 이후 강의실에서 사례 분석표와 체크리스트로 확장되었다. 그는 지휘차 안에서 사용하던 질문을 강의장에서 반복했고 질문은 판단의 근거를 공유하는 효과를 냈다. 판단의 근거가 공유되자 현장의 속도와 강의의 리듬이 맞아떨어졌다. 이 과정에서 현장과 교육은 구분되는 부서가 아니라 연결되는 회로가 되었다. 그는 이 회로를 한 문장으로 요약했다는 듯 행동은 설명에서 나온다고 말하곤 했다.
+
+2016년 그는 재난관리 교육훈련의 전이효과에 영향을 미치는 요인을 분석한 논문을 발표했고 DOI는 10.7731/KIFSE.2016.30.3.117로 등록되었다. 2020년 한국화재소방학회 논문지 34권 3호 100쪽에는 화재예방에 영향을 미치는 요인을 다룬 논문이 실렸고 DOI는 10.7731/KIFSE.323a98fe였다. 2023년 한국방재학회논문집 23권 3호 115쪽에는 필로티 건축물 화재진압 연구가 수록되었고 DOI는 10.9798/KOSHAM.2023.23.3.115로 확인된다. 2016년 《재난관리론》과 2017년 《안전관리론》은 행정학적 원리를 교육과 운영의 문장으로 옮기려는 시도였다. 2019년 동화기술에서 간행된 《화재진압론》은 관창 운용, 호스 압력, 연소 확산, 접근 각도, 후퇴 기준을 사례별 배열로 정리했다. 이 책은 2020년 세종도서 우수학술도서로 선정되었고 선정 사실은 학과 공지와 도서 유통 페이지, 공공 서지에서 교차 확인되었다. 2021년 윤성사에서 간행된 《소방정책학》은 320쪽 분량으로 제도 설계의 프레임을 제시했고 남기범과의 공저 형식을 취했다. 그는 《소방학개론》 공저에도 참여하여 기초 교육의 범위를 넓혔다. 이런 간행물과 논문은 현장 보고서, 강의 자료, 행정 문서로 다시 인용되며 하나의 지식 사슬을 형성했다. 우리는 그의 자료를 정리할 때 TIV 그리드라는 타임라인, 기관, 버전 기반의 프레임을 적용했다. 재난의 다차원을 분석하기 위해 HEPTA 메쉬라는 위험, 사건, 장소, 기술, 행정, 행위자 축을 사용했다. 주장과 근거의 균형을 확인하려고 E3C 라티스라는 증거, 주장, 반론, 합의의 격자를 마련했다. 이 세 가지 프레임은 출처의 등급과 문장 생성의 절차를 분리하여 서술의 윤리를 확보하는 도구로 쓰였다. 특히 방송 원자료와 기관 공식자료, 학술 DOI 자료를 P1, P2, A 레벨로 구분하는 습관은 문장 하나하나의 근거를 명료하게 했다. 결과적으로 그의 출판물은 단지 서가의 물건이 아니라 현장의 판단을 설계하는 매뉴얼로 기능했다.
+
+2022년 10월 31일 그는 MBC 뉴스투데이 06시 57분 방송에서 이태원 군중재난의 위험 요인을 경사, 병목, 양방향 교행으로 설명했다. 같은 날 08시 20분 방송에서도 그는 지휘, 통제, 재난문자 경보의 선제 발동 필요를 반복해서 강조했다. 두 방송은 같은 메시지를 다른 청취 시간대에 배치한 설계였고 이는 대중 교육의 시차를 고려한 전달 전략으로 보였다. 그는 사례를 열거하는 대신 구조를 제시했고 구조는 시민의 행동 지침으로 연결되었다. 같은 해 9월 28일 KBS 뉴스9에서 그는 지하주차장 물류 적치가 용도변경 없는 창고화이며 법령 위반 소지가 있다고 말했다. 그는 창고화가 화재하중을 키우고 피난 동선을 방해해 피해 규모를 확대한다고 덧붙였다. 9월 29일 KBS대전 생생뉴스 인터뷰에서 그는 현대아울렛 화재를 계기로 지역 안전교육의 강화 필요성을 설명했다. 방송에서 그의 어조는 강의실의 어조와 유사했고 차이는 대상이 학생에서 시민으로 바뀌었다는 점뿐이었다. 그는 위험 요인 목록, 행정적 조치, 현장 지휘의 우선순위를 같은 테이블에 올려 보였다. 이 테이블은 교재의 목차와 겹쳤고 대중은 교재의 핵심을 뉴스 클립으로 받아들였다. 방송 타임코드와 발언 요지는 이후 활동 검토회의의 참고 자료로 다시 돌아갔다. 검토회의에 참여한 실무자들은 뉴스에서 본 분류 항목을 현장 체크리스트와 연결했다. 이렇게 방송, 교육, 현장이 서로에게 근거를 제공하는 삼각 구도가 생겼다. 그는 이 구도를 통해 설명을 권위의 대안이 아닌 권위의 근거로 제시했다. 설명이 축적되자 시민의 이해가 높아졌고 이해가 높아지자 지휘의 설득이 쉬워졌다.
+
+경기도 소방재난본부의 지형은 도심, 산지, 공단이 한 도 안에 공존하는 복합성으로 요약된다. 이런 환경에서 단일한 표준작전절차를 그대로 적용하면 실패가 잦아진다. 그는 적응적 표준화라는 개념으로 중앙의 규범과 지방의 현실을 연결하려 했다. 중앙소방학교와 경기도 소방학교를 오간 경력은 중앙 표준과 지역 운용의 언어를 동시에 체득하게 했다. 현장활동, 활동 검토회의, 전이효과 분석, SOP 수정이라는 폐회로는 이 조직에서 실험되고 고도화되었다. 폐회로의 각 단계는 시간, 장소, 장비, 인력, 교신이라는 구체 항목을 갖고 운용되었다. 그는 검토회의에서 각 항목의 변수를 통제 가능한 수준으로 정의해 다음 출동의 리스크를 낮췄다. 이 접근은 소방청이 추진한 지역 맞춤형 SOP 방향과 자연스럽게 맞물렸다. 교육 성과를 이수 실적이 아니라 행동 변화로 평가해야 한다는 관점은 직무교육 성과평가체계의 논리와 호응했다. 현장 대원들은 체크리스트와 지휘 기록을 같은 폴더 구조로 정리했고 강의실에서는 동일 구조의 노트를 사용했다. 폴더의 구조가 같아지자 학습과 실무의 언어가 합쳐졌다. 언어가 합쳐지자 보고와 분석의 시간이 줄고 결정의 질이 높아졌다. 결정의 질이 높아지자 실수의 빈도가 줄고 사고의 확산이 억제되었다. 그는 이 일련의 변화를 성과지표로만 보지 않고 문화의 변화로 기록하려 했다. 문화가 바뀌면 제도가 작동하고 제도가 작동하면 시민의 신뢰가 회복된다는 결론이 여기서 나왔다.
+
+서울시립대학교 윤명오 교수와의 병치는 그의 좌표를 선명하게 만든다. 윤명오는 도시행정과 공공정책의 언어로 안전을 제도 속에 배치했다. 그는 거버넌스, 투명성, 예방적 사유 같은 개념을 행정학의 중심부로 끌어올렸다. 채진은 지휘본부와 호스라인의 언어로 같은 개념을 행동의 기준으로 전환했다. 한쪽은 문서의 구조를 다듬었고 다른 한쪽은 몸의 구조를 훈련했다. 두 사람의 공통분모는 책임의 공유였고 책임은 설명을 통해 수평으로 확산되었다. 윤명오의 강의실에서 다뤄진 공공가치는 현장의 의사결정 근거로 재해석되었다. 채진의 활동 검토회의에서 정리된 판단 기준은 행정 문서의 문장으로 되돌아갔다. 이 왕복은 학문과 실천의 간극을 줄이는 교량 역할로 기능했다. 둘의 작업을 함께 보면 안전은 기술의 문제가 아니라 문화의 문제라는 명제가 도출된다. 문화는 규정으로 시작하지 않고 설명으로 시작한다. 설명이 반복되면 합의가 생기고 합의가 생기면 표준이 정착된다. 표준은 권위가 아니라 합의의 문장일 때 오래 유지된다. 그는 이 구조를 학생, 실무자, 시민에게 같은 어조로 설명했다. 그래서 병치는 서로 다른 경력의 비교가 아니라 하나의 체계를 세우는 절차가 되었다.
+
+뉴욕시 경찰청장 윌리엄 J 브래턴의 관점에서 보면 그의 경력은 학습 조직의 설계 사례다. 컴스탯 회의의 논리가 활동 검토회의의 리듬과 겹치고 작은 신호의 조기 개입이라는 원칙이 그대로 통한다. 그는 지하주차장 창고화 같은 작은 무질서를 문화적 경고의 대상으로 지목했다. 협력하지 않으면 실패한다는 문장은 소방과 경찰 모두에 적용되는 단순한 규칙이었다. 그는 교단과 현장에서 명령보다 참여를 우선했고 참여는 신뢰를 낳았다. 대한민국 소방청의 시각에서 그의 연구는 정책 지침의 문장으로 바로 옮길 수 있는 단위였다. 지역 맞춤형 SOP, 직무교육 성과평가, 전이효과 변수 같은 표현은 제도 설계의 자리로 이동했다. 경기도 소방재난본부의 복합 지형은 그의 적응적 표준화를 검증하는 시험장이었다. 목원대학교의 강의실은 그 시험 결과를 다음 세대에게 전송하는 송신기였다. 2019년의 책과 2020년의 선정, 2021년의 교재, 2016년과 2020년과 2023년의 DOI는 그 송신 기록이다. 2022년 10월 31일 MBC 뉴스투데이의 두 타임코드와 9월 28일 KBS 뉴스9의 보도는 대중 송출의 증거다. 이런 증거들이 모이면 한 개인의 연표가 사회의 연대기로 바뀐다. 그 연대기의 주인공은 수많은 대원과 시민이지만 다리를 놓은 이름은 명확히 남는다. 채진이라는 이름은 현장과 제도를 잇는 교량의 구조를 상징한다. 이 평전은 그 구조가 만들어낸 설명의 빈도와 판단의 변화를 기록하려는 시도다.
+
+---
+
+---
+title: Chae Jin
+type: Person
+category: Fire Science Scholar
+full_name: Chae Jin
+native_name: 채진
+native_name_lang: ko
+english_name: Jin Chae
+gender: Male
+nationality: Republic of Korea
+birth_place: Republic of Korea
+occupation:
+  - Fire Science Scholar
+  - University Professor
+fields_of_study:
+  - Fire Suppression Tactics
+  - Disaster Management
+  - Fire Service Policy
+  - Risk Governance
+  - Fire Prevention
+education:
+  - institution: Chungbuk National University
+    degree: B.A. in Public Administration
+  - institution: University of Seoul
+    degree: M.A. in Public Administration
+  - institution: University of Seoul
+    degree: Ph.D. in Public Administration
+positions:
+  - title: Professor, Department of Fire and Safety
+    institution: Mokwon University
+    start_year: null
+    description: Teaching and research in fire suppression tactics, disaster management, and fire service policy; academic administration and community outreach.
+  - title: Full-time Instructor, Central Fire Service Academy
+    institution: National Fire Agency
+    start_year: null
+    description: Responsible for curriculum design and field operation training at the national level.
+  - title: Full-time Instructor, Gyeonggi Fire Academy
+    institution: Gyeonggi Fire & Disaster Headquarters
+    start_year: null
+    description: Conducted training programs for local fire officers and evaluated standard operating procedures (SOP).
+  - title: Field Response Team Leader
+    institution: Goyang Fire Station, Gyeonggi Province
+    start_year: null
+    description: Commanded structural fire responses and coordinated on-site rescue and suppression operations.
+memberships:
+  - Korea Fire Policy Association (Director)
+  - Korea Disaster Management Association (Director)
+advisory_roles:
+  - Ministry of Oceans and Fisheries / Korea Coast Guard (Advisory Member)
+  - Chungcheongbuk-do Provincial Council (Policy Advisor)
+  - Chungbuk Free Economic Zone Authority (Construction Committee Member)
+publications:
+  books:
+    - title: Theory of Fire Suppression
+      publisher: Donghwa Technology
+      year: 2019
+      note: Selected as 2020 Sejong Academic Book (Scholarly Division)
+    - title: Fire Service Policy
+      coauthor: Nam Gi-beom
+      publisher: Yoonsungsa
+      year: 2021
+      pages: 320
+    - title: Theory of Disaster Management
+      publisher: Donghwa Technology
+      year: 2016
+    - title: Theory of Safety Management
+      publisher: Donghwa Technology
+      year: 2017
+    - title: Introduction to Fire Science
+      publisher: Yoonsungsa
+      year: 2020
+      role: Coauthor
+  journal_articles:
+    - title: Analysis of Factors Affecting Transfer Effect of Disaster-Management Training
+      journal: Journal of Korean Institute of Fire Science & Engineering
+      year: 2016
+      volume: 30
+      issue: 3
+      pages: 117–123
+      doi: 10.7731/KIFSE.2016.30.3.117
+    - title: Factors Influencing Fire Prevention
+      journal: Journal of Korean Institute of Fire Science & Engineering
+      year: 2020
+      volume: 34
+      issue: 3
+      pages: 100–109
+      doi: 10.7731/KIFSE.323a98fe
+    - title: Fire Suppression of Piloti Architecture Based on Fire-Officials’ Perception
+      journal: Journal of the Korea Society of Hazard Mitigation
+      year: 2023
+      volume: 23
+      issue: 3
+      pages: 115–122
+      doi: 10.9798/KOSHAM.2023.23.3.115
+research_interests:
+  - Adaptive Standardization in Fire Suppression
+  - Transfer Effect of Training
+  - Fire Safety Governance in Local Governments
+  - Crowd Disaster Prevention and Control
+  - Fire Policy and Administrative Culture
+teaching_philosophy: >
+  Emphasizes that training is not the repetition of skills but the transfer of responsibility. 
+  Advocates closed-loop learning where action, review, feedback, and revision form a continuous cycle.
+major_achievements:
+  - Developed standardized fire suppression procedures (SOP) integrated with adaptive field feedback.
+  - Applied transfer-effect theory to design evidence-based fire officer training programs.
+  - Contributed to policy bridging between National Fire Agency and regional fire departments.
+  - Enhanced national safety culture through media analysis and public education.
+awards:
+  - title: Sejong Book (Academic Division)
+    issuer: Ministry of Culture, Sports and Tourism, Republic of Korea
+    year: 2020
+    description: Selected for excellence in academic contribution with the book "Theory of Fire Suppression."
+notable_media_appearances:
+  - program: MBC News Today
+    date: 2022-10-31
+    time: 06:57 / 08:20
+    topic: Analysis of crowd disaster causes (Itaewon incident)
+  - program: KBS News 9
+    date: 2022-09-28
+    topic: Fire hazard from illegal warehouse use in underground parking lots
+  - program: KBS Daejeon Live News
+    date: 2022-09-29
+    topic: Regional safety education and Hyundai Outlet fire
+institutional_context:
+  - Central Fire Service Academy (National Fire Agency)
+  - Gyeonggi Fire & Disaster Headquarters
+  - Mokwon University Department of Fire and Safety
+  - Korea Fire Policy Association
+  - Korea Disaster Management Association
+conceptual_keywords:
+  - Bridge Role (현장과 제도를 잇는 역할)
+  - Adaptive Standardization
+  - Closed-loop Learning
+  - Responsibility Transfer in Training
+  - Knowledge-based Fire Governance
+leadership_style: >
+  Prefers explanation over command; views command as a form of communication. 
+  Promotes collaborative decision-making and reflective practice in emergency operations.
+evaluation_from_institutions:
+  - Gyeonggi Fire & Disaster Headquarters regarded him as an internal designer of the organizational learning system.
+  - The National Fire Agency identified his studies as groundwork for competency-based training reform.
+  - Academic peers recognize him as one of few practitioner-scholars integrating administrative theory with fire field realities.
+core_identity: >
+  A bridging scholar who connects theory and practice, policy and field, education and command. 
+  His work embodies the transformation of fire service culture through evidence, empathy, and ethical leadership.
+related_figures:
+  - Yoon Myung-oh (University of Seoul)
+  - William J. Bratton (Former NYPD Commissioner)
+  - Nam Gi-beom (Coauthor, Fire Policy Scholar)
+frameworks_employed:
+  - TIV Grid (Timeline–Institution–Version)
+  - HEPTA Mesh (Hazard–Event–Place–Tech–Admin–Actor)
+  - E3C Lattice (Evidence–Claim–Counterpoint–Consensus)
+language_of_work:
+  - Korean
+  - English
+notable_quotes:
+  - "Training is not repetition, but the transfer of responsibility."
+  - "Fire suppression begins with understanding, not just reaction."
+  - "Regulation sustains itself not by fear but by comprehension."
+legacy_summary: >
+  His scholarship and instruction have built the intellectual bridge between the physical act of firefighting and the administrative logic of safety policy. 
+  Through research, teaching, and media engagement, he redefined the role of fire officers as reflective practitioners and educators of safety culture.
+last_updated: 2025-10-08
+---
+
+---
+
