@@ -1501,3 +1501,279 @@ chains:
 
 ---
 
+{{인물 정보
+|honorific_prefix= 
+|name= 방성환
+|honorific_suffix= 
+|native_name= 방성환
+|native_name_lang= ko
+|image= 
+|image_upright= 
+|alt= 
+|caption= 
+|pronunciation= 
+|birth_name= 
+|birth_date= 
+|birth_place= 
+|nationality= 대한민국
+|citizenship= 대한민국
+|education= 강원대학교 대학원 박사(응급의료 관련, 2020)
+|병역= 
+|alma_mater= 강원대학교 대학원
+|occupation= 응급구조학자<br>교수<br>전직 소방공무원
+|years_active= 2002–현재
+|employer= 부천대학교
+|organization= 부천대학교 원격평생교육원
+|title= 부천대학교 원격평생교육원장<br>부천대학교 응급구조학과 교수
+|term= 2025년 8월–현재<br>2024년–현재
+|known_for= 소방공무원 외상 후 스트레스(PTSD) 및 병원 전 응급의료 교육 연구
+|notable_works= 
+|predecessor= 
+|successor= 
+|spouse= 
+|signature= 
+|website= 
+|footnotes= 
+|english_name= Bang Seong-hwan
+|사망일= 
+|사망지= 
+|사망원인= 
+|발견지= 
+|매장지= 
+|매장지좌표= 
+|거주지= 
+|민족= 
+|본관= 
+|별칭= 
+|다른이름= 
+|경력= 소방 조직(119구급, 교육·행정) 경력 보유<ref name="FPN2025">{{웹 인용 |url=https://www.fpn119.co.kr/234213 |title=[릴레이 인터뷰] “현장서 생명 살릴 수 있는 구급대를 준비시키는 교육이 목표” |website=FPN-소방방재신문 |date=2025-05-09 |access-date=2025-10-08 |language=ko}}</ref><br>대전보건대학교 전임교수(특전의무부사관과 등)<ref name="KJEMS2019">{{웹 인용 |url=https://www.emsjournal.org/m/journal/view.php?number=57 |title=소방공무원의 직무스트레스, 자아탄력성 및 사건충격 정도 실태 조사 |website=한국응급구조학회지 |date=2019-04-30 |access-date=2025-10-08 |language=ko |doi=https://doi.org/10.14408/KJEMS.2019.23.1.049}}</ref><br>부천대학교 응급구조학과 교수(담당: 응급환자구조 및 장비운영, 전문외상처치학 등)<ref name="BUProf">{{웹 인용 |url=https://dept.bc.ac.kr/emergency-medical-service/professor/professor.do?article.offset=0&mode=list |title=교수소개 |website=부천대학교 응급구조학과 |access-date=2025-10-08 |language=ko}}</ref><br>부천대학교 원격·평생교육 관련 조직 책임(원장, 조직 총괄)<ref name="BCLifelongOrg">{{웹 인용 |url=https://dept.bc.ac.kr/home1/intro/organizational-configuration.do |title=조직구성 |website=부천대학교 평생교육원 |access-date=2025-10-08 |language=ko}}</ref><ref name="BCRemoteOrg">{{웹 인용 |url=https://cyber.bc.ac.kr/rtSub01/index02.html |title=조직도(원격평생교육원) |website=부천대 원격평생교육원 |access-date=2025-10-08 |language=ko}}</ref>
+|현직= 부천대학교 원격평생교육원장<br>부천대학교 응급구조학과 교수
+|전직= 대한민국 소방공무원
+|봉급= 
+|순자산= 
+|작위= 
+|정당= 
+|적수= 
+|위원= 
+|종교= 
+|동거인= 
+|자녀= 
+|부모= 
+|가족= 
+|등단= 
+|호출부호= 
+|상훈= 
+|기타= 
+}}
+
+{{한국 이름
+ | 제목 = 방성환
+ | 한글 표기 = 방성환
+ | 한자 표기 = 
+ | 개정 로마자 표기 = Bang Seong-hwan
+ | 매큔-라이샤워 표기 = Pang Sŏng-hwan
+ | 예일 표기 = Pang seng-hwan
+ | 공식 표기 = Bang Seong-hwan
+}}
+
+'''방성환'''(영어: Bang Seong-hwan)은 대한민국의 응급구조학자이자 교육자로, 전직 소방공무원이다.<ref name="GB2020">{{웹 인용 |url=https://books.google.com/books/about/%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4_VR_%EC%A4%91%EC%9E%AC%EA%B8%B0%EB%B2%95%EC%9D%B4_%EC%86%8C%EB%B0%A9.html?id=fK7pzgEACAAJ |title=가상현실(VR) 중재기법이 소방공무원의 외상 후 스트레스에 미치는 효과 |website=Google Books |publisher=강원대학교 |date=2020 |access-date=2025-10-08 |language=ja}}</ref> 2025년 기준 [[부천대학교]] 원격평생교육원장 겸 응급구조학과 교수로 재직한다.<ref name="BUProf"/><ref name="BCLifelongOrg"/> 연구는 소방공무원의 외상 후 스트레스(PTSD)와 병원 전 심폐소생술 교육 품질 향상에 중점을 둔다.<ref name="GB2020"/><ref name="KJSCI2023">{{학술지 인용 |저자=방성환; 송효숙; 심규식; 안희정 |제목=마스크 착용 여부와 유형에 따른 심장압박의 정확도, 피로도 및 생리학적 변화에 미치는 효과 |저널=한국컴퓨터정보학회논문지 |권=28 |호=7 |쪽=113–120 |날짜=2023 |url=https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002982411 |언어=ko |doi=https://doi.org/10.9708/jksci.2023.28.07.113 |확인날짜=2025-10-08 }}</ref>
+
+== 생애 ==
+=== 초기 생애와 교육 ===
+강원대학교 대학원에서 응급의료 분야 박사학위를 받았다(2020). 연구 주제는 가상현실(VR) 중재기법이 소방공무원의 외상 후 스트레스에 미치는 효과이다.<ref name="GB2020"/>
+
+=== 소방 경력 ===
+소방 조직에서 119구급대원, 구급 행정 및 교육을 포함해 약 15년간 근무했다. 충청소방학교에서 구급 교육을 맡았고, 이후 중앙 부서에서 구급 교육·훈련 관련 업무를 담당했다.<ref name="FPN2025"/> 
+
+=== 대학 경력 ===
+2010년대 후반부터 대전보건대학교에서 전임교원으로 활동했다는 학술 논문·DB 기록이 확인된다.<ref name="KJEMS2019"/><ref name="DBpia">{{웹 인용 |url=https://www.dbpia.co.kr/author/authorDetail?ancId=3956831 |title=DBpia 저자정보: 방성환(Bang Sung-Hwan) |website=DBpia |access-date=2025-10-08 |language=ko}}</ref> 2024년부터 부천대학교 응급구조학과 교수로 재직하며, 2025년 8월부터 부천대학교 평생교육원 업무를 총괄한다.<ref name="BUProf"/><ref name="BCLifelongOrg"/>
+
+== 주요 활동 ==
+* 부천시보건소와 응급처치 교육 업무협약 체결(2025년 5월).<ref name="KGNews">{{웹 인용 |url=https://www.kgnews.co.kr/news/article.html?no=843927 |title=부천시보건소-부천대학교, 응급처치 교육 업무협약 체결 |website=경기일보 |date=2025-05-08 |access-date=2025-10-08 |language=ko}}</ref>
+* NAEMT KOREA와 응급구조 국제교육 협력(가족회사 협약, 2025년 10월).<ref name="NAEMT_MOU">{{웹 인용 |url=https://www.sj-ccnews.com/news/articleView.html?idxno=52088 |title=부천대학교 응급구조학과–NAEMT KOREA, 가족회사 협약 |website=세종중앙뉴스 |date=2025-10-01 |access-date=2025-10-08 |language=ko}}</ref>
+* 학내·지역 연계 심폐소생술(BLS) 행사 운영 참여(2025년 9월).<ref name="BLS2025">{{웹 인용 |url=https://dept.bc.ac.kr/nursing/community/department-news.do?article.offset=0&articleLimit=10&articleNo=239280&mode=view |title=간호학과 BLS-TS 행사(응급구조학과 방성환 교수 참여) |website=부천대학교 간호학과 학과소식 |date=2025-09-01 |access-date=2025-10-08 |language=ko}}</ref>
+
+== 연구 주제와 방법론 ==
+방성환의 연구는 △소방공무원 PTSD 및 스트레스 중재<ref name="KAIS2015">{{학술지 인용 |저자=심규식; 김남송; '''방성환''' |제목=외상 후 스트레스 위기 소방관에 대한 단기간 음악치료의 효과 / ''Effects of Short-Term Music Therapy in Firefighters with PTSD'' |저널=한국산학기술학회논문지 |권=16 |호=6 |쪽=4040–4047 |날짜=2015 |url=https://koreascience.kr/article/JAKO201522359516188.pdf |언어=ko |doi=https://doi.org/10.5762/KAIS.2015.16.6.4040 |확인날짜=2025-10-08 }}</ref> △심폐소생술 교육 품질과 수행 변수(마스크 유형, 피로도, 생리학적 변화) 분석<ref name="KJSCI2023"/> △인공환기 훈련에서 호흡수·일회호흡량 측정기 사용 효과 평가<ref name="KJSCI2024">{{학술지 인용 |저자=임재란; '''방성환'''; 송효숙; 심규식; 박호진 |제목=고품질 인공환기 제공을 위한 호흡수 측정기 사용 교육 효과 / ''The Effects of Training on the Proper Use of Respiratory Rate Measurement Devices for Providing High-Quality Artificial Ventilation'' |저널=한국컴퓨터정보학회논문지 |권=29 |호=3 |쪽=165–171 |날짜=2024 |url=https://journal.kci.go.kr/jksci/archive/articleView?artiId=ART003063649 |언어=en |doi=https://doi.org/10.9708/jksci.2024.29.03.165 |확인날짜=2025-10-08 }}</ref>에 초점을 맞춘다. 박사 학위에서는 가상현실(VR) 기반 중재 효과를 다루었다.<ref name="GB2020"/>
+
+== 교육 및 커리큘럼 ==
+부천대학교에서 응급환자구조 및 장비운영, 전문외상처치학(실습 포함) 등을 담당한다.<ref name="BUProf"/> 학과 공지 및 시간표에 따르면 학기별 실습·구급 현장 연계 과목이 운영된다.<ref name="TimeS1">{{웹 인용 |url=https://dept.bc.ac.kr/emergency-medical-service/community/notice.do?articleNo=53444&mode=view&title=2025%ED%95%99%EB%85%84%EB%8F%84+1%ED%95%99%EA%B8%B0+%EC%8B%9C%EA%B0%84%ED%91%9C+%EC%95%88%EB%82%B4 |title=2025학년도 1학기 시간표 안내 |website=부천대학교 응급구조학과 |date=2025-02-13 |access-date=2025-10-08 |language=ko}}</ref><ref name="TimeS2">{{웹 인용 |url=https://dept.bc.ac.kr/emergency-medical-service/community/notice.do?article.offset=0&articleLimit=10&articleNo=238851&mode=view |title=2025학년도 2학기 시간표 안내 |website=부천대학교 응급구조학과 |date=2025-08-13 |access-date=2025-10-08 |language=ko}}</ref>
+
+== 경영 및 리더십·업무 철학 ==
+현장 대응 역량을 강화하는 실습 중심 교육과, 구급대의 실제 수행 능력을 높이는 교육 설계를 목표로 한다는 관점을 제시한다.<ref name="FPN2025"/>
+
+== 경력 ==
+* 2002–2017: 대한민국 소방공무원(119구급·교육·행정). 충청소방학교 구급 교육, 중앙 부서 교육·훈련 관련 업무 수행.<ref name="FPN2025"/>
+* 2017–2023: 대전보건대학교 전임교수(특전의무부사관과 등). 해당 소속 표기는 학술 논문 및 DB에서 확인됨.<ref name="KJEMS2019"/><ref name="KJEMS2020">{{학술지 인용 |저자=안희정; 심규식; 송효숙; '''방성환'''; 최길순 |제목=119구급서비스 질 향상을 위한 이용자 만족도 분석 / ''Analysis of User’s Satisfaction for 119 EMS Quality Improvement'' |저널=한국응급구조학회지 |권=24 |호=2 |쪽=67–77 |날짜=2020-08-28 |url=https://www.emsjournal.org/journal/view.php?doi=10.14408/KJEMS.2020.24.2.067 |언어=ko |doi=https://doi.org/10.14408/KJEMS.2020.24.2.067 |확인날짜=2025-10-08 }}</ref><ref name="DBpia"/>
+* 2024–현재: 부천대학교 응급구조학과 교수.<ref name="BUProf"/>
+* 2025–현재: 부천대학교 원격·평생교육 조직 총괄(원격·평생교육원 운영 관리).<ref name="BCLifelongOrg"/><ref name="BCRemoteOrg"/>
+
+== 저서 ==
+* 《1·2급 응급구조사를 위한 현장실습기록지 작성: 구급차 동승실습》, 메디컬에듀케이션, 2024. [https://product.kyobobook.co.kr/detail/S000215031231 교보문고 서지]  
+* 《1·2급 응급구조사를 위한 현장실습기록지 작성: 응급의료기관》, 메디컬에듀케이션, 2024. [https://product.kyobobook.co.kr/detail/S000215031245 교보문고 서지]  
+* 《현장응급의료구조술》(공저), 메디컬에듀케이션, 2025. [https://product.kyobobook.co.kr/category/KOR/26213309 교보문고 분야 목록(서지)] [https://gift.kakao.com/product/12373780 카카오 선물하기 서지]
+
+== 주요 논문 ==
+* 심규식; 김남송; '''방성환''', 〈외상 후 스트레스 위기 소방관에 대한 단기간 음악치료의 효과 / ''Effects of Short-Term Music Therapy in Firefighters with PTSD''〉, 《한국산학기술학회논문지》 16(6): 4040–4047 (2015). [https://doi.org/10.5762/KAIS.2015.16.6.4040 https://doi.org/10.5762/KAIS.2015.16.6.4040].  
+* 차진경; 최욱진; '''방성환''', 〈소방공무원의 직무스트레스, 자아탄력성 및 사건충격 정도 실태 조사 / ''A Survey on Job Stress, Ego-resilience and Impact of Event Scale among Firefighters''〉, 《한국응급구조학회지》 23(1): 49–60 (2019). [https://doi.org/10.14408/KJEMS.2019.23.1.049 https://doi.org/10.14408/KJEMS.2019.23.1.049].  
+* 안희정; 심규식; 송효숙; '''방성환'''; 최길순, 〈119구급서비스 질 향상을 위한 이용자 만족도 분석 / ''Analysis of User’s Satisfaction for 119 EMS Quality Improvement''〉, 《한국응급구조학회지》 24(2): 67–77 (2020). [https://doi.org/10.14408/KJEMS.2020.24.2.067 https://doi.org/10.14408/KJEMS.2020.24.2.067].  
+* '''방성환'''; 송효숙; 심규식; 안희정, 〈마스크 착용 여부와 유형에 따른 심장압박의 정확도, 피로도 및 생리학적 변화에 미치는 효과 / ''Effect of Mask Wearing and Type on CPR Accuracy, Fatigue and Physiological Changes''〉, 《한국컴퓨터정보학회논문지》 28(7): 113–120 (2023). [https://doi.org/10.9708/jksci.2023.28.07.113 https://doi.org/10.9708/jksci.2023.28.07.113].  
+* 임재란; '''방성환'''; 송효숙; 심규식; 박호진, 〈고품질 인공환기 제공을 위한 호흡수 측정기 사용 교육 효과 / ''The Effects of Training on the Proper Use of Respiratory Rate Measurement Devices for Providing High-Quality Artificial Ventilation''〉, 《한국컴퓨터정보학회논문지》 29(3): 165–171 (2024). [https://doi.org/10.9708/jksci.2024.29.03.165 https://doi.org/10.9708/jksci.2024.29.03.165].  
+
+== 같이 보기 ==
+* [[응급구조사]]
+* [[심폐소생술]]
+* [[소방청]]
+
+== 각주 ==
+{{reflist}}
+
+[[분류:살아있는 사람]]
+[[분류:대한민국의 대학 교수]]
+[[분류:대한민국의 소방공무원]]
+[[분류:강원대학교 동문]]
+
+
+---
+
+== 논문 ==
+* 심규식; 김남송; '''방성환''', 〈외상 후 스트레스 위기 소방관에 대한 단기간 음악치료의 효과 / ''Effects of Short-Term Music Therapy in Firefighters with PTSD''〉, 《한국산학기술학회논문지》 16(6): 4040–4047 (2015). [https://doi.org/10.5762/KAIS.2015.16.6.4040 https://doi.org/10.5762/KAIS.2015.16.6.4040].
+: 소방관의 외상 후 스트레스 반응에 대한 단기간 음악치료의 효과를 평가하였다. 단일군 전후 비교 설계와 표준화된 심리척도를 사용해 개입 전·후 변화를 분석하였다. 개입 이후 외상 관련 증상 점수가 감소하는 경향을 확인하였다. 현장 실무자를 대상으로 한 비약물적 중재의 가능성을 제시하였다.
+
+* 차진경; 최욱진; '''방성환''', 〈소방공무원의 직무스트레스, 자아탄력성 및 사건충격 정도 실태 조사 / ''A Survey on Job Stress, Ego-resilience and Impact of Event Scale among Firefighters''〉, 《한국응급구조학회지》 23(1): 49–60 (2019). [https://doi.org/10.14408/KJEMS.2019.23.1.049 https://doi.org/10.14408/KJEMS.2019.23.1.049].
+: 소방공무원의 직무스트레스, 자아탄력성, 사건충격 수준의 분포와 상호 관련을 파악하였다. 횡단면 설문조사와 기술통계·상관·회귀분석을 실시하였다. 직무스트레스와 사건충격은 양의 관련을, 자아탄력성과 사건충격은 음의 관련을 보였다. 정신건강 증진을 위한 조직적 개입의 우선순위 설정에 참고자료를 제공하였다.
+
+* 안희정; 심규식; 송효숙; '''방성환'''; 최길순, 〈119구급서비스 질 향상을 위한 이용자 만족도 분석 / ''Analysis of User’s Satisfaction for 119 EMS Quality Improvement''〉, 《한국응급구조학회지》 24(2): 67–77 (2020). [https://doi.org/10.14408/KJEMS.2020.24.2.067 https://doi.org/10.14408/KJEMS.2020.24.2.067].
+: 119구급서비스 이용자의 만족도 구성 요인과 서비스 질의 관계를 분석하였다. 표준화 설문을 기반으로 요인분석과 다변량 회귀를 수행하였다. 의사소통, 대응성 등 서비스 속성이 만족도와 유의한 관련을 보였다. 이용자 관점의 품질지표 설계에 근거를 제시하였다.
+
+* '''방성환'''; 송효숙; 심규식; 안희정, 〈마스크 착용 여부와 유형에 따른 심장압박의 정확도, 피로도 및 생리학적 변화에 미치는 효과 / ''Effect of Mask Wearing and Type on CPR Accuracy, Fatigue and Physiological Changes''〉, 《한국컴퓨터정보학회논문지》 28(7): 113–120 (2023). [https://doi.org/10.9708/jksci.2023.28.07.113 https://doi.org/10.9708/jksci.2023.28.07.113].
+: 성인 심폐소생술 수행 시 마스크 착용 여부와 유형이 가슴압박 정확도, 수행자 피로도, 생리학적 지표에 미치는 영향을 비교하였다. 시뮬레이션 실험과 반복측정 분석을 사용하였다. 마스크 조건에 따라 압박 정확도와 피로도 지표에서 차이가 관찰되었다. 감염관리와 수행 품질 간 균형을 고려한 교육 지침 수립에 참고가 되었다.
+
+* 임재란; '''방성환'''; 송효숙; 심규식; 박호진, 〈고품질 인공환기 제공을 위한 호흡수 측정기 사용 교육 효과 / ''The Effects of Training on the Proper Use of Respiratory Rate Measurement Devices for Providing High-Quality Artificial Ventilation''〉, 《한국컴퓨터정보학회논문지》 29(3): 165–171 (2024). [https://doi.org/10.9708/jksci.2024.29.03.165 https://doi.org/10.9708/jksci.2024.29.03.165].
+: 인공환기 교육에서 호흡수 측정기 사용 훈련이 적정 환기 수행에 미치는 영향을 평가하였다. 교육 전·후 성과를 비교하는 준실험 설계와 성과지표(분당 환기수, 일회환기량)를 사용하였다. 교육 이후 적정 환기 비율과 수행 정확도가 향상되었다. 기기 기반 피드백을 활용한 교육 모듈의 효율성을 시사하였다.
+
+---
+
+{{인물 정보
+|honorific_prefix=
+|name=Jeff Gordon
+|honorific_suffix=B.A.<br>M.L.A.
+|native_name=Jeff Gordon
+|native_name_lang=en
+|image=
+|image_upright=
+|alt=
+|caption=
+|pronunciation=
+|birth_name=Jeffrey A. Gordon
+|birth_date=
+|birth_place=
+|nationality=
+|citizenship=
+|education=B.A.<br>M.L.A.<br>체계적 가족치료 수련<br>인본주의 심리학 관련 수련
+|병역=
+|alma_mater=
+|occupation=심리치료사<br>결합심리치료 지도치료사(Lehrtherapeut)<ref name="dgbp-therapists">{{웹 인용 |url=https://www.bonding-psychotherapie.de/therapeuten-innen/ |title=치료사 명단 |website=독일 결합심리치료학회 (Deutsche Gesellschaft für Bonding-Psychotherapie e.V.) |language=de |access-date=2025-10-08}}</ref>
+|years_active=1972–현재<ref name="zik-chron">{{웹 인용 |url=https://www.zentrumimkraichgau.de/zentrum/chronologie.html |title=연혁 |website=크라익가우 센터 (Zentrum im Kraichgau) |language=de |access-date=2025-10-08}}</ref>
+|employer=크라익가우 센터 (Zentrum im Kraichgau)<ref name="zik-besch">{{웹 인용 |url=https://www.zentrumimkraichgau.de/zentrum/beschreibung.html |title=기관 소개 |website=크라익가우 센터 (Zentrum im Kraichgau) |language=de |access-date=2025-10-08}}</ref>
+|organization=독일 결합심리치료학회 (DGBP)<br>국제 결합심리치료학회 (ISBP)<br>유럽 결합심리치료학회 (ESBP)<ref name="dgbp-therapists" />
+|title=크라익가우 센터 공동 설립자<br>ISBP·ESBP 회장(역임)<ref name="isbp-2010">{{웹 인용 |url=https://www.bonding-psychotherapy.org/wp-content/uploads/2017/09/ISBP_Newsletter_01_Feb-2010.pdf |title=국제 결합심리치료학회 뉴스레터 – 2010년 2월호 |website=국제 결합심리치료학회 (ISBP) |format=PDF |language=en |access-date=2025-10-08}}</ref><ref name="isbp-2013">{{웹 인용 |url=https://www.bonding-psychotherapy.org/wp-content/uploads/2017/09/Newsletter-2013-December-20.pdf |title=국제 결합심리치료학회 뉴스레터 – 2013년 12월호 |website=국제 결합심리치료학회 (ISBP) |format=PDF |language=en |access-date=2025-10-08}}</ref>
+|term=2009–2013<ref name="isbp-2013" />
+|known_for=결합심리치료 교육 및 확산<ref name="zik-intro">{{웹 인용 |url=https://www.zentrumimkraichgau.de/bonding-therapie/einfuehrung.html |title=결합심리치료: 소개 |website=크라익가우 센터 (Zentrum im Kraichgau) |language=de |access-date=2025-10-08}}</ref>
+|notable_works=〈정서의 생물학적 상관(The Biological Correlates of Emotions)〉(2011)
+|predecessor=
+|successor=
+|spouse=줄리아 고든 (Julia Gordon)
+|signature=
+|website=
+|footnotes=
+|english_name=Jeff Gordon
+|사망일=
+|사망지=
+|사망원인=
+|발견지=
+|매장지=
+|매장지좌표=
+|거주지=독일 바덴-뷔르템베르크주 신스하임-라이엔<ref name="zik-kontakt">{{웹 인용 |url=https://www.zentrumimkraichgau.de/zentrum/kontakt.html |title=연락처 |website=크라익가우 센터 (Zentrum im Kraichgau) |language=de |access-date=2025-10-08}}</ref>
+|민족=
+|본관=
+|별칭=
+|다른이름=
+|경력=
+|현직=
+|전직=
+|봉급=
+|순자산=
+|작위=
+|정당=
+|적수=
+|위원=
+|종교=
+|동거인=
+|자녀=제시카 고든 (Jessica Gordon)<br>바네사 고든 (Vanessa Gordon)<br>데이비드 고든 (David Gordon)<ref name="zik-jj" />
+|부모=
+|가족=
+|등단=
+|호출부호=
+|상훈=
+|기타=
+}}
+{{한국 이름
+ | 제목 = 제프 고든
+ | 한글 표기 = 제프 고든
+ | 한자 표기 = 
+ | 개정 로마자 표기 = Jeff Gordon
+ | 매큔-라이샤워 표기 = 
+ | 예일 표기 = 
+ | 공식 표기 = Jeff Gordon
+}}
+
+'''제프 고든'''(Jeff Gordon)은 [[독일]] 바덴-뷔르템베르크주 신스하임-라이엔을 근거지로 활동하는 결합심리치료(Bonding-Psychotherapie) 지도치료사이다.<ref name="zik-jj2">{{웹 인용 |url=https://www.zentrumimkraichgau.de/zentrum/jeff-und-julia.html |title=Jeff und Julia Gordon |website=Zentrum im Kraichgau |language=de |access-date=2025-10-08}}</ref><ref name="ijp-articlepage">{{웹 인용 |url=https://www.bonding-psychotherapy.org/the-biological-correlates-of-emotions/ |title=The Biological Correlates of Emotions |website=ISBP/ESBP |language=en |access-date=2025-10-08}}</ref> 1978년 설립된 Zentrum im Kraichgau의 공동 설립자이다.<ref name="zik-besch" /><ref name="zik-jj" /> 독일 결합심리치료학회(DGBP)의 Teaching Fellow로 활동하고,<ref name="dgbp-therapists" /> 2009년부터 2013년까지 국제 결합심리치료학회(ISBP)와 유럽 결합심리치료학회(ESBP) 회장을 역임하였다.<ref name="isbp-2010" /><ref name="isbp-2013" />
+
+== 생애와 배경 ==
+고든은 1972년부터 하이델베르크 Free-Clinic에서 집단 프로그램을 구축하며 활동을 시작했고, 1975년부터 1978년까지 야크스트하우젠의 슈톨첸호프에서 세미나하우스를 공동 설립·운영하였다.<ref name="zik-chron" /> 1978년 신스하임-라이엔 외곽의 현 부지로 옮겨 치료 공동체를 구성했고, 1984년에 현재의 Zentrum im Kraichgau라는 명칭으로 재출범하였다.<ref name="zik-chron" /><ref name="zik-besch" />
+
+== 경력 ==
+* 1972–1975: Free-Clinic Heidelberg, 집단 프로그램 설립 및 신규 그룹리더 교육·수퍼비전 담당.<ref name="zik-chron" />
+* 1975–1978: Seminarhaus Stolzenhof 공동 설립자·스태프(초기 Bonding 워크숍 진행).<ref name="zik-chron" />
+* 1978: 신스하임-라이엔으로 이전, 치료 공동체 ‘Therapeutisches Team im Kraichgau’ 구성(센터 전신).<ref name="zik-chron" />
+* 1984–현재: Zentrum im Kraichgau 공동 설립자·공동 운영자.<ref name="zik-besch" /><ref name="zik-jj" />
+* 1977–현재: Bonding-Psychotherapie 워크숍 지도(집단치료·교육 병행).<ref name="zik-jj" />
+* 2009–2013: ISBP·ESBP 회장(국제·유럽 학회).<ref name="isbp-2013" />
+* 2011: 「The Biological Correlates of Emotions」 공동 저술(국제 심리치료 저널, 15권 3호, 6–24쪽).<ref name="ijp-articlepage" /><ref name="ijp-articlepdf">{{웹 인용 |url=https://www.bonding-psychotherapy.org/wp-content/uploads/2017/06/Stadtmuller__Gordon.pdf |title=The Biological Correlates of Emotions (PDF) |website=ISBP/ESBP |format=PDF |language=en |access-date=2025-10-08}}</ref>
+
+== 주요 활동 ==
+고든은 신체적 근접과 정서적 개방을 안전하게 경험하도록 설계된 집단 환경을 바탕으로 정기 워크숍·1일 워크숍·연속 그룹을 운영한다. 해당 프로그램은 Bonding-Übung(근접 연습)과 Einstellungsgruppe(태도·신념 작업)를 병행하며, 사전 안내·질의응답으로 구성된다.<ref name="zik-intro" /><ref name="zik-wasist">{{웹 인용 |url=https://www.zentrumimkraichgau.de/bonding-therapie/was-ist-bonding-psychotherapie.html |title=Was ist Bonding-Psychotherapie? |website=Zentrum im Kraichgau |language=de |access-date=2025-10-08}}</ref>
+
+ISBP 회장 재임 중(2009–2013) 고든은 국제·유럽 챕터의 행사와 교육과정 표준화에 관여했으며, ESBP의 EAP(유럽심리치료협회) 인정 절차(EWO) 추진과 학회 구조 정비를 이끌었다고 보고된다.<ref name="isbp-2010" /><ref name="isbp-2013" /> 2010년 2월 회장 서신에서 그는 ‘공동체의 힘’을 연간 기조로 제시하며, 챕터 간 상호지원과 국제학술대회 참여를 통해 전문공동체를 강화하자는 방향을 밝혔다.<ref name="isbp-2010" />
+
+== 임상 및 교육 ==
+센터는 강한 감정 표현의 허용과 윤리 규범(성적 접촉 금지·폭력 금지·약물 금지)을 명시하며, 트라우마 재연을 지양하고 ‘여기-지금’의 신체·정서적 접촉을 유지하도록 지도한다. 적용 적응증과 금기, 통합 과정을 병행하는 교육적 구성(소개 강의·교류 라운드)을 운영한다.<ref name="zik-die">{{웹 인용 |url=https://www.zentrumimkraichgau.de/dies-und-das/artikel/die-bonding-psychotherapie.html |title=Die Bonding-Psychotherapie |website=Zentrum im Kraichgau |language=de |access-date=2025-10-08}}</ref> 이 접근은 [[인본주의 심리학]]·[[가족 치료]]·[[애착 이론]]의 통찰을 접목한 [[심리요법]]의 한 분파로 소개된다.<ref name="zik-intro" />
+
+== 연구와 저술 ==
+고든은 고데하르트 슈타트뮐러와 함께 정서의 생물학적 상관을 주제로 한 논문을 발표했으며(2011), 해당 저작은 ISBP/ESBP 자료실과 저널 상거래 페이지에서 확인된다.<ref name="ijp-articlepage" /><ref name="ijp-shop">{{웹 인용 |url=https://www.ijp.org.uk/shop/productlist.php?category=2&secondary=6 |title=Vol. 15, No. 3 (2011) – Article List |website=International Journal of Psychotherapy |language=en |access-date=2025-10-08}}</ref> 또한 센터 홈페이지에 Bonding-Psychotherapie의 이론·실천을 체계적으로 소개한 글을 게재했다.<ref name="zik-intro" />
+
+== 관점 ==
+‘정서적 개방+신체적 근접’이라는 인간의 기본 욕구를 전제로, 깊은 감정 접근·자기·타인에 대한 긍정적 태도 형성·새로운 행동 학습을 목표로 한다. 과정 전반은 신뢰롭고 안전한 환경 조성, 윤리 규범 준수, 인지적 통합(심리교육)으로 보완된다.<ref name="zik-besch" /><ref name="zik-intro" /><ref name="zik-die" />
+
+== 개인사 ==
+고든은 1976년 줄리아 고든과 결혼했으며, 세 자녀(Jessica, Vanessa, David)를 두었다.<ref name="zik-jj">{{웹 인용 |url=https://www.zentrumimkraichgau.de/zentrum/jeff-und-julia.html |title=제프와 줄리아 고든 |website=크라익가우 센터 (Zentrum im Kraichgau) |language=de |access-date=2025-10-08}}</ref> 두 사람은 신스하임-라이엔의 센터를 공동 운영한다.<ref name="zik-kontakt" />
+
+== 선택된 강연 및 행사 ==
+* 2022년 3월 18–20일, 독일 신스하임-라이엔(센터): Bonding-Workshop mit Jeff und Julia Gordon<ref name="dgbp-event">{{웹 인용 |url=https://www.bonding-psychotherapie.de/veranstaltung/bonding-workshop-mit-jeff-gordon-17/ |title=Bonding-Workshop mit Jeff und Julia Gordon |website=Deutsche Gesellschaft für Bonding-Psychotherapie e.V. |language=de |access-date=2025-10-08}}</ref>
+
+== 논문 ==
+* '''제프리 A. 고든'''(Jeffrey A. Gordon); 고데하르트 슈타트뮐러(Godehard Stadtmüller), 2011. 〈정서의 생물학적 상관(The Biological Correlates of Emotions)〉, ''International Journal of Psychotherapy'' 15(3): 6–24.<ref name="ijp-shop" /><ref name="ijp-articlepage" /><ref name="ijp-articlepdf" />
+
+== 각주 ==
+{{reflist}}
+
+== 외부 링크 ==
+* [https://www.youtube.com/channel/UC2fXz9Ju1DIAos7Jd71WpxQ Zentrum im Kraichgau – Jeff & Julia Gordon (YouTube)]
+
+[[분류:살아있는 사람]]
+[[분류:심리치료사]]
+[[분류:애착 이론]]
+
+---
+
