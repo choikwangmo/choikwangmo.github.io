@@ -1498,3 +1498,6 @@ chains:
 | **정준호** | 응급구조학과 교수·대한응급구조사협회 감사             | 남서울대학교 응급구조학과  | 대한민국 | 2018–2025 | ① 협회 감사 보직<br>② ISNI·대학 DB 등재                        | [협회조직도](https://www.emt.or.kr/asoc/asoc_base/asoc_main/organ_chart_01_01.php), [남서울대 교수정보](https://gr.nsu.ac.kr/kor/85/dept/0139)                                                                      |
 | **김경용** | 응급구조학과 부교수·대한응급구조사협회 재무위원장         | 한국교통대학교 응급구조학과 | 대한민국 | 2021–2025 | ① 협회 재무위원장 보직<br>② 대학 공식 페이지 및 ISNI 등재               | [협회조직도](https://www.emt.or.kr/asoc/asoc_base/asoc_main/organ_chart_01_01.php), [교통대 교수정보](https://www.ut.ac.kr/prog/professorInfo/91114016/paramedicine/sub02_01/view.do?cntno=462)                    |
 | **윤형완** | 응급구조학과 교수·대한응급구조사협회 이사·행안부 장관상 수상  | 전주비전대학교 응급구조학과 | 대한민국 | 2021–2025 | ① 행안부 장관 표창 수상<br>② 협회 이사 보직<br>③ DBpia 등재           | [전북일보](https://www.jjan.kr/article/20230203580076), [DBpia 저자페이지](https://www.dbpia.co.kr/author/authorDetail?ancId=710074893)                                                                         |
+
+---
+
