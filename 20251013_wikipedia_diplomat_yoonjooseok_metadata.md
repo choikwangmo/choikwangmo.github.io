@@ -1,4 +1,4 @@
-**Part A. Human-Readable Summary**
+Part A. Human-Readable Summary
 
 **Snapshot:**
 Yoon Chu-sok (윤주석) is a career diplomat in the Ministry of Foreign Affairs of the Republic of Korea (대한민국 외교부), serving since the mid-2010s and, as of 2025, holding the position of Director General for Consular Affairs and Overseas Safety (영사안전국장). He oversees global consular protection for overseas Koreans, coordinates crisis response among embassies and domestic agencies, and leads bilateral consular consultations with partner governments including Thailand (태국), Cambodia (캄보디아), Russia (러시아), and the Philippines (필리핀).
