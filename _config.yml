@@ -54,3 +54,8 @@ seo:
 #     url: /index_chronological.html
 #   - title: "Wikipedia"
 #     url: /index_wikipedia.html
+
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
