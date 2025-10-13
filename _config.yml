@@ -1,42 +1,41 @@
-# _config.yml — choikwangmo.github.io (User/Org site)
-# 2025-10 안정판: GitHub Pages (Jekyll 4.4.x) 완전 호환 구성
+# _config.yml — choikwangmo.github.io (GitHub Pages 완전 호환 안정판)
+# 2025-10-13 업데이트: Liquid date 오류 완전 해결 + GitHub Pages 공식 theme 사용
 
 # --- 사이트 정보 ---
 title: "choikwangmo"
 description: "소방 · AI · 지식연결 실험 노트"
 url: "https://choikwangmo.github.io"
-baseurl: ""               # 사용자/조직 페이지는 빈 문자열
+baseurl: ""
 timezone: "Asia/Seoul"
 locale: "ko_KR"
 
-# --- 테마 ---
-remote_theme: jekyll/minima
-minima:
-  skin: dark              # 'classic', 'dark', 'solarized-light', 'solarized-dark' 가능
-  header_pages:
-    - 2025.md             # 상단 메뉴에 표시할 페이지
-
-# --- 마크다운/퍼머링크 ---
-markdown: kramdown
-kramdown:
-  input: GFM              # GitHub Flavored Markdown
-  hard_wrap: false
-permalink: pretty          # /path/ 형태 URL
-
-# --- 플러그인(GitHub Pages 허용 목록 전부) ---
+# --- 테마 (GitHub Pages 호환 공식 버전) ---
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-remote-theme   # remote_theme 사용 필수
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# --- 기본값(프런트매터 최소화용) ---
+# --- 테마 옵션 ---
+# (pages-themes/minimal 은 minima와 달리 header_pages 속성을 직접 지원하지 않음)
+# 상단 메뉴가 필요하면 index.md 안에 직접 링크를 작성하세요.
+# 예: [2025 계획 보기](2025.html)
+
+# --- 마크다운 / 퍼머링크 ---
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+
+# --- 기본값 (프런트매터 최소화용) ---
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"      # 기본 페이지 레이아웃
+      layout: "default"
   - scope:
       path: ""
       type: "posts"
@@ -55,6 +54,6 @@ exclude:
   - LICENSE
 
 # --- 안전 옵션 ---
-safe: false               # --safe 옵션 무력화 (theme, plugin 정상 작동용)
+safe: false
 future: false
 lsi: false
