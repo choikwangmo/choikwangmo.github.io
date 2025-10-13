@@ -1,7 +1,5 @@
-# _config.yml — choikwangmo.github.io (GitHub Pages 완전 호환 안정판)
-# 2025-10 업데이트: Liquid 오류 제거 + GitHub Pages 공식 minimal 테마 적용
+# _config.yml — choikwangmo.github.io (가장 단순한 GitHub 기본 테마)
 
-# --- 사이트 정보 ---
 title: "choikwangmo"
 description: "최광모"
 url: "https://choikwangmo.github.io"
@@ -9,12 +7,11 @@ baseurl: ""
 timezone: "Asia/Seoul"
 locale: "ko_KR"
 
-# --- 테마 (GitHub Pages 공식 테마: minimal) ---
-remote_theme: pages-themes/minimal@v0.2.0
+# --- 가장 단순한 기본 테마 ---
+theme: jekyll-theme-primer
 
-# --- 플러그인 (GitHub Pages 허용 목록 전부) ---
+# --- 필수 플러그인 (SEO, 피드, 사이트맵) ---
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -56,6 +53,6 @@ safe: false
 future: false
 lsi: false
 
-# --- Liquid 파서 오류 무시 설정 ---
+# --- Liquid 파서 에러 무시 ---
 liquid:
   error_mode: lax
