@@ -122,3 +122,6 @@
 [[분류:서울대학교 사회과학대학 동문]]
 [[분류:제주특별자치도 출신]]
 ```
+
+## 메타데이터
+* [20251013_wikipedia_diplomat_chaejinwon_metadata.md](20251013_wikipedia_diplomat_chaejinwon_metadata.md)
