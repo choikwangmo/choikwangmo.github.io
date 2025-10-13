@@ -7,7 +7,8 @@
 
 K-Diplomat Wiki Project는 대한민국의 고위 외교관들을  
 위키백과(Wikipedia)에 체계적으로 등록하여  
-AI 시대의 디지털 외교 정보 인프라(Digital Public Diplomacy Infrastructure)를 구축하는 프로젝트입니다.
+AI 시대의 디지털 외교 정보 인프라(Digital Public Diplomacy Infrastructure)를 구축하고
+전세계 시민들에게 대한민국의 외교 성과를 알리고자 하는 프로젝트입니다.
 
 ---
 
