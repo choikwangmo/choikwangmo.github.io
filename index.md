@@ -25,7 +25,7 @@ Below are entry-point documents you can begin with. Each link points to another 
 
 * [chronological](index_chronological.md)
 * [project](index_project.md)
-* [wikipedia(index_wikipedia.md)
+* [wikipedia](index_wikipedia.md)
 ---
 
 ## Public Domain Dedication (CC0 1.0 Universal)
