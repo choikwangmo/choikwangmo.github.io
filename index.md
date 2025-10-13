@@ -49,9 +49,6 @@ For details, see:
 - Personal site (Imweb): [https://choikwangmo.imweb.me/](https://choikwangmo.imweb.me/)
 - Naver Blog: [https://blog.naver.com/choikwangmo9](https://blog.naver.com/choikwangmo9)
 - Resume (Obsidian Publish): [https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume](https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume)
-- goedelescherbachandriemann: [https://goedelescherbachandriemann.com](https://goedelescherbachandriemann.com/)
-- ko.wikipedia.org: [https://ko.wikipedia.org/wiki/Special:Contributions/Choikwangmo25](https://ko.wikipedia.org/wiki/Special:Contributions/Choikwangmo25)
-- commons.wikimedia.org: [https://commons.wikimedia.org/w/index.php?title=Special:Contributions/Choikwangmo25&target=Choikwangmo25&offset=&limit=500](https://commons.wikimedia.org/w/index.php?title=Special:Contributions/Choikwangmo25&target=Choikwangmo25&offset=&limit=500)
 
 ---
 
