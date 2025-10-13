@@ -23,9 +23,8 @@ All materials are explicitly released into the **public domain** under the terms
 
 Below are entry-point documents you can begin with. Each link points to another page in this archive:
 
-* Chronological
-  - [2025](2025.md)
-* Project
+* [chronological](index_chronological.md)
+* project
   - [365safetown](365safetown.md)
 
 ---
@@ -50,7 +49,6 @@ For details, see:
 
 - Personal site (Imweb): [https://choikwangmo.imweb.me/](https://choikwangmo.imweb.me/)
 - Naver Blog: [https://blog.naver.com/choikwangmo9](https://blog.naver.com/choikwangmo9)
-- Firefighter Photo (Imweb): [https://firefighterphoto.imweb.me/](https://firefighterphoto.imweb.me/)
 - Resume (Obsidian Publish): [https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume](https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume)
 - goedelescherbachandriemann: [https://goedelescherbachandriemann.com](https://goedelescherbachandriemann.com/)
 - ko.wikipedia.org: [https://ko.wikipedia.org/wiki/Special:Contributions/Choikwangmo25](https://ko.wikipedia.org/wiki/Special:Contributions/Choikwangmo25)
