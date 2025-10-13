@@ -57,9 +57,7 @@ For details, see:
 
 ## Contacts
 
-- Email (work): choekwangmo@korea.kr
-- Email (work): choikwangmo@goedelescherbachandriemann.com
-- Email (private): choekm24@gmail.com
+- Email : choikwangmo@goedelescherbachandriemann.com
 - Cell: +821065719726
 
 ---
