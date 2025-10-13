@@ -140,3 +140,6 @@
 [[분류:1966년 출생]]
 [[분류:살아있는 사람]]
 ```
+
+## 메타데이터
+* [20251013_wikipedia_diplomat_parkyongmin_metadata.md](20251013_wikipedia_diplomat_parkyongmin_metadata.md)
