@@ -1,0 +1,6 @@
+title: Cho Kwang-mo — Global Open Archive
+theme: jekyll-theme-primer
+markdown: kramdown
+github: { is_project_page: false }
+plugins:
+  - jekyll-seo-tag
