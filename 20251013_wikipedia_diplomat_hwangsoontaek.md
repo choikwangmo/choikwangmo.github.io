@@ -3,4 +3,4 @@
 
 ## 자료
 * [황순택 위키백과 문서](https://w.wiki/FfHE)
-* [20251013_wikipedia_diplomat_hwangsoontaek_metadata.md](20251013_wikipedia_diplomat_hwangsoontaek_metadata.md)
+* [황순택 메타데이터](20251013_wikipedia_diplomat_hwangsoontaek_metadata.md)
