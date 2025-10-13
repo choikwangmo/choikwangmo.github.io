@@ -24,8 +24,7 @@ All materials are explicitly released into the **public domain** under the terms
 Below are entry-point documents you can begin with. Each link points to another page in this archive:
 
 * [chronological](index_chronological.md)
-* project
-  - [365safetown](365safetown.md)
+* [project](index_project.md)
 
 ---
 
