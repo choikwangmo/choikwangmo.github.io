@@ -1,5 +1,4 @@
-* 영수증
-  * [Originals - Notion](https://www.notion.so/choikwangmo/receipt-284e866efd4580729aefcbafd36e4f1b?source=copy_link)
+* [영수증 원본](https://www.notion.so/choikwangmo/receipt-284e866efd4580729aefcbafd36e4f1b?source=copy_link)
 
 ---
 
