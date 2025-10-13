@@ -57,3 +57,11 @@ exclude:
 safe: false
 future: false
 lsi: false
+
+# Liquid 파서 무시 (위키 문법 보호)
+kramdown:
+  input: GFM
+  parse_block_html: true
+
+liquid:
+  error_mode: lax
