@@ -6,3 +6,5 @@ markdown: kramdown
 github: { is_project_page: false }
 plugins:
   - jekyll-seo-tag
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+relative_permalinks: false
