@@ -1,5 +1,7 @@
 title: Cho Kwang-mo — Global Open Archive
-theme: jekyll-theme-primer
+description: >
+  Global open archive of public officials, diplomats, and fire officers by Cho Kwang-mo.
+theme: jekyll-theme-minimal
 markdown: kramdown
 github: { is_project_page: false }
 plugins:
