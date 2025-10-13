@@ -47,9 +47,9 @@ For details, see:
 
 ## Homepages
 
-- Personal site (Imweb): [https://choikwangmo.imweb.me/](https://choikwangmo.imweb.me/)
-- Naver Blog: [https://blog.naver.com/choikwangmo9](https://blog.naver.com/choikwangmo9)
-- Resume (Obsidian Publish): [https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume](https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume)
+- goedelescherbachandriemann: [https://www.goedelescherbachandriemann.com/](https://www.goedelescherbachandriemann.com)
+- naverblog: [https://blog.naver.com/choikwangmo9](https://blog.naver.com/choikwangmo9)
+- resume (Obsidian Publish): [https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume](https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume)
 
 ---
 
