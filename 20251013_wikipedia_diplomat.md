@@ -130,7 +130,7 @@ K-Diplomat Wiki Project는
 
 ---
 
-문의: choekwangmo@korea.kr (최광모)
+문의: choekwangmo@korea.kr (태백시 365세이프타운 소방안전체험관장 최광모)
 
 ---
 
