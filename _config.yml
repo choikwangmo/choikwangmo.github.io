@@ -1,10 +1,56 @@
 title: Cho Kwang-mo — Global Open Archive
 description: >
   Global open archive of public officials, diplomats, and fire officers by Cho Kwang-mo.
+
+# 🌐 Theme & Markdown Engine
 theme: jekyll-theme-minimal
 markdown: kramdown
+
+# 🧩 GitHub Pages Metadata Safe Mode
 github: { is_project_page: false }
+
+# 🔌 Plugins (for SEO + feed)
 plugins:
   - jekyll-seo-tag
+
+# 🧠 Markdown extensions recognized by Jekyll
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-relative_permalinks: false
+
+# 🚀 URL / Permalink behavior
+# 이 설정이 핵심: 모든 .md 파일을 .html로 자동 변환하고,
+# 내부 링크(예: [2025.md])도 자동으로 .html 페이지로 연결되게 함
+permalink: /:basename:output_ext
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      permalink: /:basename:output_ext
+
+# 🧱 Kramdown (Markdown processor) 설정
+kramdown:
+  input: GFM        # GitHub Flavored Markdown
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# 🔎 SEO 기본 메타데이터 (jekyll-seo-tag용)
+seo:
+  type: Website
+  name: Cho Kwang-mo — Global Open Archive
+  author: Cho Kwang-mo
+  locale: "ko_KR"
+  twitter_card: summary_large_image
+  og_image: /assets/og_image.png
+
+# 🧭 Navigation (선택 사항, 상단 메뉴)
+# 원하시면 여기에 고정 메뉴 추가 가능
+# nav_links:
+#   - title: "Index"
+#     url: /index.html
+#   - title: "Projects"
+#     url: /index_project.html
+#   - title: "Chronological"
+#     url: /index_chronological.html
+#   - title: "Wikipedia"
+#     url: /index_wikipedia.html
