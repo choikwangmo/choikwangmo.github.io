@@ -18,24 +18,28 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Ruby
+      - name: 🧰 Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
+          bundler-cache: true  # 자동으로 bundle install + 캐싱
 
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: |
-          gem install bundler jekyll
+          bundle install
+          echo "✅ Dependencies installed"
 
-      - name: Build with Jekyll
+      - name: 🏗️ Build site with Jekyll
         run: |
-          jekyll build -d ./_site
+          bundle exec jekyll build -d ./_site
+          echo "✅ Jekyll build completed"
 
-      - name: Upload artifact
+      - name: 📤 Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
@@ -46,7 +50,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+
     steps:
-      - name: Deploy to GitHub Pages
+      - name: 🚀 Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
