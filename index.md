@@ -49,7 +49,7 @@ For details, see:
 
 - goedelescherbachandriemann: [https://www.goedelescherbachandriemann.com/](https://www.goedelescherbachandriemann.com)
 - naverblog: [https://blog.naver.com/choikwangmo9](https://blog.naver.com/choikwangmo9)
-- resume (Obsidian Publish): [https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume](https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume)
+- resume: [https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume](https://publish.obsidian.md/choikwangmo/GEBaR/2025/md/choikwangmo_resume)
 
 ---
 
