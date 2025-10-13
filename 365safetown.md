@@ -90,9 +90,9 @@ A Study on the Circulative Consumption Mechanism in Post-Industrial Regional Eco
 | 폴더 | 설명 |
 |------|------|
 | `/analysis/` | [분석 자료](365safetown_analysis.md) |
-| `/reference/` | [문헌 자료](365safetown_reference.md) |
 | `/blog/` | [블로그](365safetown_blog.md) |
 | `/receipt/` | [아카이브](365safetown_receipt.md) |
+| `/reference/` | [문헌 자료](365safetown_reference.md) |
 
 ---
 
