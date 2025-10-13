@@ -121,3 +121,4 @@
 ```
 
 ## 메타데이터
+* [20251013_wikipedia_diplomat_hwangsoontaek_metadata.md](20251013_wikipedia_diplomat_hwangsoontaek_metadata.md)
