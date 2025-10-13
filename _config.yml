@@ -1,4 +1,5 @@
-# _config.yml — minima 다크 테마 (GitHub Pages v232 / Jekyll 3.10.x 호환)
+# _config.yml — choikwangmo.github.io (GitHub Pages 완전 호환 안정판)
+# 2025-10 업데이트: Liquid 오류 제거 + GitHub Pages 공식 minimal 테마 적용
 
 # --- 사이트 정보 ---
 title: "choikwangmo"
@@ -8,16 +9,15 @@ baseurl: ""
 timezone: "Asia/Seoul"
 locale: "ko_KR"
 
-# --- 테마 (내장 테마 사용: remote_theme 제거) ---
-theme: minima
+# --- 테마 (GitHub Pages 공식 테마: minimal) ---
+remote_theme: pages-themes/minimal@v0.2.0
 
-# --- minima 옵션 ---
-minima:
-  skin: dark              # classic / dark / solarized-light / solarized-dark / auto
-  date_format: "%Y-%m-%d"
-  # 상단 메뉴에 페이지를 노출하려면 주석 해제
-  # header_pages:
-  #   - 2025.md
+# --- 플러그인 (GitHub Pages 허용 목록 전부) ---
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # --- 마크다운 / 퍼머링크 ---
 markdown: kramdown
@@ -27,19 +27,13 @@ kramdown:
   parse_block_html: true
 permalink: pretty
 
-# --- 플러그인 (GitHub Pages 허용 목록만) ---
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-# --- 기본값 ---
+# --- 기본값 (프런트매터 최소화용) ---
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: "default"
   - scope:
       path: ""
       type: "posts"
@@ -62,6 +56,6 @@ safe: false
 future: false
 lsi: false
 
-# --- Liquid 오류를 경고로 완화 ---
+# --- Liquid 파서 오류 무시 설정 ---
 liquid:
   error_mode: lax
