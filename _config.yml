@@ -1,27 +1,23 @@
-# _config.yml — minima 다크 테마 안정판
+# _config.yml — minima 다크 테마 (GitHub Pages v232 / Jekyll 3.10.x 호환)
 
 # --- 사이트 정보 ---
 title: "choikwangmo"
-description: 최광모
+description: "최광모"
 url: "https://choikwangmo.github.io"
 baseurl: ""
 timezone: "Asia/Seoul"
 locale: "ko_KR"
 
-# --- 테마 (다크 스킨 가능) ---
-remote_theme: jekyll/minima@3.0
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# --- 테마 (내장 테마 사용: remote_theme 제거) ---
+theme: minima
 
 # --- minima 옵션 ---
 minima:
-  skin: dark                 # classic / dark / solarized-light / solarized-dark / auto
+  skin: dark              # classic / dark / solarized-light / solarized-dark / auto
   date_format: "%Y-%m-%d"
-  header_pages:
-    - 2025.md                # 필요 없으면 이 줄 삭제
+  # 상단 메뉴에 페이지를 노출하려면 주석 해제
+  # header_pages:
+  #   - 2025.md
 
 # --- 마크다운 / 퍼머링크 ---
 markdown: kramdown
@@ -30,6 +26,12 @@ kramdown:
   hard_wrap: false
   parse_block_html: true
 permalink: pretty
+
+# --- 플러그인 (GitHub Pages 허용 목록만) ---
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # --- 기본값 ---
 defaults:
@@ -60,6 +62,6 @@ safe: false
 future: false
 lsi: false
 
-# --- Liquid 오류를 경고로 다운그레이드 ---
+# --- Liquid 오류를 경고로 완화 ---
 liquid:
   error_mode: lax
