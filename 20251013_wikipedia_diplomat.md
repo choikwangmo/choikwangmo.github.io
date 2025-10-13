@@ -140,5 +140,5 @@ K-Diplomat Wiki Project는
 공식적으로 확인된 공신력 있는 자료(보도자료, 공문, 공식 발언문 등)를 제공하고자 하는 경우,  
 아래 연락처로 자료를 보내주시기 바랍니다.  
 
-문의: choekwangmo@korea.kr  
+문의: choikwangmo@goedelescherbachandriemann.com
 (태백시 365세이프타운 소방안전체험관장 최광모)
