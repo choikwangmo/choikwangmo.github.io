@@ -23,9 +23,7 @@ All materials are explicitly released into the **public domain** under the terms
 
 Below are entry-point documents you can begin with. Each link points to another page in this archive:
 
-* [chronological](index_chronological.md)
-* [project](index_project.md)
-* [wikipedia](index_wikipedia.md)
+* [2025](2025/2025.md)
 
 ---
 
