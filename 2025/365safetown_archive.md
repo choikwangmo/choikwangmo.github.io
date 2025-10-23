@@ -1,4 +1,6 @@
 * [20251004_ldsmissionaries](https://www.notion.so/choikwangmo/20251004_ldsmissionaries-284e866efd4580b69aeac7610f23f920?source=copy_link)
+* [20251004_receipt](https://www.notion.so/choikwangmo/20251004_receipt-284e866efd45806c8c9fc21fb3c3d299?source=copy_link)
+* [20251009_receipt](https://www.notion.so/choikwangmo/20251009_receipt-286e866efd4580f39c1fd54dcc402a12?source=copy_link)
 
 ---
 
