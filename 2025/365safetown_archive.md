@@ -1,4 +1,4 @@
-* 
+* [20251004_ldsmissionaries](https://www.notion.so/choikwangmo/20251004_ldsmissionaries-284e866efd4580b69aeac7610f23f920?source=copy_link)
 
 ---
 
