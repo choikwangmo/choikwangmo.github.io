@@ -1,5 +1,4 @@
-* [영수증 원본](https://www.notion.so/choikwangmo/receipt-284e866efd4580729aefcbafd36e4f1b?source=copy_link)
-* [방문객 로그](https://www.notion.so/choikwangmo/guest-284e866efd4580f1a5d4c930eb4ea6fe?source=copy_link)
+* 
 
 ---
 
