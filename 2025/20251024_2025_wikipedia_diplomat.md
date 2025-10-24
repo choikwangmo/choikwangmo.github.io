@@ -5,7 +5,7 @@
 | 3 | 아주 | 대사관 | 주동티모르대한민국대사관 | [신만택 대사](https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%A7%8C%ED%83%9D) |
 | 4 | 아주 | 대사관 | 주라오스대한민국대사관 | [정영수 대사](https://ko.wikipedia.org/wiki/%EC%A0%95%EC%98%81%EC%88%98_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
 | 5 | 아주 | 대사관 | 주말레이시아대한민국대사관 | [여승배 대사](https://ko.wikipedia.org/wiki/%EC%97%AC%EC%8A%B9%EB%B0%B0) |
-| 6 | 아주 | 대사관 | 주몽골대한민국대사관 | 최진원 대사 |
+| 6 | 아주 | 대사관 | 주몽골대한민국대사관 | [최진원 대사](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%A7%84%EC%9B%90_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 7 | 아주 | 대사관 | 주미얀마대한민국대사관 | [배병수 대사대리](https://ko.wikipedia.org/wiki/%EB%B0%B0%EB%B3%91%EC%88%98_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 8 | 아주 | 대사관 | 주방글라데시대한민국대사관 | [박영식 대사](https://ko.wikipedia.org/wiki/%EB%B0%95%EC%98%81%EC%8B%9D_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
 | 9 | 아주 | 대사관 | 주베트남대한민국대사관 | 최영삼 대사 |
