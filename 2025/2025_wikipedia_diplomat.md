@@ -19,14 +19,14 @@
 | 17 | 아주 | 대사관 | 주중국대한민국대사관 | [노재헌 대사](https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9E%AC%ED%97%8C) |
 | 18 | 아주 | 대사관 | 주캄보디아대한민국대사관 | [김현수 대사대리](https://ko.wikipedia.org/wiki/%EA%B9%80%ED%98%84%EC%88%98_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 19 | 아주 | 대사관 | 주태국대한민국대사관 | [박용민 대사](https://ko.wikipedia.org/wiki/%EB%B0%95%EC%9A%A9%EB%AF%BC_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
-| 20 | 아주 | 대사관 | 주파키스탄대한민국대사관 | 박재락 대사대리 |
-| 21 | 아주 | 대사관 | 주파푸아뉴기니대한민국대사관 | 최종호 대사 |
-| 22 | 아주 | 대사관 | 주피지대한민국대사관 | 김명준 대사대리 |
+| 20 | 아주 | 대사관 | 주파키스탄대한민국대사관 | [박재락 대사대리](https://ko.wikipedia.org/wiki/%EB%B0%95%EC%9E%AC%EB%9D%BD) |
+| 21 | 아주 | 대사관 | 주파푸아뉴기니대한민국대사관 | [최종호 대사](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%A2%85%ED%98%B8_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
+| 22 | 아주 | 대사관 | 주피지대한민국대사관 | [김명준 대사대리](https://ko.wikipedia.org/wiki/%EA%B9%80%EB%AA%85%EC%A4%80_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 23 | 아주 | 대사관 | 주필리핀대한민국대사관 | [이상화 대사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%81%ED%99%94_%281968%EB%85%84%29) |
 | 24 | 아주 | 대사관 | 주호주대한민국대사관 | [심승섭 대사](https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%8A%B9%EC%84%AD) |
 | 25 | 아주 | 총영사관 | 주광저우대한민국총영사관 | [황순택 총영사](https://ko.wikipedia.org/wiki/%ED%99%A9%EC%88%9C%ED%83%9D_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
 | 26 | 아주 | 총영사관 | 주상하이대한민국총영사관 | [김영준 총영사](https://ko.wikipedia.org/wiki/%EA%B9%80%EC%98%81%EC%A4%80_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
-| 27 | 아주 | 총영사관 | 주선양대한민국총영사관 | 총영사(공석) |
+| 27 | 아주 | 총영사관 | 주선양대한민국총영사관 | [최희덕 총영사](https://ko.wikipedia.org/wiki/%EC%B5%9C%ED%9D%AC%EB%8D%95) |
 | 28 | 아주 | 총영사관 | 주시안대한민국총영사관 | [홍순창 총영사](https://ko.wikipedia.org/wiki/%ED%99%8D%EC%88%9C%EC%B0%BD_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 29 | 아주 | 총영사관 | 주우한대한민국총영사관 | 하성주 총영사 |
 | 30 | 아주 | 총영사관 | 주청두대한민국총영사관 | 엄원재 총영사 |
