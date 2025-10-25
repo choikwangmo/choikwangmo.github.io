@@ -12,7 +12,7 @@
 | 10 | 아주 | 대사관 | 주브루나이대한민국대사관 | [선남국 대사](https://ko.wikipedia.org/wiki/%EC%84%A0%EB%82%A8%EA%B5%AD) |
 | 11 | 아주 | 대사관 | 주스리랑카대한민국대사관 | [이미연 대사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AF%B8%EC%97%B0_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 12 | 아주 | 대사관 | 주싱가포르대한민국대사관 | [홍진욱 대사](https://ko.wikipedia.org/wiki/%ED%99%8D%EC%A7%84%EC%9A%B1_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
-| 13 | 아주 | 대사관 | 주아프가니스탄대한민국대사관 | 문성환 대사대리 |
+| 13 | 아주 | 대사관 | 주아프가니스탄대한민국대사관 | [문성환 대사대리](https://ko.wikipedia.org/wiki/%EB%AC%B8%EC%84%B1%ED%99%98) |
 | 14 | 아주 | 대사관 | 주인도대한민국대사관 | [이성호 대사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%84%B1%ED%98%B8_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
 | 15 | 아주 | 대사관 | 주인도네시아대한민국대사관 | [박수덕 대사대리](https://ko.wikipedia.org/wiki/%EB%B0%95%EC%88%98%EB%8D%95_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 16 | 아주 | 대사관 | 주일본대한민국대사관 | 이혁 대사 |
