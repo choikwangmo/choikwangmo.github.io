@@ -37,7 +37,7 @@
 | 35 | 아주 | 총영사관 | 주니가타대한민국총영사관 | [홍인영 부총영사 직무대행](https://ko.wikipedia.org/wiki/%ED%99%8D%EC%9D%B8%EC%98%81_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 36 | 아주 | 총영사관 | 주삿포로대한민국총영사관 | [연현식 총영사](https://ko.wikipedia.org/wiki/%EC%97%B0%ED%98%84%EC%8B%9D) |
 | 37 | 아주 | 총영사관 | 주센다이대한민국총영사관 | [김요섭 총영사](https://ko.wikipedia.org/wiki/%EA%B9%80%EC%9A%94%EC%84%AD_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
-| 38 | 아주 | 총영사관 | 주오사카대한민국총영사관 | 이지훈 총영사대리 |
+| 38 | 아주 | 총영사관 | 주오사카대한민국총영사관 | [이지훈 총영사대리](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%80%ED%9B%88_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 39 | 아주 | 총영사관 | 주요코하마대한민국총영사관 | [남상규 부총영사 직무대행](https://ko.wikipedia.org/wiki/%EB%82%A8%EC%83%81%EA%B7%9C_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 40 | 아주 | 총영사관 | 주후쿠오카대한민국총영사관 | [박건찬 총영사](https://ko.wikipedia.org/wiki/%EB%B0%95%EA%B1%B4%EC%B0%AC) |
 | 41 | 아주 | 총영사관 | 주히로시마대한민국총영사관 | 강호증 총영사 |
