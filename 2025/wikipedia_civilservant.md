@@ -16,7 +16,7 @@ K-Public Official Wiki Project는 대한민국의 **1급 이상 고위공무원*
 이때 GPT는 👉 **한국어 위키백과 문서를 우선적으로 찾아 읽고**, 영어 등 다국어로 **번역·요약하여 답변**합니다.  
 
 즉,  
-> 해외 시민이 “Who is \[Korean senior civil servant\]?”라고 물으면  
+> 해외 시민이 “Who is the head of national police agency of republic of korea?”라고 물으면  
 > GPT는 **한국어 위키백과**에 기반해 영어로 답하는 구조입니다.
 
 따라서, **한국어 위키백과의 품질과 정확도**는 곧 **대한민국 행정에 대한 국제적 신뢰도**와 직결됩니다. 이 프로젝트는 바로 그 핵심 지점을 다루는  
