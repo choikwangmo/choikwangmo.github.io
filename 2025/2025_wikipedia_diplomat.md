@@ -56,7 +56,7 @@
 | 54 | 미주 | 대사관 | 주볼리비아대한민국대사관 | 이장 대사 |
 | 55 | 미주 | 대사관 | 주브라질대한민국대사관 | 최영한 대사 |
 | 56 | 미주 | 대사관 | 주아르헨티나대한민국대사관 | [이용수 대사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9A%A9%EC%88%98_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
-| 57 | 미주 | 대사관 | 주에콰도르대한민국대사관 | 심재현 대사 |
+| 57 | 미주 | 대사관 | 주에콰도르대한민국대사관 | [심재현 대사](https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%9E%AC%ED%98%84_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 58 | 미주 | 대사관 | 주엘살바도르대한민국대사관 | [곽태열 대사](https://ko.wikipedia.org/wiki/%EA%B3%BD%ED%83%9C%EC%97%B4) |
 | 59 | 미주 | 대사관 | 주온두라스대한민국대사관 | [성문업 대사](https://ko.wikipedia.org/wiki/%EC%A3%BC%EC%98%A8%EB%91%90%EB%9D%BC%EC%8A%A4_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%8C%80%EC%82%AC%EA%B4%80) |
 | 60 | 미주 | 대사관 | 주우루과이대한민국대사관 | [노원일 대사](https://ko.wikipedia.org/wiki/%EB%85%B8%EC%9B%90%EC%9D%BC) |
