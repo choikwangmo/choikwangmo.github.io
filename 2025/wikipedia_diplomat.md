@@ -16,7 +16,7 @@ K-Diplomat Wiki Project는 대한민국의 고위 외교관들을 위키백과(W
 그런데 이때 GPT는 👉 한국어 위키백과 문서를 자동으로 찾아 읽고, 영어로 번역·요약하여 답변합니다.  
 
 즉,  
-> 해외 시민이 “Who is [Korean diplomat]?”라고 물으면  
+> 해외 시민이 “Who is the current Ambassador of the Republic of Korea to Venezuela?”라고 ChatGPT에게 물으면  
 > GPT는 한국어 위키백과에 기반해 영어로 답하는 구조입니다.
 
 따라서, 한국어 위키백과의 품질과 정확도는 곧 한국 외교의 국제적 신뢰도와 직결됩니다. 이 프로젝트는 바로 그 핵심 지점을 다루는  
