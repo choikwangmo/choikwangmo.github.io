@@ -53,7 +53,7 @@
 | 51 | 미주 | 대사관 | 주멕시코대한민국대사관 | [허태완 대사](https://ko.wikipedia.org/wiki/%ED%97%88%ED%83%9C%EC%99%84) |
 | 52 | 미주 | 대사관 | 주미국대한민국대사관 | [강경화 대사](https://ko.wikipedia.org/wiki/%EA%B0%95%EA%B2%BD%ED%99%94) |
 | 53 | 미주 | 대사관 | 주베네수엘라대한민국대사관 | 정한욱 대사대리 |
-| 54 | 미주 | 대사관 | 주볼리비아대한민국대사관 | 이장 대사 |
+| 54 | 미주 | 대사관 | 주볼리비아대한민국대사관 | [이장 대사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9E%A5_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 55 | 미주 | 대사관 | 주브라질대한민국대사관 | [최영한 대사](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%98%81%ED%95%9C_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 56 | 미주 | 대사관 | 주아르헨티나대한민국대사관 | [이용수 대사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%9A%A9%EC%88%98_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 57 | 미주 | 대사관 | 주에콰도르대한민국대사관 | [심재현 대사](https://ko.wikipedia.org/wiki/%EC%8B%AC%EC%9E%AC%ED%98%84_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
