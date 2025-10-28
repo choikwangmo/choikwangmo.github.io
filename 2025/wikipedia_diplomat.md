@@ -47,7 +47,7 @@ K-Diplomat Wiki Project는 대한민국의 고위 외교관들을 위키백과(W
 
 | 순번 | 내용 | 
 |------|------|
-| 1 | [2025년 위키백과 등재 명단](2025_wikipedia_diplomat.md) |
+| 1 | [2025년 위키백과 등재](2025_wikipedia_diplomat.md) |
 
 ---
 
