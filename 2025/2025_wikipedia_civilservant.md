@@ -5,3 +5,4 @@
 | 3 | 세무직 | 인천본부세관장 | [최능하](https://ko.wikipedia.org/wiki/%EC%B5%9C%EB%8A%A5%ED%95%98) | 2025-10-28 |
 | 4 | 세무직 | 제55대 부산본부세관장 | [장웅요](https://ko.wikipedia.org/wiki/%EC%9E%A5%EC%9B%85%EC%9A%94) | 2025-10-29 |
 | 5 | 국토교통 | 한국공항공사 부사장 | [이정기](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A0%95%EA%B8%B0_(%EA%B3%B5%EB%AC%B4%EC%9B%90)) | 2025-10-29 |
+| 6 | 국세청 | 제28대 중부지방국세청장 | [이승수](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%B9%EC%88%98_(%EA%B3%B5%EB%AC%B4%EC%9B%90)) | 2025-10-30 |
