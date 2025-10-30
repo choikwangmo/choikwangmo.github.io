@@ -7,3 +7,4 @@
 | 5 | 국토교통 | 한국공항공사 부사장 | [이정기](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A0%95%EA%B8%B0_(%EA%B3%B5%EB%AC%B4%EC%9B%90)) | 2025-10-29 |
 | 6 | 국세청 | 제28대 중부지방국세청장 | [이승수](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%B9%EC%88%98_(%EA%B3%B5%EB%AC%B4%EC%9B%90)) | 2025-10-30 |
 | 7 | 재경직 | 기획재정부 재정관리관(차관보) | [안상열](https://ko.wikipedia.org/wiki/%EC%95%88%EC%83%81%EC%97%B4) | 2025-10-31 |
+| 8 | 재경직 | 기획재정부 국제경제관리관(차관보)| [최지영](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%A7%80%EC%98%81_(%EA%B3%B5%EB%AC%B4%EC%9B%90)) | 2025-10-31 |
