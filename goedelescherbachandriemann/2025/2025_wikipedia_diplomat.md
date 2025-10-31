@@ -156,7 +156,7 @@
 | 154 | 중동 | 총영사관 | 주두바이대한민국총영사관 | [이범찬 총영사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%B2%94%EC%B0%AC_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 155 | 중동 | 총영사관 | 주젯다대한민국총영사관 | [우홍구 총영사](https://ko.wikipedia.org/wiki/%EC%9A%B0%ED%99%8D%EA%B5%AC_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 156 | 아프리카 | 대사관 | 주가나대한민국대사관 | [박경식 대사](https://ko.wikipedia.org/wiki/%EB%B0%95%EA%B2%BD%EC%8B%9D_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
-| 157 | 아프리카 | 대사관 | 주가봉대한민국대사관 | 신송범 대사 |
+| 157 | 아프리카 | 대사관 | 주가봉대한민국대사관 | [신송범 대사](https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%86%A1%EB%B2%94) |
 | 158 | 아프리카 | 대사관 | 주나이지리아대한민국대사관 | [김판규 대사](https://ko.wikipedia.org/wiki/%EA%B9%80%ED%8C%90%EA%B7%9C_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 159 | 아프리카 | 대사관 | 주남아프리카공화국대한민국대사관 | [양동한 대사](https://ko.wikipedia.org/wiki/%EC%96%91%EB%8F%99%ED%95%9C) |
 | 160 | 아프리카 | 대사관 | 주르완다대한민국대사관 | [정우진 대사](https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9A%B0%EC%A7%84_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
