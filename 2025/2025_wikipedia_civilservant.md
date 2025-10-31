@@ -9,3 +9,4 @@
 | 7 | 재경직 | 기획재정부 재정관리관(차관보) | [안상열](https://ko.wikipedia.org/wiki/%EC%95%88%EC%83%81%EC%97%B4) | 2025-10-31 |
 | 8 | 재경직 | 기획재정부 국제경제관리관(차관보)| [최지영](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%A7%80%EC%98%81_(%EA%B3%B5%EB%AC%B4%EC%9B%90)) | 2025-10-31 |
 | 9 | 금융위 |  금융위원회 부위원장(차관급) 겸 증권선물위원회 위원장 | [권대영](https://ko.wikipedia.org/wiki/%EA%B6%8C%EB%8C%80%EC%98%81) | 2025-10-31 |
+| 10 | 재경직 |  아시아개발은행(ADB) 대외협력총괄 최고책임자 | [김성욱](https://ko.wikipedia.org/wiki/%EA%B9%80%EC%84%B1%EC%9A%B1_(%EA%B3%B5%EB%AC%B4%EC%9B%90)) | 2025-10-31 |
