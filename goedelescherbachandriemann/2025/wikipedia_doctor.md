@@ -71,7 +71,7 @@ K-MedDoctor Wiki Project는 바로 그 핵심을 다루는
 
 | 순번 | 내용 |
 |------|------|
-| 1 | [2025년 의사 위키백과 등재 목록](2025_wikipedia_doctors.md) |
+| 1 | [2025년 위키백과 등재 완료](2025_wikipedia_doctor.md) |
 
 ---
 
