@@ -6,3 +6,4 @@
 | 4 | [프리모아](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A6%AC%EB%AA%A8%EC%95%84) | 한경원 | 2025-10-31 |
 | 5 | 설윤형 | [설윤형](https://ko.wikipedia.org/wiki/%EC%84%A4%EC%9C%A4%ED%98%95) | 2025-10-31 |
 | 6 | KAIST Center for Brain Somatic Mutations | [이정호](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A0%95%ED%98%B8_(%EA%B5%90%EC%88%98)) | 2025-10-31 |
+| 7 | [퀸 길레스피 앤드 어소시에이츠](https://ko.wikipedia.org/wiki/%ED%80%B8_%EA%B8%B8%EB%A0%88%EC%8A%A4%ED%94%BC_%EC%95%A4%EB%93%9C_%EC%96%B4%EC%86%8C%EC%8B%9C%EC%97%90%EC%9D%B4%EC%B8%A0) | [제프 커노턴](https://ko.wikipedia.org/wiki/%EC%A0%9C%ED%94%84_%EC%BB%A4%EB%85%B8%ED%84%B4) | 2025-11-01 |
