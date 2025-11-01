@@ -76,7 +76,7 @@
 | 74 | 미주 | 총영사관 | 주시애틀대한민국총영사관 | [서은지 총영사](https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9D%80%EC%A7%80) |
 | 75 | 미주 | 총영사관 | 주시카고대한민국총영사관 | [김정한 총영사](https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A0%95%ED%95%9C_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 76 | 미주 | 총영사관 | 주애틀랜타대한민국총영사관 | [서상표 총영사](https://ko.wikipedia.org/wiki/%EC%84%9C%EC%83%81%ED%91%9C) |
-| 77 | 미주 | 총영사관 | 주호놀룰루대한민국총영사관 | 이서영 총영사 |
+| 77 | 미주 | 총영사관 | 주호놀룰루대한민국총영사관 | [이서영 총영사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%84%9C%EC%98%81_(%EA%B5%B0%EC%9D%B8)) |
 | 78 | 미주 | 총영사관 | 주휴스턴대한민국총영사관 | [정영호 총영사](https://ko.wikipedia.org/wiki/%EC%A0%95%EC%98%81%ED%98%B8_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 79 | 미주 | 총영사관 | 주몬트리올대한민국총영사관 | [강민구 부총영사(직무대리)](https://ko.wikipedia.org/wiki/%EA%B0%95%EB%AF%BC%EA%B5%AC_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 80 | 미주 | 총영사관 | 주밴쿠버대한민국총영사관 | [견종호 총영사](https://ko.wikipedia.org/wiki/%EA%B2%AC%EC%A2%85%ED%98%B8) |
