@@ -9,3 +9,4 @@
 | 7 | [퀸 길레스피 앤드 어소시에이츠](https://ko.wikipedia.org/wiki/%ED%80%B8_%EA%B8%B8%EB%A0%88%EC%8A%A4%ED%94%BC_%EC%95%A4%EB%93%9C_%EC%96%B4%EC%86%8C%EC%8B%9C%EC%97%90%EC%9D%B4%EC%B8%A0) | [제프 커노턴](https://ko.wikipedia.org/wiki/%EC%A0%9C%ED%94%84_%EC%BB%A4%EB%85%B8%ED%84%B4) | 2025-11-01 |
 | 8 | [트웰브랩스](https://ko.wikipedia.org/wiki/%ED%8A%B8%EC%9B%B0%EB%B8%8C%EB%9E%A9%EC%8A%A4) | [이승준](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%B9%EC%A4%80_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9E%90)) | 2025-11-01 |
 | 9 | 삼성글로벌리서치센터 | [김원준](https://ko.wikipedia.org/wiki/%EA%B9%80%EC%9B%90%EC%A4%80_(%EA%B2%BD%EC%98%81%ED%95%99%EC%9E%90)) | 2025-11-01 |
+| 10 | [아마존 웹 서비스](https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4_%EC%9B%B9_%EC%84%9C%EB%B9%84%EC%8A%A4) | [맷 가먼](https://ko.wikipedia.org/wiki/%EB%A7%B7_%EA%B0%80%EB%A8%BC) | 2025-11-01 |
