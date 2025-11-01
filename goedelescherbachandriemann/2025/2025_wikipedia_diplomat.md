@@ -163,7 +163,7 @@
 | 161 | 아프리카 | 대사관 | 주마다가스카르대한민국대사관 | [손용호 대사](https://ko.wikipedia.org/wiki/%EC%86%90%EC%9A%A9%ED%98%B8) |
 | 162 | 아프리카 | 대사관 | 주모잠비크대한민국대사관 | [강복원 대사](https://ko.wikipedia.org/wiki/%EA%B0%95%EB%B3%B5%EC%9B%90) |
 | 163 | 아프리카 | 대사관 | 주세네갈대한민국대사관 | [권혁운 대사](https://ko.wikipedia.org/wiki/%EA%B6%8C%ED%98%81%EC%9A%B4) |
-| 164 | 아프리카 | 대사관 | 주수단대한민국대사관 | 이상정 대사 |
+| 164 | 아프리카 | 대사관 | 주수단대한민국대사관 | [이상정 대사](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%81%EC%A0%95_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 165 | 아프리카 | 대사관 | 주앙골라대한민국대사관 | [최광진 대사](https://ko.wikipedia.org/wiki/%EC%B5%9C%EA%B4%91%EC%A7%84) |
 | 166 | 아프리카 | 대사관 | 주에티오피아대한민국대사관 | [정강 대사](https://ko.wikipedia.org/wiki/%EC%A0%95%EA%B0%95_(%EC%99%B8%EA%B5%90%EA%B4%80)) |
 | 167 | 아프리카 | 대사관 | 주우간다대한민국대사관 | [박성수 대사](https://ko.wikipedia.org/wiki/%EB%B0%95%EC%84%B1%EC%88%98_%28%EC%99%B8%EA%B5%90%EA%B4%80%29) |
