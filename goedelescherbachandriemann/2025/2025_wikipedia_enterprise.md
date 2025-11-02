@@ -12,3 +12,4 @@
 | 10 | [아마존 웹 서비스](https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4_%EC%9B%B9_%EC%84%9C%EB%B9%84%EC%8A%A4) | [맷 가먼](https://ko.wikipedia.org/wiki/%EB%A7%B7_%EA%B0%80%EB%A8%BC) | 2025-11-01 |
 | 11 | [코딧](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%94%A7) | 정지은 | 2025-11-01 |
 | 12 | 액센츄어 | [이진](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%84_(%EA%B8%B0%EC%97%85%EC%9D%B8)) | 2025-11-02 |
+| 13 | 베인앤드컴퍼니 | [이성용](https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%84%B1%EC%9A%A9_(1962%EB%85%84)) | 2025-11-02 |
